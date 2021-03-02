@@ -1,0 +1,59 @@
+BEFORE YOU START MAKE SURE YOU HAVE
+CHOKO HACK v11.0.0 INSTALLED IN YOUR CHA
+
+Use a suitable tool to expand the first partition of the CHA to fit the Lakka system files. Around 500 MB is more than enough but LEAVE 1 MB UNALLOCATED at start of the disc;
+Copy the Lakka system files to the first partition of the CHA (KERNEL, SYSTEM and sun8i*);
+Run this script, that will install the necessary files for swapping between the original CHA menu and RetroArch (Lakka Linux).
+During the installation the CHA will reboot twice.
+
+Set a key/combo to call Quick Menu from games (input settings) or you won't be able to quit without forcing power off.
+
+
+v4.2
+Updated usb_exec.sh to comply with Choko Hack v11 unrestricted folder name.
+
+v4.1
+Detecting if running from SD card or eMMC when switching (instead of when installing/updating), to allow the use of the same *.img in eMMC or SD card.
+
+v4.0
+Installer remade to work with Choko Hack v10.
+Users can choose to use one or both buttons ([P2 I] and [P2 S]) to boot Lakka in 720p, 1080p or auto resolutions.
+Changed the name of the playlist used to return to CHA mode to "_Reboot to CHA_".
+
+v3.0d
+Small scripts optimizations.
+
+v3.0c
+Added support for assets in USB.
+(Under a folder named CHA_LAKKA in the root of pendrive with label CHOKO)
+
+v3.0b
+Detect where is system running and only install Lakka in same disk.
+
+v3.0a
+Faster and clean reboot from Lakka to CHA.
+
+v3.0
+With Choko Hack v9.1 and this installer, we now have a nice menu to choose at boot (when in CHA mode) and an option in RetroArch menus called bootCHA.
+No more holding a set of buttons during boot.
+
+v2.4
+Faster reboot when changing from stock CHA to Lakka.
+Pack file name change.
+
+v2.3
+Improved autoconfig for joysticks.
+
+v2.2
+Changed root password to Choko in Lakka.
+Minor logo cosmetic changes.
+
+v2.1
+Fixed install in SD card when eMMC and SD Card partitions have the same UUID.
+
+v2.0
+Support installation to SD Card (in systems with installed SD Card reader).
+Added some verifications to make the script more robust and flexible.
+
+v1.0
+Install Lakka in internal eMMC and expand filesystem to use all available space ( ~3 GB).
