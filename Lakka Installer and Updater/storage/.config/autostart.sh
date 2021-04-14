@@ -35,7 +35,7 @@ then
   [ "$BOOTDISK" = "mmcblk2" ] && echo -e "Partition fills eMMC." || echo -e "Partition fills SD card."
   echo -e "Free space: $(df -h /storage/ | tail -1 | awk '{print $4}')\n"
   COUNTDOWN=10
-  while [ $COUNTDOWN -gt 0 ]
+  while [ $COUNTDOWN -ge 0 ]
   do
     echo -ne "\rRebooting in $COUNTDOWN seconds... "
     COUNTDOWN=$((COUNTDOWN - 1))
