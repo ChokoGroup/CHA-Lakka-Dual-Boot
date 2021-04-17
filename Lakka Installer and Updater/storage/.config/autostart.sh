@@ -34,11 +34,11 @@ then
   resize2fs /dev/${BOOTDISK}p2
   [ "$BOOTDISK" = "mmcblk2" ] && echo -e "Partition fills eMMC." || echo -e "Partition fills SD card."
   echo -e "Free space: $(df -h /storage/ | tail -1 | awk '{print $4}')\n"
-  COUNTDOWN=10
-  while [ $COUNTDOWN -ge 0 ]
+  COUNTDOWN=11
+  while [ $COUNTDOWN -gt 0 ]
   do
-    echo -ne "\rRebooting in $COUNTDOWN seconds... "
     COUNTDOWN=$((COUNTDOWN - 1))
+    echo -ne "\rRebooting in $COUNTDOWN seconds... "
     sleep 1
   done
   echo -e "\rRebooting!                         "
