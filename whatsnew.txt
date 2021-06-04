@@ -1,13 +1,10 @@
-BEFORE YOU START MAKE SURE YOU HAVE
-CHOKO HACK v11.0.0 INSTALLED IN YOUR CHA
+BEFORE YOU START MAKE SURE YOU HAVE CHOKO HACK v12.0.0 INSTALLED IN YOUR CHA
 
-Use a suitable tool to expand the first partition of the CHA to fit the Lakka system files. Around 500 MB is more than enough but LEAVE 1 MB UNALLOCATED at start of the disc;
-Copy the Lakka system files to the first partition of the CHA (KERNEL, SYSTEM and sun8i*);
-Run this script, that will install the necessary files for swapping between the original CHA menu and RetroArch (Lakka Linux).
-During the installation the CHA will reboot twice.
 
-Set a key/combo to call Quick Menu from games (input settings) or you won't be able to quit without forcing power off.
-
+v4.3
+Updated installers (and added uninstallers) to comply with Choko Hack v12 unrestricted names and menu files.
+Added retroarch.cfg to "fix" the video glitches and lack of sound in latest nightly builds (v1.9.4).
+No longer /storage/roms links to /usr/share/roms to avoid Choko Hack v12 showing unwanted lists based in Lakka's playlists.
 
 v4.2
 Updated usb_exec.sh to comply with Choko Hack v11 unrestricted folder name.

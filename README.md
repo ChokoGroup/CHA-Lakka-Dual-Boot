@@ -1,6 +1,5 @@
-# CHA Lakka Installer and Updater v4.2 for Choko Hack v11
-Scripts and assets to use Lakka in Capcom Home Arcade
-either with or without SD card reader.
+# CHA Lakka Installer and Updater v4.3 for Choko Hack v12
+Scripts and assets to use Lakka in Capcom Home Arcade either with or without SD card reader.
 
 
 ### Highlights
@@ -28,13 +27,13 @@ This will allow to use all eMMC space or (if you're running from SD) all SD card
 
 ### Notes
 
-By default, the ROMs folder for RetroArch is the same of the original CHA, so you'll have 16 games to start with.
+By default, the ROMs folder for RetroArch is /storage/roms, but you can browse to /storage/usr/share/roms and play the official 16 games.
 
-Before playing games in RetroArch you should change the hotkey for RetroArch Quick Menu (in game menu) or you won't be able to exit a game without connecting a keyboard (or forcing power off). We suggest "Select (press 2 seconds)".
+The hotkey for RetroArch Quick Menu (in game menu) is set to "Select + Start".
 
 Any USB drive you plug when running RetroArch will be mounted under ROMs folder. If you have ROMs in that pen they will be accessible from RetroArch.
 
-When you set the WiFi in RetroArch it may show some error and won't connect. Just reboot and it will automatically connect to WiFi. 
+When you set the WiFi in RetroArch it may show some error and won't connect. Just try again or reboot and it will automatically connect to WiFi. 
 
 
 ### Choko Hack Extra Feature
@@ -42,7 +41,7 @@ When you set the WiFi in RetroArch it may show some error and won't connect. Jus
 Besides loading ROMs (and playlists, assets, configuration files, etc.) from eMMC/SD card, this installation can also load those files from USB.
 
 1. Label you pendisk "CHOKO" (exactly like that) and create a folder in the root named "CHA_LAKKA". The pendisk doesn't need to be empty, but must be formatted in FAT or EXT (the same as for running CHA games from USB).
-2. Create the following structure, where you will put the necessary files for playlists, icons, overlays, ROMs, etc.:
+2. Create the following structure (carefull, folders names are case sensitive), where you will put the necessary files for playlists, icons, overlays, ROMs, etc.:
 
 ```
 Folder PATH listing for volume CHOKO
