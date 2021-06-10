@@ -5,6 +5,7 @@ v4.3
 Updated installers (and added uninstallers) to comply with Choko Hack v12 unrestricted names and menu files.
 Added retroarch.cfg to "fix" the video glitches and lack of sound in latest nightly builds (v1.9.4).
 No longer /storage/roms links to /usr/share/roms to avoid Choko Hack v12 showing unwanted lists based in Lakka's playlists.
+New Choko Logo.
 
 v4.2
 Updated usb_exec.sh to comply with Choko Hack v11 unrestricted folder name.
