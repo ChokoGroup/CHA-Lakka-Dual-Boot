@@ -13,10 +13,12 @@ Scripts and assets to use Lakka in Capcom Home Arcade either with or without SD 
 
 ### How to Install
 
-The easy way:
-Extract and write the \*.img file stored in the folder 'CHA-Lakka dual boot img' to eMMC or a SD card using balenaEtcher.
+The easy way: 
 
-The hard way:
+Extract the \*.img file included in the latest release pack and write it to eMMC or a SD card using balenaEtcher, Win32 Disk Imager or HDD Raw Copy Tool.
+
+The hard way: 
+
 You'll find more detailled instructions with screenshots in the wiki, at https://cha-choko-mod.fandom.com/wiki/DUAL_BOOT_-_Installing_Lakka_in_the_CHA
 
 1. Use a suitable tool to expand the first partition of the CHA to fit the Lakka system files. Around 500 MB is more than enough but *LEAVE 1 MB UNALLOCATED at start of the disc*;
