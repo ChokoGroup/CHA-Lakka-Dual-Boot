@@ -1,0 +1,79 @@
+___ Ball and Paddle ___
+
+# Circus (circus)
+- Sample files included in system/mame2003-plus/samples.
+
+# Ghox (ghox)
+- Sample files included in system/mame2003-plus/samples to play with mame2003-plus core. Sound stutters with FB Neo core.
+
+# Monkey Magic (mmagic)
+- Samples in system/fbneo/samples
+
+# Puchi Carat (puchicar)
+- Slow ~38 FPS with skip frames 3 out of 4.
+
+# Straight Flush (sflush)
+- No sound exists, it's not a CHA problem.
+
+# The Block Kuzushi (tblkkuzu)
+- Very slow ~22 FPS with frameskip 4.
+
+# VS Block Breaker (vblokbrk)
+- Slow ~28 FPS with speed hack dipswitch.
+
+
+
+___ Driving ___
+
+# Change Lanes (changela)
+- Screen is rotated.
+
+# Suzuka 8 Hours 2 (suzuk8h2)
+- Buggy sprites in mame2003-plus. Very slow in mame2010.
+
+# Turbo Tag (turbotag)
+- Controls not fully working?
+
+# Turbo (turbo)
+- Samples in system/fbneo/samples
+
+# Wheels & Fire (wheelfir)
+- No sound.
+
+# Super Chase - Criminal Termination (superchs)
+- Very Slow ~29 FPS (set skip frame to automatic).
+
+# GP Rider (gprider)
+- Very slow ~31 FPS (set skip frame to automatic).
+
+# Racing Hero (rachero)
+- Very slow ~29 FPS (~42 with skip frames 3 out of 4).
+
+# Stadium Cross (scross)
+- Very slow ~32 FPS (~37 with frameskip 2).
+
+# Double Axle (dblaxle)
+- Very slow ~30 FPS (~53 FPS with skip frame automatic).
+
+# Ground Effects (groundfx)
+- Very slow ~33 FPS (with frameskip 2).
+
+# Racing Beat (racingb)
+- Very slow ~38 FPS (~46 FPS with frameskip 2).
+
+# Rough Racer (roughrac)
+- Very slow ~30 FPS (~53 FPS with skip frame automatic).
+
+# Dirt Fox (dirtfoxj)
+- Slow ~36 FPS (~46 FPS with skip frames 3 out of 4).
+
+# Hot Rod (hotrod)
+- Very slow ~30 FPS (~37 FPS with skip frame 4).
+
+# Laguna Racer (lagunar)
+- No sound.
+
+# Super Speed Race (sspeedr)
+- No sound; Score/time not visible in MAME 2003 plus; can't accelerate in MAME 2010.
+
+

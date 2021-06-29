@@ -1,4 +1,4 @@
-# CHA Lakka Installer and Updater v4.3 for Choko Hack v12
+# CHA Lakka Installer and Updater v4.3.1 for Choko Hack v12
 Scripts and assets to use Lakka in Capcom Home Arcade either with or without SD card reader.
 
 
@@ -13,6 +13,10 @@ Scripts and assets to use Lakka in Capcom Home Arcade either with or without SD 
 
 ### How to Install
 
+The easy way:
+Extract and write the \*.img file stored in the folder 'CHA-Lakka dual boot img' to eMMC or a SD card using balenaEtcher.
+
+The hard way:
 You'll find more detailled instructions with screenshots in the wiki, at https://cha-choko-mod.fandom.com/wiki/DUAL_BOOT_-_Installing_Lakka_in_the_CHA
 
 1. Use a suitable tool to expand the first partition of the CHA to fit the Lakka system files. Around 500 MB is more than enough but *LEAVE 1 MB UNALLOCATED at start of the disc*;
@@ -74,4 +78,4 @@ USB:\CHA_LAKKA
 
 Unfortunately, for customizing the UI loading assets from USB we need to copy all the icons used by system into assets/xmb/monochrome/png from their original path ( /usr/share/retroarch-assets ). That can be done with a SSH terminal.
 
-A way to build a folder with assets to load from USB is being developed in https://github.com/ChokoGroup/RetroArch-Playlists-with-Thumbnails but there is no estimated date for release. It is a very slow process to build extensive playlists with games that run well in the CHA.
+A way to build a folder with assets to load from USB is stored in 'Playlists by Genre with Thumbnails', but it's still very incomplete. It is a very slow process to build extensive playlists with games that run well in the CHA.
