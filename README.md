@@ -20,8 +20,8 @@ The hard way:
 You'll find more detailled instructions with screenshots in the wiki, at https://cha-choko-mod.fandom.com/wiki/DUAL_BOOT_-_Installing_Lakka_in_the_CHA
 
 1. Use a suitable tool to expand the first partition of the CHA to fit the Lakka system files. Around 500 MB is more than enough but *LEAVE 1 MB UNALLOCATED at start of the disc*;
-2. Download a Lakka system image file from https://nightly.builds.lakka.tv (look for the latest file in a folder named 'H3.arm' and ending with ...-orangepi-plus2e.img.gz);
-3. Open the downloaded file with 7-zip ( https://7-zip.org ) and extract the Lakka system files to the first partition of the CHA (KERNEL, SYSTEM and sun8i*);
+2. Download a Lakka system image file from https://www.lakka.tv/get/linux/allwinner/ (look for "Orange Pi Plus 2E" images - also available beta builds in "H3 devices");
+3. Open the downloaded file with 7-zip ( https://7-zip.org ) and extract the Lakka system files to the first partition of the CHA (KERNEL, SYSTEM and sun8i-h3-orangepi-plus2e.dtb);
 4. Eject the CHA safely and put this 'Lakka Installer and Updater' folder in the root of an USB flash drive.
 5. Insert the USB flash drive in the USB EXT port of the CHA. Power on the CHA and run this script to install the necessary files for swapping between the original CHA menu and RetroArch (Lakka Linux).
 
@@ -31,7 +31,7 @@ This will allow to use all eMMC space or (if you're running from SD) all SD card
 
 ### Notes
 
-By default, the ROMs folder for RetroArch is /storage/roms, but you can browse to /storage/usr/share/roms and play the official 16 games.
+By default, the ROMs folder for RetroArch is /storage/roms, but you can browse to /storage/usr/share/roms and play the official 19 games (yes, there are 19 games in the official 1.6 firmware).
 
 The hotkey for RetroArch Quick Menu (in game menu) is set to "Select + Start".
 
