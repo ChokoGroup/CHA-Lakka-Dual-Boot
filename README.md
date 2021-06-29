@@ -15,7 +15,7 @@ Scripts and assets to use Lakka in Capcom Home Arcade either with or without SD 
 
 The easy way: 
 
-Extract the \*.img file included in the latest release pack and write it to eMMC or a SD card using balenaEtcher, Win32 Disk Imager or HDD Raw Copy Tool.
+Extract the \*.img file included in https://github.com/ChokoGroup/CHA-Lakka-Installer-and-Updater/releases/latest and write it to eMMC or a SD card using balenaEtcher, Win32 Disk Imager or HDD Raw Copy Tool.
 
 The hard way: 
 
