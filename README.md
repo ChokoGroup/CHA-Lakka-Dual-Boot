@@ -21,7 +21,7 @@ The hard way:
 
 You'll find more detailled instructions with screenshots in the wiki, at https://cha-choko-mod.fandom.com/wiki/DUAL_BOOT_-_Installing_Lakka_in_the_CHA
 
-1. Use a suitable tool to expand the first partition of the CHA to fit the Lakka system files. Around 500 MB is more than enough but *LEAVE 1 MB UNALLOCATED at start of the disc*;
+1. Use a suitable tool to expand the first partition of the CHA to fit the Lakka system files. Around 500 MB enough (1 GB if you want "online update") but *LEAVE 1 MB UNALLOCATED at start of the disc*;
 2. Download a Lakka system image file from https://www.lakka.tv/get/linux/allwinner/ (look for "Orange Pi Plus 2E" images - also available beta builds in "H3 devices");
 3. Open the downloaded file with 7-zip ( https://7-zip.org ) and extract the Lakka system files to the first partition of the CHA (KERNEL, SYSTEM and sun8i-h3-orangepi-plus2e.dtb);
 4. Eject the CHA safely and put this 'Lakka Installer and Updater' folder in the root of an USB flash drive.

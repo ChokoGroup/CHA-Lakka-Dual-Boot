@@ -9,7 +9,7 @@ mount /dev/${BOOTDISK}p1 /tmp/flash
 if [ -f /tmp/flash/sun8i-h3-orangepi-plus2e.dtb ] && [ -f /tmp/flash/KERNEL ] && [ -f /tmp/flash/SYSTEM ]
 then
   # Put files in FAT partition
-  cp -R "$RUNNINGFROM/flash"/* /tmp/flash/
+  cp -r "$RUNNINGFROM/flash"/* /tmp/flash/
   umount /tmp/flash
 
   # Put files in EXT4 partition
