@@ -19,7 +19,7 @@ ___ Ball and Paddle ___
 - Very slow ~22 FPS with frameskip 4.
 
 # VS Block Breaker (vblokbrk)
-- Slow ~28 FPS with speed hack dipswitch.
+- Very slow ~28 FPS with speed hack dipswitch.
 
 
 
@@ -75,5 +75,80 @@ ___ Driving ___
 
 # Super Speed Race (sspeedr)
 - No sound; Score/time not visible in MAME 2003 plus; can't accelerate in MAME 2010.
+
+
+___ Fighting ___
+
+# Age of Heroes - Silkroad 2 (aoh)
+- Very slow ~22 FPS.
+
+# Arabian Fight (arabfgt)
+- Slow ~42 FPS.
+
+# Arabian Magic (arabianm)
+- Slow ~35 FPS.
+
+# Big Fight - Big Trouble In The Atlantic Ocean (bigfight)
+- Very slow ~26 FPS (~35 FPS with skip frame 5).
+
+# Black Touch '96 (blackt96)
+- Very slow ~27 FPS in FB Neo; No sound in MAME 2010.
+
+# Final Fight 2 (ffight2b)
+- Very slow ~26 FPS in MAME 2010.
+
+# Ghost Chaser Densei (denseib)
+- Very slow ~19 FPS in MAME 2010.
+
+# Golden Axe: The Revenge of Death Adder (ga2)
+- Slow ~49 FPS in MAME 2003+.
+
+# Iron (iron)
+- Very slow ~22 FPS in MAME 2010.
+
+# Knights of Valour 2 (kov2)
+- Slow ~42 FPS.
+
+# Knights of Valour 2 Plus (kov2p)
+- Slow ~48 FPS.
+
+# Knights of Valour Super Heroes (kovsh)
+- Slow 41~48 FPS.
+
+# Knights of Valour: Yi Tong Zhong Yuan (kovytzy)
+- Slow 38~42 FPS.
+
+# Legend of Heroes (legendoh)
+- Very slow ~19 FPS in FB Neo; Very slow and no sound in MAME 2010.
+
+# New Zero Team (nzeroteam)
+- Slow ~39 FPS.
+
+# Night Slashers (nslasher)
+- Slow ~31 FPS in FB Neo, ~51 FPS in MAME 2003+.
+
+# Ninja Baseball Bat Man (nbbatman)
+- Slow ~48 FPS in MAME 2010.
+
+# Oriental Legend (orlegend)
+- Slow ~50 FPS in MAME 2003+.
+
+# Oriental Legend 2 (oldsplus)
+- Slow 39~42 FPS in FB Neo.
+
+# Oriental Legend Super (olds)
+- Slow ~42 FPS in FB Neo.
+
+# Sonic Blast Man 2 Special Turbo (sblast2b)
+- Very slow ~22 FPS in MAME 2010.
+
+# The Crystal of Kings (crysking)
+- Very slow 35~42 FPS in MAME 2010.
+
+# The Gladiator (theglad)
+- Slow 35~42 FPS.
+
+# Tough Turf (tturf)
+- Slow 39~42 FPS in FB Neo; No sound in MAME 2003+/2010.
 
 
