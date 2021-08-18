@@ -13,7 +13,7 @@ ___ Ball and Paddle ___
 - Slow ~38 FPS with skip frames 3 out of 4.
 
 # Straight Flush (sflush)
-- No sound exists, it's not a CHA problem.
+- No sound emulated, it's not a CHA problem.
 
 # The Block Kuzushi (tblkkuzu)
 - Very slow ~22 FPS with frameskip 4.
@@ -77,6 +77,7 @@ ___ Driving ___
 - No sound; Score/time not visible in MAME 2003 plus; can't accelerate in MAME 2010.
 
 
+
 ___ Fighting ___
 
 # Age of Heroes - Silkroad 2 (aoh)
@@ -106,38 +107,14 @@ ___ Fighting ___
 # Iron (iron)
 - Very slow ~22 FPS in MAME 2010.
 
-# Knights of Valour 2 (kov2)
-- Slow ~42 FPS.
-
-# Knights of Valour 2 Plus (kov2p)
-- Slow ~48 FPS.
-
-# Knights of Valour Super Heroes (kovsh)
-- Slow 41~48 FPS.
-
-# Knights of Valour: Yi Tong Zhong Yuan (kovytzy)
-- Slow 38~42 FPS.
-
 # Legend of Heroes (legendoh)
 - Very slow ~19 FPS in FB Neo; Very slow and no sound in MAME 2010.
-
-# New Zero Team (nzeroteam)
-- Slow ~39 FPS.
 
 # Night Slashers (nslasher)
 - Slow ~31 FPS in FB Neo, ~51 FPS in MAME 2003+.
 
 # Ninja Baseball Bat Man (nbbatman)
 - Slow ~48 FPS in MAME 2010.
-
-# Oriental Legend (orlegend)
-- Slow ~50 FPS in MAME 2003+.
-
-# Oriental Legend 2 (oldsplus)
-- Slow 39~42 FPS in FB Neo.
-
-# Oriental Legend Super (olds)
-- Slow ~42 FPS in FB Neo.
 
 # Sonic Blast Man 2 Special Turbo (sblast2b)
 - Very slow ~22 FPS in MAME 2010.
@@ -148,7 +125,186 @@ ___ Fighting ___
 # The Gladiator (theglad)
 - Slow 35~42 FPS.
 
-# Tough Turf (tturf)
-- Slow 39~42 FPS in FB Neo; No sound in MAME 2003+/2010.
+# Tough Turf (US set) (tturfu)
+- Slow 39~42 FPS in FB Neo; Parent set has no sound in MAME 2003+/FB Alpha 2012.
 
+# Vamf x1/2 (vamphalf)
+- Very slow ~28 FPS.
+
+# Zero Team USA (zeroteam)
+- Slow 41~44 FPS.
+
+# Lightning Swords (ltswords)
+- Slow 29~32 FPS.
+
+# Judge Dredd (jdreddp)
+- Very slow 33~36 FPS.
+
+# Shingen Samurai-Fighter (tshingen)
+- Slow 48 FPS in MAME 2003+.
+
+# Gaiapolis (gaiapols)
+- Slow 42~60 FPS in MAME 2003+; error loading in FB Neo.
+
+# Riding Fight (ridingf)
+- Very slow 31~33 FPS in MAME 2003+.
+
+# Alien Challenge (aliencha)
+- Slow 45~48 FPS.
+
+# Battle Arena Toshinden 2 (ts2)
+- Super slow 18~22 FPS in MAME 2010.
+
+# Beastorizer (beastrzr)
+- Super slow 16 FPS in MAME 2010.
+
+# Blood Warrior (bloodwar)
+- Some graphic bugs in MAME 2003+; ~50 FPS in MAME 2010.
+
+# Bloody Roar 2 (bldyror2)
+- Super slow 10 FPS in MAME 2010.
+
+# Burning Rival (brival)
+- Very slow 38~41 FPS in MAME 2003+.
+
+# Command War - Super Special Battle & War Game (commandw)
+- Very slow 28~33 FPS in MAME 2003+.
+
+# Dan-Ku-Ga (dankuga)
+- Very slow ~33 FPS in MAME 2003+.
+
+# Daraku Tenshi - The Fallen Angels (daraku)
+- Slow 35~49 FPS in FB Alpha 2012.
+
+# Dark Edge (darkedge)
+- Very slow ~22 FPS in MAME 2010.
+
+# Dead Or Alive ++ (doapp)
+- Super slow ~13 FPS in MAME 2010.
+
+# Dragon Ball Z V.R.V.S. (dbzvrvs)
+- Very slow ~25 FPS in MAME 2010.
+
+# Dragoon Might (dragoonj)
+- Very slow 37~40 FPS in MAME 2003+.
+
+# Ehrgeiz (ehrgeiz)
+- Super slow 7~10 FPS in MAME 2010.
+
+# Fighter's History (fghthist)
+- Slow 39~44 FPS in MAME 2003+.
+
+# Fighters' Impact A (ftimpcta)
+- Super slow ~9 FPS in MAME 2010.
+
+# Fighting Layer (fgtlayer)
+- Super slow ~12 FPS in MAME 2010.
+
+# Fit of Fighting (fitfight)
+- No sound emulated, it's not a CHA problem.
+
+# Heaven's Gate (hvnsgate)
+- Very slow ~22 FPS in MAME 2010.
+
+# Holosseum (holo)
+- Slow ~50 FPS in MAME 2003+.
+
+# Jackie Chan - The Kung-Fu Master (jchan)
+- Slow ~39 FPS in MAME 2010.
+
+# Jackie Chan in Fists of Fire (jchan2)
+- Slow ~39 FPS in MAME 2010.
+
+# Kaiser Knuckle (kaiserkn)
+- Slow ~32 FPS in MAME 2003+.
+
+# Mortal Kombat (mk)
+- Just a bit slow ~40 FPS.
+
+# Plasma Sword: Nightmare of Bilstein (plsmaswd)
+- Very slow ~13 FPS in MAME 2010.
+
+# Primal Rage (primrage)
+- Very slow ~24 FPS in MAME 2003+.
+
+# Psychic Force (psyforce)
+- Very slow ~23 FPS in MAME 2010.
+
+# Rabbit (rabbit)
+- Slow ~41 FPS in FB Neo. No sound in MAME 2010.
+
+# Rage of the Dragons (rotd)
+- Bugged graphics in FB Neo.
+
+# Rival Schools: United By Fate (rvschool)
+- Super slow 9~12 FPS in MAME 2010.
+
+# S.V.G. - Spectral vs Generation (svg)
+- Very slow ~31 FPS in FB Neo.
+
+# Schmeiser Robo (schmeisr)
+- Slow 44~50 FPS in FB Neo.
+
+# Soul Calibur (soulclbr)
+- Super slow 9~12 FPS in MAME 2010.
+
+# Soul Edge Ver. II (souledge)
+- Super slow ~15 FPS in MAME 2010.
+
+# Star Gladiator Episode I: Final Crusade (starglad)
+- Super slow ~15 FPS in MAME 2010.
+
+# Street Fighter EX (sfex)
+- Super slow ~17 FPS in MAME 2010.
+
+# Street Fighter EX Plus (sfexp)
+- Super slow ~15 FPS in MAME 2010.
+
+# Street Fighter EX2 (sfex2)
+- Super slow ~13 FPS in MAME 2010.
+
+# Street Fighter EX2 Plus (sfex2p)
+- Super slow ~13 FPS in MAME 2010.
+
+# Street Fighter: The Movie (sftm)
+- Slow ~32 FPS in FB Neo.
+
+# Survival Arts (survarts)
+- Slow 48~50 FPS in FB Neo.
+
+# Tekken (tekken)
+- Very slow ~17 FPS in MAME 2010.
+
+# Tekken 2 Ver. B (tekken2)
+- Very slow ~16 FPS in MAME 2010.
+
+# Tekken 3 (tekken3)
+- Super slow ~10 FPS in MAME 2010.
+
+# Tekken Tag Tournament (tektagt)
+- Very slow ~13 FPS in MAME 2010.
+
+# The History of Martial Arts (histryma)
+- No sound emulated, it's not a CHA problem.
+
+# The Killing Blade Plus (killbldp)
+- Slow ~32 FPS in FB Neo.
+
+# The King of Fighters 2000 (kof2000)
+- Bugged graphics in FB Neo.
+
+# The King of Fighters 2001 (kof2001)
+- Bugged graphics in FB Neo.
+
+# Toukidenshou - Angel Eyes (tkdensho)
+- 60 FPS in FB Alpha 2012 but no sound. 45~53 FPS in FB Neo, doesn't feel slow.
+
+# Ultimate Mortal Kombat 3 (umk3)
+- Doesn't feel slow 47~52 FPS in MAME 2003+.
+
+# Vampire Hunter 2: Darkstalkers Revenge (vhunt2)
+- Need to confirm corrupted graphics flashes on TV...
+
+# Virtua Fighter (vf)
+- Very slow ~21 FPS in MAME 2003+.
 

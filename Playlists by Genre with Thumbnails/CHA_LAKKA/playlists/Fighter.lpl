@@ -1,0 +1,1196 @@
+{
+  "version": "1.4",
+  "default_core_path": "/tmp/cores/fbneo_libretro.so",
+  "default_core_name": "Arcade (FinalBurn Neo)",
+  "base_content_directory": "/storage/roms",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/64street.zip",
+      "label": "64th. Street - A Detective Story",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/aoh.zip",
+      "label": "Age Of Heroes - Silkroad 2",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/avsp.zip",
+      "label": "Alien vs. Predator",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/arabfgt.zip",
+      "label": "Arabian Fight",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/arabianm.zip",
+      "label": "Arabian Magic",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/asterix.zip",
+      "label": "Asterix",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/brapboys.zip",
+      "label": "B.Rap Boys",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/batcir.zip",
+      "label": "Battle Circuit",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/btoads.zip",
+      "label": "Battletoads",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/bigfight.zip",
+      "label": "Big Fight - Big Trouble In The Atlantic Ocean",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/blackt96.zip",
+      "label": "Black Touch '96",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/bmaster.zip",
+      "label": "Blade Master",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/burningf.zip",
+      "label": "Burning Fight",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/dino.zip",
+      "label": "Cadillacs and Dinosaurs",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/captaven.zip",
+      "label": "Captain America and The Avengers",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/captcomm.zip",
+      "label": "Captain Commando",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/crimfght.zip",
+      "label": "Crime Fighters",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/ddcrew.zip",
+      "label": "D. D. Crew",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/denjinmk.zip",
+      "label": "Denjin Makai",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/djboy.zip",
+      "label": "DJ Boy",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/ddragon.zip",
+      "label": "Double Dragon",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/ddragon3.zip",
+      "label": "Double Dragon 3 - The Rosetta Stone",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/ddragon2.zip",
+      "label": "Double Dragon II - The Revenge",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/drgnbowl.zip",
+      "label": "Dragon Bowl",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/ddsom.zip",
+      "label": "Dungeons & Dragons: Shadow over Mystara",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/ddtod.zip",
+      "label": "Dungeons & Dragons: Tower of Doom",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/ddux.zip",
+      "label": "Dynamite Dux",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/dynwar.zip",
+      "label": "Dynasty Wars",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/ffight.zip",
+      "label": "Final Fight",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/ffight2b.zip",
+      "label": "Final Fight 2",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/gaia.zip",
+      "label": "Gaia Crusaders",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/gangwars.zip",
+      "label": "Gang Wars",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/denseib.zip",
+      "label": "Ghost Chaser Densei",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/goldnaxe.zip",
+      "label": "Golden Axe",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/ga2.zip",
+      "label": "Golden Axe: The Revenge of Death Adder",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/growl.zip",
+      "label": "Growl",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/grdians.zip",
+      "label": "Guardians",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/guardian.zip",
+      "label": "Guardians of the 'Hood",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/hachoo.zip",
+      "label": "Hachoo!",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/hook.zip",
+      "label": "Hook",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/iron.zip",
+      "label": "Iron",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/kabukiz.zip",
+      "label": "Kabuki-Z",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/karatblz.zip",
+      "label": "Karate Blazers",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/knights.zip",
+      "label": "Knights of the Round",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/kov2p.zip",
+      "label": "Knights of Valour 2 Plus - Nine Dragons",
+      "core_path": "/tmp/cores/fbalpha2012_libretro.so",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/kovshp.zip",
+      "label": "Knights of Valour Super Heroes Plus",
+      "core_path": "/tmp/cores/fbalpha2012_libretro.so",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/kozure.zip",
+      "label": "Kozure Ookami",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/legendoh.zip",
+      "label": "Legend of Heroes",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/legionna.zip",
+      "label": "Legionnaire",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/madmotor.zip",
+      "label": "Mad Motor",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/metamrph.zip",
+      "label": "Metamorphic Force",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/mugsmash.zip",
+      "label": "Mug Smashers",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/mutnat.zip",
+      "label": "Mutation Nation",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/nslasher.zip",
+      "label": "Night Slashers",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/nbbatman.zip",
+      "label": "Ninja Baseball Bat Man",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/ninclown.zip",
+      "label": "Ninja Clowns",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/ncombat.zip",
+      "label": "Ninja Combat",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/orlegend.zip",
+      "label": "Oriental Legend",
+      "core_path": "/tmp/cores/fbalpha2012_libretro.so",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/oldsplus.zip",
+      "label": "Oriental Legend 2",
+      "core_path": "/tmp/cores/fbalpha2012_libretro.so",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/pow.zip",
+      "label": "P.O.W. - Prisoners of War",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/sailormn.zip",
+      "label": "Pretty Soldier Sailor Moon",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/pulirula.zip",
+      "label": "PuLiRuLa",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/renegade.zip",
+      "label": "Renegade",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/riotcity.zip",
+      "label": "Riot City",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/roboarmy.zip",
+      "label": "Robo Army",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/robocop2.zip",
+      "label": "Robocop 2",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/spy.zip",
+      "label": "S.P.Y. - Special Project Y",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/sengoku.zip",
+      "label": "Sengoku",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/sengoku2.zip",
+      "label": "Sengoku 2",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/sengoku3.zip",
+      "label": "Sengoku 3",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/shadfrce.zip",
+      "label": "Shadow Force",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/shadoww.zip",
+      "label": "Shadow Warriors",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/silentd.zip",
+      "label": "Silent Dragon",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/skullxbo.zip",
+      "label": "Skull & Crossbones",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/sblast2b.zip",
+      "label": "Sonic Blast Man 2 Special Turbo",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/tmnt.zip",
+      "label": "Teenage Mutant Ninja Turtles",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/tmnt2.zip",
+      "label": "Teenage Mutant Ninja Turtles - Turtles in Time",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/ctribe.zip",
+      "label": "The Combatribes",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/crysking.zip",
+      "label": "The Crystal of Kings",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/theglad.zip",
+      "label": "The Gladiator",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/kod.zip",
+      "label": "The King of Dragons",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/silkroad.zip",
+      "label": "The Legend of Silkroad",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/ninjak.zip",
+      "label": "The Ninja Kids",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/punisher.zip",
+      "label": "The Punisher",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/simps2pj.zip",
+      "label": "The Simpsons",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/theroes.zip",
+      "label": "Thunder Heroes",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/tturfu.zip",
+      "label": "Tough Turf",
+      "core_path": "/tmp/cores/fbalpha2012_libretro.so",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/utoukond.zip",
+      "label": "Ultra Toukon Densetsu",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/uccopsar.zip",
+      "label": "Undercover Cops - Alpha Renewal Version",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/vamphalf.zip",
+      "label": "Vamf x1/2",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/vendetta.zip",
+      "label": "Vendetta",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/viostorm.zip",
+      "label": "Violent Storm",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/warriorb.zip",
+      "label": "Warrior Blade - Rastan Saga Episode III",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/wof.zip",
+      "label": "Warriors of Fate",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/wizdfire.zip",
+      "label": "Wizard Fire",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/xmen.zip",
+      "label": "X-Men",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2.5D/zeroteam.zip",
+      "label": "Zero Team USA",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2D/battlcry.zip",
+      "label": "Battlecry",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2D/buccanrs.zip",
+      "label": "Buccaneers",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2D/chanbara.zip",
+      "label": "Chanbara",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2D/flashgal.zip",
+      "label": "Flashgal",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2D/gladiatr.zip",
+      "label": "Gladiator",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2D/grdian.zip",
+      "label": "Guardian",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2D/hangzo.zip",
+      "label": "Hangzo",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2D/kungfum.zip",
+      "label": "Kung-Fu Master",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2D/legend.zip",
+      "label": "Legend",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2D/loht.zip",
+      "label": "Legend of Hero Tonma",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2D/lomakai.zip",
+      "label": "Legend of Makai",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2D/ltswords.zip",
+      "label": "Lightning Swords",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2D/myhero.zip",
+      "label": "My Hero",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2D/mystwarr.zip",
+      "label": "Mystic Warriors",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2D/nspirit.zip",
+      "label": "Ninja Spirit",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2D/tsamurai.zip",
+      "label": "Samurai Nihon-Ichi",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2D/splatter.zip",
+      "label": "Splatter House",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2D/superman.zip",
+      "label": "Superman",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2D/edrandy.zip",
+      "label": "The Cliffhanger - Edward Randy",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2D/lkage.zip",
+      "label": "The Legend of Kage",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2D/mastkin.zip",
+      "label": "The Masters of Kin",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2D/ninjaw.zip",
+      "label": "The Ninja Warriors",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/2D/wndrmomo.zip",
+      "label": "Wonder Momo",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/3D/jdreddp.zip",
+      "label": "Judge Dredd",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Driving Vertical/cyclwarr.zip",
+      "label": "Cycle Warriors",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Field/brutforc.zip",
+      "label": "Brute Force",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Field/cheekyms.zip",
+      "label": "Cheeky Mouse",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Field/chinhero.zip",
+      "label": "Chinese Hero",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Field/foodf.zip",
+      "label": "Food Fight",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Field/mouseatk.zip",
+      "label": "Mouse Attack",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Field/samurai.zip",
+      "label": "Samurai",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Field/tshingen.zip",
+      "label": "Shingen Samurai-Fighter",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Field/snakepit.zip",
+      "label": "Snake Pit",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Field/warrior.zip",
+      "label": "Warrior",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Misc/crsword.zip",
+      "label": "Crossed Swords",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Misc/crswd2bl.zip",
+      "label": "Crossed Swords 2",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Misc/metlclsh.zip",
+      "label": "Metal Clash",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Misc/scudhamm.zip",
+      "label": "Scud Hammer",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Misc/superspy.zip",
+      "label": "The Super Spy",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Multiplay/kotm.zip",
+      "label": "King of the Monsters",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Multiplay/kotm2.zip",
+      "label": "King of the Monsters 2 - The Next Thing",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Vertical/avengers.zip",
+      "label": "Avengers",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Vertical/desertdn.zip",
+      "label": "Desert Dan",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Vertical/downtown.zip",
+      "label": "DownTown",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Vertical/fightrol.zip",
+      "label": "Fighting Roller",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Vertical/gaiapols.zip",
+      "label": "Gaiapolis",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Vertical/kyros.zip",
+      "label": "Kyros",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Vertical/mightguy.zip",
+      "label": "Mighty Guy",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Vertical/ridingf.zip",
+      "label": "Riding Fight",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Vertical/rjammer.zip",
+      "label": "Roller Jammer",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    },
+    {
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Vertical/vandyke.zip",
+      "label": "Vandyke",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Fighter.lpl"
+    }
+  ]
+}
