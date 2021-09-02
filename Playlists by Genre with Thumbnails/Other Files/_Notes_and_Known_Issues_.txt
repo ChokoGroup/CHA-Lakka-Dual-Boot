@@ -308,3 +308,49 @@ ___ Fighting ___
 # Virtua Fighter (vf)
 - Very slow ~21 FPS in MAME 2003+.
 
+
+
+___ Mature ___
+
+# Pang Pang Car (ppcar)
+- Super slow ~8 FPS in MAME 2010; no sound.
+
+# Games V25.4X (usgames)
+- Bugged graphics in FB Neo.
+
+# Erotictac (ertictac)
+- No sound emulated, it's not a CHA problem.
+
+# Steal See (stealsee)
+- Super slow ~10 FPS in FB Neo.
+
+# The X-Files (xfiles)
+- Very slow ~12 FPS in MAME 2010 and no sound.
+
+# Zhongguo Long Pretty Chance (dwpc)
+- No sound during gameplay, it's not a CHA problem.
+
+# Dancing Eyes (danceyes)
+- Very slow ~14 FPS in MAME 2010.
+
+# Gals Panic 3 (galpani3)
+- Slow ~29 FPS in FB Neo.
+
+# Gals Panic S3 (galpans3)
+- Very slow ~18 FPS in FB Neo; Crashes in MAME 2010.
+
+# Land Breaker (landbrk)
+- Super slow ~10 FPS in FB Neo.
+
+# Penfan Girls - Step1. Mild Mind (penfan)
+- Super slow ~14 FPS in FB Neo.
+
+# Puzzlet (puzzlet)
+- No sound during gameplay, it's not a CHA problem.
+
+# The Return of Lady Frog (roldfrog)
+- No sound during gameplay, it's not a CHA problem.
+
+# Poke Champ (pokechmp)
+- Bugged graphics in MAME 2010.
+
