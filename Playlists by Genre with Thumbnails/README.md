@@ -22,7 +22,7 @@ In Windows, you can change the label of your pendrive by right-clicking in the d
 
 3. Copy the folder CHA_LAKKA to the root of your CHOKO pendrive. It doesn't need to be empty, you can have other folders.
 
-4. You need to put the ROMs in *.zip format, in folders inside 'CHA_LAKKA/roms'. It isn't easy to put all the right roms in the right place, but there is a list and a couple of batch files inside CHA_LAKKA_EMPTY that might help a little.
+4. You need to put the ROMs in *.zip format, in folders inside 'CHA_LAKKA/roms'. It isn't easy to put all the right roms in the right place, but there are lists inside the folder "roms".
 
 5. If you don't want the "double view" of snapshot and title screen, go into all subfolders under 'thumbnails' and replace the folders named 'Named_Titles' with those named 'Named_Titles_2'.
 
