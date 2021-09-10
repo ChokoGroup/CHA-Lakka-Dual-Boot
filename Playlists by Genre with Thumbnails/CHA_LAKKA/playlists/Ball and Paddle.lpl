@@ -9,7 +9,7 @@
   "sort_mode": 0,
   "items": [
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Ball and Paddle/Breakout/arkanoid.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/arkanoid.zip",
       "label": "Arkanoid",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -17,7 +17,7 @@
       "db_name": "Ball and Paddle.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Ball and Paddle/Breakout/arknoid2.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/arknoid2.zip",
       "label": "Arkanoid - Revenge of DOH",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -25,7 +25,7 @@
       "db_name": "Ball and Paddle.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Ball and Paddle/Breakout/arkretrn.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/arkretrn.zip",
       "label": "Arkanoid Returns",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -33,7 +33,7 @@
       "db_name": "Ball and Paddle.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Ball and Paddle/Breakout/avalnche.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/avalnche.zip",
       "label": "Avalanche",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -41,7 +41,7 @@
       "db_name": "Ball and Paddle.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Ball and Paddle/Breakout/balcube.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/balcube.zip",
       "label": "Bal Cube",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -49,7 +49,7 @@
       "db_name": "Ball and Paddle.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Ball and Paddle/Breakout/block.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/block.zip",
       "label": "Block Block",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -57,7 +57,7 @@
       "db_name": "Ball and Paddle.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Ball and Paddle/Breakout/blockcar.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/blockcar.zip",
       "label": "Block Carnival",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -65,7 +65,7 @@
       "db_name": "Ball and Paddle.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Ball and Paddle/Breakout/blocken.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/blocken.zip",
       "label": "Blocken",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -73,7 +73,7 @@
       "db_name": "Ball and Paddle.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Ball and Paddle/Breakout/bombbee.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/bombbee.zip",
       "label": "Bomb Bee",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -81,7 +81,7 @@
       "db_name": "Ball and Paddle.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Ball and Paddle/Breakout/cannonbp.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/cannonbp.zip",
       "label": "Cannon Ball",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -89,7 +89,7 @@
       "db_name": "Ball and Paddle.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Ball and Paddle/Jump and Touch/cball.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame2010/cball.zip",
       "label": "Cannonball",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",
@@ -97,7 +97,7 @@
       "db_name": "Ball and Paddle.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Ball and Paddle/Jump and Touch/circus.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/circus.zip",
       "label": "Circus",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -105,7 +105,7 @@
       "db_name": "Ball and Paddle.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Ball and Paddle/Jump and Touch/clowns.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/clowns.zip",
       "label": "Clowns",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -113,7 +113,7 @@
       "db_name": "Ball and Paddle.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Ball and Paddle/Breakout/cgraplop.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/cgraplop.zip",
       "label": "Cluster Buster",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -121,7 +121,7 @@
       "db_name": "Ball and Paddle.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Ball and Paddle/Jump and Touch/cclownz.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame2010/cclownz.zip",
       "label": "Crazzy Clownz",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",
@@ -129,7 +129,7 @@
       "db_name": "Ball and Paddle.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Ball and Paddle/Breakout/cubybop.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/cubybop.zip",
       "label": "Cuby Bop",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -137,7 +137,7 @@
       "db_name": "Ball and Paddle.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Ball and Paddle/Breakout/cutieq.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/cutieq.zip",
       "label": "Cutie Q",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -145,7 +145,7 @@
       "db_name": "Ball and Paddle.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Ball and Paddle/Breakout/dominob.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame2010/dominob.zip",
       "label": "Domino Block",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",
@@ -153,7 +153,7 @@
       "db_name": "Ball and Paddle.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Ball and Paddle/Breakout/fgoal.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame2010/fgoal.zip",
       "label": "Field Goal",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",
@@ -161,7 +161,7 @@
       "db_name": "Ball and Paddle.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Ball and Paddle/Breakout/cflyball.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/cflyball.zip",
       "label": "Flying Ball",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -169,7 +169,7 @@
       "db_name": "Ball and Paddle.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Ball and Paddle/Breakout/freekick.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/freekick.zip",
       "label": "Free Kick",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -177,7 +177,7 @@
       "db_name": "Ball and Paddle.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Ball and Paddle/Breakout/geebee.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/geebee.zip",
       "label": "Gee Bee",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -185,7 +185,7 @@
       "db_name": "Ball and Paddle.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Ball and Paddle/Breakout/ghox.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/ghox.zip",
       "label": "Ghox",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -193,7 +193,7 @@
       "db_name": "Ball and Paddle.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Ball and Paddle/Breakout/gigas.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/gigas.zip",
       "label": "Gigas",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -201,7 +201,7 @@
       "db_name": "Ball and Paddle.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Ball and Paddle/Breakout/gigasm2.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/gigasm2.zip",
       "label": "Gigas Mark II",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -209,7 +209,7 @@
       "db_name": "Ball and Paddle.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Ball and Paddle/Breakout/goindol.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/goindol.zip",
       "label": "Goindol",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -217,7 +217,7 @@
       "db_name": "Ball and Paddle.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Ball and Paddle/Breakout/gnbarich.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/gnbarich.zip",
       "label": "Gunbarich",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -225,7 +225,7 @@
       "db_name": "Ball and Paddle.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Ball and Paddle/Breakout/gypsyjug.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/gypsyjug.zip",
       "label": "Gypsy Juggler",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -233,7 +233,7 @@
       "db_name": "Ball and Paddle.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Ball and Paddle/Breakout/jmpbreak.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/jmpbreak.zip",
       "label": "Jumping Break",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -241,7 +241,7 @@
       "db_name": "Ball and Paddle.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Ball and Paddle/Jump and Touch/jpopnics.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/jpopnics.zip",
       "label": "Jumping Pop",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -249,7 +249,7 @@
       "db_name": "Ball and Paddle.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Ball and Paddle/Jump and Touch/kick.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/kick.zip",
       "label": "Kick",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -257,7 +257,7 @@
       "db_name": "Ball and Paddle.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Ball and Paddle/Breakout/mmagic.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/mmagic.zip",
       "label": "Monkey Magic",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -265,7 +265,7 @@
       "db_name": "Ball and Paddle.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Ball and Paddle/Breakout/offtwall.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/offtwall.zip",
       "label": "Off the Wall",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -273,7 +273,7 @@
       "db_name": "Ball and Paddle.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Ball and Paddle/Breakout/omega.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/omega.zip",
       "label": "Omega",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -281,7 +281,7 @@
       "db_name": "Ball and Paddle.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Ball and Paddle/Breakout/packbang.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/packbang.zip",
       "label": "Pack'n Bang Bang",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -289,7 +289,7 @@
       "db_name": "Ball and Paddle.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Ball and Paddle/Jump and Touch/peggle.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/peggle.zip",
       "label": "Peggle",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -297,7 +297,7 @@
       "db_name": "Ball and Paddle.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Ball and Paddle/Jump and Touch/playball.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/playball.zip",
       "label": "PlayBall!",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -305,7 +305,7 @@
       "db_name": "Ball and Paddle.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Ball and Paddle/Jump and Touch/plumppop.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/plumppop.zip",
       "label": "Plump Pop",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -313,7 +313,7 @@
       "db_name": "Ball and Paddle.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Ball and Paddle/Breakout/poosho.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/poosho.zip",
       "label": "Poosho Poosho",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -321,7 +321,7 @@
       "db_name": "Ball and Paddle.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Ball and Paddle/Breakout/popbounc.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/popbounc.zip",
       "label": "Pop 'n Bounce",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -329,7 +329,7 @@
       "db_name": "Ball and Paddle.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Ball and Paddle/Pong/powerbal.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame2010/powerbal.zip",
       "label": "Power Balls",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",
@@ -337,7 +337,7 @@
       "db_name": "Ball and Paddle.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Ball and Paddle/Breakout/puchicar.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/puchicar.zip",
       "label": "Puchi Carat",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -345,7 +345,7 @@
       "db_name": "Ball and Paddle.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Ball and Paddle/Breakout/quester.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/quester.zip",
       "label": "Quester",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -353,7 +353,7 @@
       "db_name": "Ball and Paddle.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Ball and Paddle/Breakout/reaktor.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/reaktor.zip",
       "label": "Reaktor",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -361,7 +361,7 @@
       "db_name": "Ball and Paddle.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Ball and Paddle/Breakout/ridleofp.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/ridleofp.zip",
       "label": "Riddle of Pythagoras",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -369,7 +369,7 @@
       "db_name": "Ball and Paddle.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Ball and Paddle/Misc/snakjack.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/snakjack.zip",
       "label": "Snacks'n Jaxson",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -377,7 +377,7 @@
       "db_name": "Ball and Paddle.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Ball and Paddle/Jump and Touch/spacwalk.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame2010/spacwalk.zip",
       "label": "Space Walk",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",
@@ -385,7 +385,7 @@
       "db_name": "Ball and Paddle.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Ball and Paddle/Breakout/sflush.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/sflush.zip",
       "label": "Straight Flush",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -393,7 +393,7 @@
       "db_name": "Ball and Paddle.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Ball and Paddle/Breakout/sbrkout.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/sbrkout.zip",
       "label": "Super Breakout",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -401,7 +401,7 @@
       "db_name": "Ball and Paddle.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Ball and Paddle/Breakout/sfkick.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame2010/sfkick.zip",
       "label": "Super Free Kick",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",
@@ -409,7 +409,7 @@
       "db_name": "Ball and Paddle.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Ball and Paddle/Breakout/tblkkuzu.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame2010/tblkkuzu.zip",
       "label": "The Block Kuzushi",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",
@@ -417,7 +417,7 @@
       "db_name": "Ball and Paddle.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Ball and Paddle/Breakout/thunderl.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/thunderl.zip",
       "label": "Thunder & Lightning",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -425,7 +425,7 @@
       "db_name": "Ball and Paddle.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Ball and Paddle/Breakout/arkatour.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/arkatour.zip",
       "label": "Tournament Arkanoid",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -433,7 +433,7 @@
       "db_name": "Ball and Paddle.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Ball and Paddle/Breakout/twinsqua.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame2010/twinsqua.zip",
       "label": "Twin Squash",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",
@@ -441,7 +441,7 @@
       "db_name": "Ball and Paddle.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Ball and Paddle/Breakout/vblokbrk.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/vblokbrk.zip",
       "label": "VS Block Breaker",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -449,7 +449,7 @@
       "db_name": "Ball and Paddle.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Ball and Paddle/Breakout/wallc.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/wallc.zip",
       "label": "Wall Crash",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -457,7 +457,7 @@
       "db_name": "Ball and Paddle.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Ball and Paddle/Jump and Touch/wallst.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/wallst.zip",
       "label": "Wall Street",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -465,7 +465,7 @@
       "db_name": "Ball and Paddle.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Ball and Paddle/Breakout/warlords.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/warlords.zip",
       "label": "Warlords",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -473,7 +473,7 @@
       "db_name": "Ball and Paddle.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Ball and Paddle/Breakout/wink.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame2010/wink.zip",
       "label": "Wink",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",

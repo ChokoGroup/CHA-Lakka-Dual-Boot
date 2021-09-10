@@ -9,7 +9,7 @@
   "sort_mode": 0,
   "items": [
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Arcade/Pinball/flipjack.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/flipjack.zip",
       "label": "Flipper Jack",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -17,7 +17,7 @@
       "db_name": "Arcade - Pinball.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Arcade/Pinball/gcpinbal.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/gcpinbal.zip",
       "label": "Grand Cross",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -25,7 +25,7 @@
       "db_name": "Arcade - Pinball.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Arcade/Pinball/musicbal.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/musicbal.zip",
       "label": "Music Ball",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -33,7 +33,7 @@
       "db_name": "Arcade - Pinball.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Arcade/Pinball/panicr.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame2010/panicr.zip",
       "label": "Panic Road",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",
@@ -41,7 +41,7 @@
       "db_name": "Arcade - Pinball.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Arcade/Pinball/pbaction.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/pbaction.zip",
       "label": "Pinball Action",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -49,7 +49,7 @@
       "db_name": "Arcade - Pinball.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Arcade/Pinball/pinbo.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/pinbo.zip",
       "label": "Pinbo",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -57,7 +57,7 @@
       "db_name": "Arcade - Pinball.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Arcade/Pinball/speedbal.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/speedbal.zip",
       "label": "Speed Ball",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -65,7 +65,7 @@
       "db_name": "Arcade - Pinball.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Arcade/Pinball/timescan.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/timescan.zip",
       "label": "Time Scanner",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -73,7 +73,7 @@
       "db_name": "Arcade - Pinball.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Arcade/Pinball/tomagic.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/tomagic.zip",
       "label": "Tom Tom Magic",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -81,7 +81,7 @@
       "db_name": "Arcade - Pinball.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Arcade/Pinball/vspinbal.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/vspinbal.zip",
       "label": "Vs. Pinball",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",

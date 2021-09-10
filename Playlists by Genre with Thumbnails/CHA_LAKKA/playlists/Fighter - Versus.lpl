@@ -9,7 +9,7 @@
   "sort_mode": 0,
   "items": [
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/aodk.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/aodk.zip",
       "label": "Aggressors of Dark Kombat",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -17,7 +17,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/aliencha.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/aliencha.zip",
       "label": "Alien Challenge",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -25,7 +25,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/aof.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/aof.zip",
       "label": "Art of Fighting",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -33,7 +33,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/aof2.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/aof2.zip",
       "label": "Art of Fighting 2",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -41,7 +41,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/aof3.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/aof3.zip",
       "label": "Art of Fighting 3 - The Path of the Warrior",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -49,7 +49,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/asurabld.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbalpha2012/asurabld.zip",
       "label": "Asura Blade - Sword of Dynasty",
       "core_path": "/tmp/cores/fbalpha2012_libretro.so",
       "core_name": "Arcade (FB Alpha 2012)",
@@ -57,7 +57,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/asurabus.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbalpha2012/asurabus.zip",
       "label": "Asura Buster - Eternal Warriors",
       "core_path": "/tmp/cores/fbalpha2012_libretro.so",
       "core_name": "Arcade (FB Alpha 2012)",
@@ -65,7 +65,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/avengrgs.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/avengrgs.zip",
       "label": "Avengers In Galactic Storm",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -73,7 +73,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/ts2.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame2010/ts2.zip",
       "label": "Battle Arena Toshinden 2",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",
@@ -81,7 +81,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/btlkroad.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/btlkroad.zip",
       "label": "Battle K-Road",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -89,7 +89,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/beastrzr.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame2010/beastrzr.zip",
       "label": "Beastorizer",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",
@@ -97,7 +97,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/bestbest.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/bestbest.zip",
       "label": "Best Of Best",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -105,7 +105,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/bloodstm.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/bloodstm.zip",
       "label": "Blood Storm",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -113,7 +113,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/bloodwar.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/bloodwar.zip",
       "label": "Blood Warrior",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -121,7 +121,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/bldyror2.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame2010/bldyror2.zip",
       "label": "Bloody Roar 2",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",
@@ -129,7 +129,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/breakers.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/breakers.zip",
       "label": "Breakers",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -137,7 +137,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/breakrev.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/breakrev.zip",
       "label": "Breakers Revenge",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -145,7 +145,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/brival.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/brival.zip",
       "label": "Burning Rival",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -153,7 +153,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/commandw.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/commandw.zip",
       "label": "Command War - Super Special Battle & War Game",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -161,7 +161,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/crusherm.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/crusherm.zip",
       "label": "Crusher Makochan",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -169,7 +169,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/cutefght.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/cutefght.zip",
       "label": "Cute Fighter",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -177,7 +177,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/cybots.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/cybots.zip",
       "label": "Cyberbots: Fullmetal Madness",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -185,7 +185,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/dankuga.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/dankuga.zip",
       "label": "Dan-Ku-Ga",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -193,7 +193,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/daraku.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbalpha2012/daraku.zip",
       "label": "Daraku Tenshi - The Fallen Angels",
       "core_path": "/tmp/cores/fbalpha2012_libretro.so",
       "core_name": "Arcade (FB Alpha 2012)",
@@ -201,7 +201,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/darkedge.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame2010/darkedge.zip",
       "label": "Dark Edge",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",
@@ -209,7 +209,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/dstlk.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/dstlk.zip",
       "label": "Darkstalkers: The Night Warriors",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -217,7 +217,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/doapp.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame2010/doapp.zip",
       "label": "Dead Or Alive ++",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",
@@ -225,7 +225,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/dinorex.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/dinorex.zip",
       "label": "Dino Rex",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -233,7 +233,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/doubledr.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/doubledr.zip",
       "label": "Double Dragon",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -241,7 +241,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/dbz.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/dbz.zip",
       "label": "Dragon Ball Z",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -249,7 +249,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/dbz2.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/dbz2.zip",
       "label": "Dragon Ball Z 2 - Super Battle",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -257,7 +257,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/dbzvrvs.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame2010/dbzvrvs.zip",
       "label": "Dragon Ball Z V.R.V.S.",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",
@@ -265,7 +265,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/drgnmst.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/drgnmst.zip",
       "label": "Dragon Master",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -273,7 +273,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/dragoonj.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/dragoonj.zip",
       "label": "Dragoon Might",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -281,7 +281,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/ehrgeiz.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame2010/ehrgeiz.zip",
       "label": "Ehrgeiz",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",
@@ -289,7 +289,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/kabukikl.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/kabukikl.zip",
       "label": "Far East of Eden - Kabuki Klash",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -297,7 +297,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/fatfury1.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/fatfury1.zip",
       "label": "Fatal Fury - King of Fighters",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -305,7 +305,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/fatfury2.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/fatfury2.zip",
       "label": "Fatal Fury 2",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -313,7 +313,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/fatfury3.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/fatfury3.zip",
       "label": "Fatal Fury 3 - Road to the Final Victory",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -321,7 +321,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/fatfursp.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/fatfursp.zip",
       "label": "Fatal Fury Special",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -329,7 +329,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/fightfev.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/fightfev.zip",
       "label": "Fight Fever",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -337,7 +337,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/fghthist.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/fghthist.zip",
       "label": "Fighter's History",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -345,7 +345,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/ftimpcta.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame2010/ftimpcta.zip",
       "label": "Fighters' Impact A",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",
@@ -353,7 +353,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/fgtlayer.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame2010/fgtlayer.zip",
       "label": "Fighting Layer",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",
@@ -361,7 +361,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/fitfight.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/fitfight.zip",
       "label": "Fit of Fighting",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -369,7 +369,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/gwarrior.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/gwarrior.zip",
       "label": "Galactic Warriors",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -377,7 +377,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/galaxyfg.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/galaxyfg.zip",
       "label": "Galaxy Fight - Universal Warriors",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -385,7 +385,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/garou.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/garou.zip",
       "label": "Garou - Mark of the Wolves",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -393,7 +393,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/godzilla.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/godzilla.zip",
       "label": "Godzilla",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -401,7 +401,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/plegends.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/plegends.zip",
       "label": "Gogetsuji Legends",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -409,7 +409,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/hvnsgate.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame2010/hvnsgate.zip",
       "label": "Heaven's Gate",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",
@@ -417,7 +417,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/hippodrm.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/hippodrm.zip",
       "label": "Hippodrome",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -425,7 +425,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/holo.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/holo.zip",
       "label": "Holosseum",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -433,7 +433,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/hsf2.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/hsf2.zip",
       "label": "Hyper Street Fighter II: The Anniversary Edition",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -441,7 +441,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/jchan.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame2010/jchan.zip",
       "label": "Jackie Chan - The Kung-Fu Master",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",
@@ -449,7 +449,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/jchan2.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame2010/jchan2.zip",
       "label": "Jackie Chan in Fists of Fire",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",
@@ -457,23 +457,23 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/jojobane.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/jojobane.zip",
       "label": "JoJo's Bizarre Adventure",
-      "core_path": "/tmp/cores/fbalpha2012_libretro.so",
-      "core_name": "Arcade (FB Alpha 2012)",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "DETECT",
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/jojo.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/jojo.zip",
       "label": "JoJo's Venture",
-      "core_path": "/tmp/cores/fbalpha2012_libretro.so",
-      "core_name": "Arcade (FB Alpha 2012)",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "DETECT",
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/kageki.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/kageki.zip",
       "label": "Kageki",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -481,7 +481,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/kaiserkn.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/kaiserkn.zip",
       "label": "Kaiser Knuckle",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -489,7 +489,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/kchamp.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/kchamp.zip",
       "label": "Karate Champ",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -497,7 +497,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/karnovr.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/karnovr.zip",
       "label": "Karnov's Revenge",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -505,7 +505,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/kizuna.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/kizuna.zip",
       "label": "Kizuna Encounter - Super Tag Battle",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -513,7 +513,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/knckhead.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/knckhead.zip",
       "label": "Knuckle Heads",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -521,7 +521,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/legendos.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/legendos.zip",
       "label": "Legend of Success Joe",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -529,7 +529,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/mtlchamp.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/mtlchamp.zip",
       "label": "Martial Champion",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -537,7 +537,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/martmast.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbalpha2012/martmast.zip",
       "label": "Martial Masters",
       "core_path": "/tmp/cores/fbalpha2012_libretro.so",
       "core_name": "Arcade (FB Alpha 2012)",
@@ -545,7 +545,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/msh.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/msh.zip",
       "label": "Marvel Super Heroes",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -553,7 +553,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/mshvsfj.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/mshvsfj.zip",
       "label": "Marvel Super Heroes Vs. Street Fighter",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -561,7 +561,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/mvsc.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/mvsc.zip",
       "label": "Marvel Vs. Capcom: Clash of Super Heroes",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -569,7 +569,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/matrim.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/matrim.zip",
       "label": "Matrimelee",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -577,7 +577,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/mwarr.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/mwarr.zip",
       "label": "Mighty Warriors",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -585,7 +585,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/msgundam.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/msgundam.zip",
       "label": "Mobile Suit Gundam",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -593,7 +593,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/gundamex.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/gundamex.zip",
       "label": "Mobile Suit Gundam EX Revue",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -601,7 +601,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/mk.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/mk.zip",
       "label": "Mortal Kombat",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -609,7 +609,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/mk3.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/mk3.zip",
       "label": "Mortal Kombat 3",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -617,7 +617,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/mk2.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/mk2.zip",
       "label": "Mortal Kombat II",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -625,7 +625,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/mutantf.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/mutantf.zip",
       "label": "Mutant Fighter",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -633,7 +633,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/nwarr.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/nwarr.zip",
       "label": "Night Warriors: Darkstalkers' Revenge",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -641,7 +641,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/ninjamas.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/ninjamas.zip",
       "label": "Ninja Master's - Haoh-ninpo-cho",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -649,7 +649,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/onna34ro.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/onna34ro.zip",
       "label": "Onna Sanshirou - Typhoon Gal",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -657,7 +657,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/pitfight.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/pitfight.zip",
       "label": "Pit Fighter",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -665,7 +665,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/plsmaswd.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame2010/plsmaswd.zip",
       "label": "Plasma Sword: Nightmare of Bilstein",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",
@@ -673,7 +673,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/powerins.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/powerins.zip",
       "label": "Power Instinct",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -681,7 +681,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/pwrinst2.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/pwrinst2.zip",
       "label": "Power Instinct 2",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -689,7 +689,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/primrage.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/primrage.zip",
       "label": "Primal Rage",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -697,7 +697,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/psyforce.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame2010/psyforce.zip",
       "label": "Psychic Force",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",
@@ -705,7 +705,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/rabbit.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/rabbit.zip",
       "label": "Rabbit",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -713,7 +713,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/rotd.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/rotd.zip",
       "label": "Rage of the Dragons",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -721,7 +721,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/ragnagrd.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/ragnagrd.zip",
       "label": "Ragnagard",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -729,7 +729,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/rbff1.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/rbff1.zip",
       "label": "Real Bout Fatal Fury",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -737,7 +737,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/rbff2.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/rbff2.zip",
       "label": "Real Bout Fatal Fury 2 - The Newcomers",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -745,7 +745,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/rbffspec.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/rbffspec.zip",
       "label": "Real Bout Fatal Fury Special",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -753,7 +753,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/rvschool.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame2010/rvschool.zip",
       "label": "Rival Schools: United By Fate",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",
@@ -761,7 +761,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/svg.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/svg.zip",
       "label": "S.V.G. - Spectral vs Generation",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -769,7 +769,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/samsho.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/samsho.zip",
       "label": "Samurai Shodown",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -777,7 +777,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/samsho2.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/samsho2.zip",
       "label": "Samurai Shodown II",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -785,7 +785,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/samsho3.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/samsho3.zip",
       "label": "Samurai Shodown III",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -793,7 +793,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/samsho4.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/samsho4.zip",
       "label": "Samurai Shodown IV - Amakusa's Revenge",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -801,7 +801,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/samsho5.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/samsho5.zip",
       "label": "Samurai Shodown V",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -809,7 +809,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/samsh5sp.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/samsh5sp.zip",
       "label": "Samurai Shodown V Special",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -817,7 +817,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/samsh5fe.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/samsh5fe.zip",
       "label": "Samurai Shodown V Special - Final Edition",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -825,7 +825,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/savagere.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/savagere.zip",
       "label": "Savage Reign",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -833,7 +833,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/schmeisr.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/schmeisr.zip",
       "label": "Schmeiser Robo",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -841,7 +841,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/shangkid.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/shangkid.zip",
       "label": "Shanghai Kid",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -849,7 +849,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/shogwarr.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame2010/shogwarr.zip",
       "label": "Shogun Warriors",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",
@@ -857,7 +857,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/svc.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/svc.zip",
       "label": "SNK vs. Capcom - SVC Chaos",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -865,7 +865,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/solfigtr.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame2010/solfigtr.zip",
       "label": "Solitary Fighter",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",
@@ -873,7 +873,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/soulclbr.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame2010/soulclbr.zip",
       "label": "Soul Calibur",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",
@@ -881,7 +881,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/souledge.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame2010/souledge.zip",
       "label": "Soul Edge Ver. II",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",
@@ -889,7 +889,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/starglad.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame2010/starglad.zip",
       "label": "Star Gladiator Episode I: Final Crusade",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",
@@ -897,7 +897,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/sf.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/sf.zip",
       "label": "Street Fighter",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -905,7 +905,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/sfa2.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/sfa2.zip",
       "label": "Street Fighter Alpha 2",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -913,7 +913,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/sfa3.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/sfa3.zip",
       "label": "Street Fighter Alpha 3",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -921,7 +921,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/sfa.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/sfa.zip",
       "label": "Street Fighter Alpha: Warriors' Dreams",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -929,7 +929,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/sfex.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame2010/sfex.zip",
       "label": "Street Fighter EX",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",
@@ -937,7 +937,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/sfexp.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame2010/sfexp.zip",
       "label": "Street Fighter EX Plus",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",
@@ -945,7 +945,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/sfex2.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame2010/sfex2.zip",
       "label": "Street Fighter EX2",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",
@@ -953,7 +953,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/sfex2p.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame2010/sfex2p.zip",
       "label": "Street Fighter EX2 Plus",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",
@@ -961,7 +961,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/sf2hfj.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/sf2hfj.zip",
       "label": "Street Fighter II' Turbo: Hyper Fighting",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -969,7 +969,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/sf2ce.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/sf2ce.zip",
       "label": "Street Fighter II': Champion Edition",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -977,7 +977,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/sf2hf.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/sf2hf.zip",
       "label": "Street Fighter II': Hyper Fighting",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -985,7 +985,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/sf2.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/sf2.zip",
       "label": "Street Fighter II: The World Warrior",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -993,31 +993,31 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/sfiii2.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/sfiii2.zip",
       "label": "Street Fighter III 2nd Impact: Giant Attack",
-      "core_path": "/tmp/cores/fbalpha2012_libretro.so",
-      "core_name": "Arcade (FB Alpha 2012)",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "DETECT",
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/sfiii3.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/sfiii3.zip",
       "label": "Street Fighter III 3rd Strike: Fight for the Future",
-      "core_path": "/tmp/cores/fbalpha2012_libretro.so",
-      "core_name": "FB Alpha 2012",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "DETECT",
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/sfiii.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/sfiii.zip",
       "label": "Street Fighter III: New Generation",
-      "core_path": "/tmp/cores/fbalpha2012_libretro.so",
-      "core_name": "Arcade (FB Alpha 2012)",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "DETECT",
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/sfz2al.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/sfz2al.zip",
       "label": "Street Fighter Zero 2 Alpha",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -1025,7 +1025,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/sftm.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/sftm.zip",
       "label": "Street Fighter: The Movie",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -1033,7 +1033,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/sgemf.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/sgemf.zip",
       "label": "Super Gem Fighter Mini Mix",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -1041,7 +1041,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/ssf2t.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/ssf2t.zip",
       "label": "Super Street Fighter II Turbo",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -1049,7 +1049,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/ssf2xj.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/ssf2xj.zip",
       "label": "Super Street Fighter II X: Grand Master Challenge",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -1057,7 +1057,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/ssf2.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/ssf2.zip",
       "label": "Super Street Fighter II: The New Challengers",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -1065,7 +1065,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/ssoldier.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/ssoldier.zip",
       "label": "Superior Soldiers",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -1073,7 +1073,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/survarts.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/survarts.zip",
       "label": "Survival Arts",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -1081,7 +1081,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/taotaido.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/taotaido.zip",
       "label": "Tao Taido",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -1089,7 +1089,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/tattass.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/tattass.zip",
       "label": "Tattoo Assassins",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -1097,7 +1097,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/techromn.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame2010/techromn.zip",
       "label": "Tech Romancer",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",
@@ -1105,7 +1105,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/tekken.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame2010/tekken.zip",
       "label": "Tekken",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",
@@ -1113,7 +1113,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/tekken2.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame2010/tekken2.zip",
       "label": "Tekken 2 Ver.B",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",
@@ -1121,7 +1121,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/tekken3.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame2010/tekken3.zip",
       "label": "Tekken 3",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",
@@ -1129,7 +1129,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/tektagt.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame2010/tektagt.zip",
       "label": "Tekken Tag Tournament",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",
@@ -1137,7 +1137,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/histryma.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/histryma.zip",
       "label": "The History of Martial Arts",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -1145,7 +1145,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/karatour.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/karatour.zip",
       "label": "The Karate Tournament",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -1153,7 +1153,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/killbld.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbalpha2012/killbld.zip",
       "label": "The Killing Blade",
       "core_path": "/tmp/cores/fbalpha2012_libretro.so",
       "core_name": "Arcade (FB Alpha 2012)",
@@ -1161,7 +1161,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/killbldp.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/killbldp.zip",
       "label": "The Killing Blade Plus",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -1169,7 +1169,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/kof94.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/kof94.zip",
       "label": "The King of Fighters '94",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -1177,7 +1177,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/kof95.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/kof95.zip",
       "label": "The King of Fighters '95",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -1185,7 +1185,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/kof96.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/kof96.zip",
       "label": "The King of Fighters '96",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -1193,7 +1193,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/kof97.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/kof97.zip",
       "label": "The King of Fighters '97",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -1201,7 +1201,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/kof98.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/kof98.zip",
       "label": "The King of Fighters '98 - The Slugfest",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -1209,7 +1209,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/kof99.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/kof99.zip",
       "label": "The King of Fighters '99 - Millennium Battle",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -1217,7 +1217,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/kf2k5uni.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/kf2k5uni.zip",
       "label": "The King of Fighters 10th Anniversary 2005 Unique",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -1225,7 +1225,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/kof2000.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/kof2000.zip",
       "label": "The King of Fighters 2000",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -1233,7 +1233,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/kof2001.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/kof2001.zip",
       "label": "The King of Fighters 2001",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -1241,7 +1241,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/kof2002.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/kof2002.zip",
       "label": "The King of Fighters 2002",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -1249,7 +1249,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/kof2003.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/kof2003.zip",
       "label": "The King of Fighters 2003",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -1257,7 +1257,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/lastblad.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/lastblad.zip",
       "label": "The Last Blade",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -1265,7 +1265,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/lastbld2.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/lastbld2.zip",
       "label": "The Last Blade 2",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -1273,7 +1273,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/timekill.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/timekill.zip",
       "label": "Time Killers",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -1281,7 +1281,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/tkdensho.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/tkdensho.zip",
       "label": "Toukidenshou - Angel Eyes",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -1289,7 +1289,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/umk3.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/umk3.zip",
       "label": "Ultimate Mortal Kombat 3",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -1297,7 +1297,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/ultraman.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/ultraman.zip",
       "label": "Ultraman",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -1305,7 +1305,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/vhunt2.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/vhunt2.zip",
       "label": "Vampire Hunter 2: Darkstalkers Revenge",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -1313,7 +1313,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/vsav2.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/vsav2.zip",
       "label": "Vampire Savior 2: The Lord of Vampire",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -1321,7 +1321,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/vsav.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/vsav.zip",
       "label": "Vampire Savior: The Lord of Vampire",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -1329,7 +1329,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/viofight.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/viofight.zip",
       "label": "Violence Fight",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -1337,7 +1337,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/vf.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/vf.zip",
       "label": "Virtua Fighter",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -1345,7 +1345,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/gowcaizr.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/gowcaizr.zip",
       "label": "Voltage Fighter - Gowcaizer",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -1353,7 +1353,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/wakuwak7.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/wakuwak7.zip",
       "label": "Waku Waku 7",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -1361,7 +1361,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/wh1.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/wh1.zip",
       "label": "World Heroes",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -1369,7 +1369,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/wh2.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/wh2.zip",
       "label": "World Heroes 2",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -1377,7 +1377,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/wh2j.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/wh2j.zip",
       "label": "World Heroes 2 Jet",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -1385,7 +1385,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/whp.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/whp.zip",
       "label": "World Heroes Perfect",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -1393,7 +1393,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/xmvsf.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/xmvsf.zip",
       "label": "X-Men Vs. Street Fighter",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -1401,7 +1401,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/xmcota.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/xmcota.zip",
       "label": "X-Men: Children of the Atom",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -1409,7 +1409,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus/yiear.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/yiear.zip",
       "label": "Yie Ar Kung-Fu",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -1417,7 +1417,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus Co-op/gunmast.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/gunmast.zip",
       "label": "Gun Master",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -1425,7 +1425,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus Co-op/kbash.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/kbash.zip",
       "label": "Knuckle Bash",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -1433,7 +1433,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus Co-op/kbash2.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/kbash2.zip",
       "label": "Knuckle Bash 2",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -1441,7 +1441,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus Co-op/megaman2.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/megaman2.zip",
       "label": "Mega Man 2: The Power Fighters",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -1449,7 +1449,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus Co-op/megaman.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/megaman.zip",
       "label": "Mega Man: The Power Battle",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -1457,7 +1457,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus Co-op/metmqstr.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/metmqstr.zip",
       "label": "Metamoqester",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -1465,7 +1465,7 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus Co-op/mmaulers.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/mmaulers.zip",
       "label": "Monster Maulers",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -1473,15 +1473,15 @@
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus Co-op/redearth.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/redearth.zip",
       "label": "Red Earth",
-      "core_path": "/tmp/cores/fbalpha2012_libretro.so",
-      "core_name": "Arcade (FB Alpha 2012)",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
       "crc32": "DETECT",
       "db_name": "Fighter - Versus.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Fighter/Versus Co-op/streetsm.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/streetsm.zip",
       "label": "Street Smart",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",

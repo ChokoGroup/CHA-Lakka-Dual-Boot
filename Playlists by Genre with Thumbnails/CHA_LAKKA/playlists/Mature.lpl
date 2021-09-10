@@ -9,7 +9,7 @@
   "sort_mode": 0,
   "items": [
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Arcade/Pinball/galspnbl.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/galspnbl.zip",
       "label": "Gals Pinball",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -17,7 +17,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Arcade/Pinball/hotpinbl.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/hotpinbl.zip",
       "label": "Hot Pinball",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -25,7 +25,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Arcade/Pinball/pkgnshdx.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame2010/pkgnshdx.zip",
       "label": "Pachinko Gindama Shoubu DX",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",
@@ -33,7 +33,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Arcade/Pinball/sxyreact.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/sxyreact.zip",
       "label": "Pachinko Sexy Reaction",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -41,7 +41,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Arcade/Pinball/sxyreac2.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/sxyreac2.zip",
       "label": "Pachinko Sexy Reaction 2",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -49,7 +49,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Arcade/Pinball/spbactn.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/spbactn.zip",
       "label": "Super Pinball Action",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -57,7 +57,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Ball and Paddle/Breakout/blockgal.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/blockgal.zip",
       "label": "Block Gal",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -65,7 +65,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Ball and Paddle/Breakout/madball.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/madball.zip",
       "label": "Mad Ball V2.0",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -73,7 +73,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Ball and Paddle/Breakout/jongbou.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame2010/jongbou.zip",
       "label": "Mahjong Block Jongbou",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",
@@ -81,7 +81,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Ball and Paddle/Breakout/peekaboo.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/peekaboo.zip",
       "label": "Peek-a-Boo!",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -89,7 +89,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Ball and Paddle/Breakout/plgirls.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/plgirls.zip",
       "label": "Play Girls",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -97,7 +97,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Ball and Paddle/Breakout/wiggie.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/wiggie.zip",
       "label": "Wiggie Waggie",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -105,14 +105,14 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Ball and Paddle/Breakout/zipzap.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame2010/zipzap.zip",
       "label": "Zip & Zap",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",
       "crc32": "DETECT",
       "db_name": "Mature.lpl"
     },{
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Fighter/Versus/blandia.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/blandia.zip",
       "label": "Blandia",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -120,7 +120,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Maze/Blocks/puzznic.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/puzznic.zip",
       "label": "Puzznic",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -128,7 +128,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Maze/Collect/maddonna.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/maddonna.zip",
       "label": "Mad Donna",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -136,7 +136,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Maze/Collect/streakng.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/streakng.zip",
       "label": "Streaking",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -144,7 +144,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Maze/Collect/twinbrat.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/twinbrat.zip",
       "label": "Twin Brats",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -152,7 +152,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Maze/Digging/stoffy.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/stoffy.zip",
       "label": "Super Toffy",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -160,7 +160,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Maze/Driving/ppcar.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame2010/ppcar.zip",
       "label": "Pang Pang Car",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",
@@ -168,7 +168,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Maze/Escape/loverboy.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/loverboy.zip",
       "label": "Lover Boy",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -176,7 +176,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Maze/Escape/pushman.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/pushman.zip",
       "label": "Pushman",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -184,7 +184,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/MultiGame/Compilation/nmg5.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/nmg5.zip",
       "label": "Multi 5",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -192,7 +192,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/MultiGame/Compilation/mchampdx.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/mchampdx.zip",
       "label": "Multi Champ Deluxe",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -200,7 +200,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/MultiGame/Compilation/pclubys.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/pclubys.zip",
       "label": "Puzzle Club",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -208,7 +208,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Multiplay/Mini-Games/usgames.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/usgames.zip",
       "label": "Games V25.4X",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -216,7 +216,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Platform/Run Jump/missb2.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/missb2.zip",
       "label": "Miss Bubble II",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -224,7 +224,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Platform/Run Jump/pangpang.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/pangpang.zip",
       "label": "Pang Pang",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -232,7 +232,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Platform/Run Jump/pipibibs.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/pipibibs.zip",
       "label": "Pipi & Bibis",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -240,7 +240,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Drop/bigtwin.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/bigtwin.zip",
       "label": "Big Twin",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -248,7 +248,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Drop/bballs.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/bballs.zip",
       "label": "Bouncing Balls",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -256,7 +256,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Drop/ddealer.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame2010/ddealer.zip",
       "label": "Double Dealer",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",
@@ -264,7 +264,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Drop/drtomy.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/drtomy.zip",
       "label": "Dr. Tomy",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -272,7 +272,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Drop/ertictac.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame2010/ertictac.zip",
       "label": "Erotictac",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",
@@ -280,7 +280,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Drop/grndtour.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/grndtour.zip",
       "label": "Grand Tour",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -288,7 +288,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Drop/gumbo.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/gumbo.zip",
       "label": "Gumbo",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -296,7 +296,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Drop/gundealr.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/gundealr.zip",
       "label": "Gun Dealer",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -304,7 +304,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Drop/gundl94.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/gundl94.zip",
       "label": "Gun Dealer '94",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -312,7 +312,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Drop/hexa.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/hexa.zip",
       "label": "Hexa",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -320,7 +320,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Drop/hotblock.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame2010/hotblock.zip",
       "label": "Hot Blocks - Tetrix II",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",
@@ -328,7 +328,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Drop/lvgirl94.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/lvgirl94.zip",
       "label": "Las Vegas Girl",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -336,7 +336,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Drop/magix.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/magix.zip",
       "label": "Magix",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -344,7 +344,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Drop/msbingo.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/msbingo.zip",
       "label": "Miss Bingo",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -352,7 +352,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Drop/mspuzzle.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/mspuzzle.zip",
       "label": "Miss Puzzle",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -360,7 +360,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Drop/news.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/news.zip",
       "label": "News",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -368,7 +368,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Drop/popbingo.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/popbingo.zip",
       "label": "Pop Bingo",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -376,7 +376,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Drop/rocktris.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/rocktris.zip",
       "label": "Rock Tris",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -384,7 +384,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Drop/sadari.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/sadari.zip",
       "label": "Sadari",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -392,7 +392,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Drop/torus.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/torus.zip",
       "label": "Torus",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -400,7 +400,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Drop/zerozone.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/zerozone.zip",
       "label": "Zero Zone",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -408,7 +408,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Match/3x3puzzl.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/3x3puzzl.zip",
       "label": "3X3 Puzzle",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -416,7 +416,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Match/casanova.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/casanova.zip",
       "label": "Casanova",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -424,7 +424,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Match/dblpoint.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/dblpoint.zip",
       "label": "Double Point",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -432,7 +432,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Match/drgpunch.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/drgpunch.zip",
       "label": "Dragon Punch",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -440,7 +440,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Match/drgnwrld.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/drgnwrld.zip",
       "label": "Dragon World",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -448,7 +448,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Match/goori.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/goori.zip",
       "label": "Goori Goori",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -456,7 +456,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Match/honeydol.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/honeydol.zip",
       "label": "Honey Dolls",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -464,7 +464,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Match/inca.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/inca.zip",
       "label": "Inca",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -472,7 +472,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Match/choko.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/choko.zip",
       "label": "Janpai Puzzle Choukou",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -480,7 +480,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Match/matchit2.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/matchit2.zip",
       "label": "Match It II",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -488,7 +488,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Match/maya.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/maya.zip",
       "label": "Maya",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -496,7 +496,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Match/niyanpai.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/niyanpai.zip",
       "label": "Niyanpai",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -504,7 +504,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Match/ohpaipee.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame2010/ohpaipee.zip",
       "label": "Oh! Paipee",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",
@@ -512,7 +512,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Match/onetwo.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/onetwo.zip",
       "label": "One + Two",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -520,7 +520,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Match/pairs.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/pairs.zip",
       "label": "Pairs",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -528,7 +528,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Match/pairsnb.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame2010/pairsnb.zip",
       "label": "Pairs by Nichibutsu",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",
@@ -536,7 +536,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Match/pairlove.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/pairlove.zip",
       "label": "Pairs Love",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -544,7 +544,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Match/rongrong.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/rongrong.zip",
       "label": "Puzzle Game Rong Rong",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -552,7 +552,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Match/3kokushi.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/3kokushi.zip",
       "label": "Sankokushi",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -560,7 +560,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Match/stealsee.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/stealsee.zip",
       "label": "Steal See",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -568,7 +568,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Match/xfiles.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame2010/xfiles.zip",
       "label": "The X-Files",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",
@@ -576,7 +576,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Match/togenkyo.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame2010/togenkyo.zip",
       "label": "Tougenkyou",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",
@@ -584,7 +584,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Match/worldadv.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/worldadv.zip",
       "label": "World Adventure",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -592,7 +592,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Match/dwpc.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/dwpc.zip",
       "label": "Zhongguo Long Pretty Chance",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -600,7 +600,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Misc/paprazzi.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/paprazzi.zip",
       "label": "Paparazzi",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -608,7 +608,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Misc/pgm3in1.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/pgm3in1.zip",
       "label": "Shan Liang San He Yi",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -616,7 +616,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Misc/sliver.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame2010/sliver.zip",
       "label": "Sliver",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",
@@ -624,7 +624,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Outline/danceyes.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame2010/danceyes.zip",
       "label": "Dancing Eyes",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",
@@ -632,7 +632,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Outline/fantasia.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/fantasia.zip",
       "label": "Fantasia",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -640,7 +640,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Outline/fantsia2.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/fantsia2.zip",
       "label": "Fantasia II",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -648,7 +648,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Outline/galpanic.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/galpanic.zip",
       "label": "Gals Panic",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -656,7 +656,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Outline/galpani3.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/galpani3.zip",
       "label": "Gals Panic 3",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -664,7 +664,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Outline/galpani4.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/galpani4.zip",
       "label": "Gals Panic 4",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -672,7 +672,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Outline/galpanis.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/galpanis.zip",
       "label": "Gals Panic S - Extra Edition",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -680,7 +680,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Outline/galpans2.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/galpans2.zip",
       "label": "Gals Panic S2",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -688,7 +688,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Outline/galpans3.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/galpans3.zip",
       "label": "Gals Panic S3",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -696,7 +696,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Outline/ladykill.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/ladykill.zip",
       "label": "Lady Killer",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -704,7 +704,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Outline/landbrk.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/landbrk.zip",
       "label": "Land Breaker",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -712,7 +712,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Outline/missw96.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/missw96.zip",
       "label": "Miss World '96",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -720,7 +720,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Outline/missw02.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/missw02.zip",
       "label": "Miss World 2002",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -728,7 +728,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Outline/newfant.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/newfant.zip",
       "label": "New Fantasia",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -736,7 +736,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Outline/paradise.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/paradise.zip",
       "label": "Paradise",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -744,7 +744,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Outline/para2dx.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame2010/para2dx.zip",
       "label": "Paradise 2 Deluxe",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",
@@ -752,7 +752,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Outline/paradlx.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame2010/paradlx.zip",
       "label": "Paradise Deluxe",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",
@@ -760,7 +760,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Outline/prtytime.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/prtytime.zip",
       "label": "Party Time: Gonta the Diver II",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -768,7 +768,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Outline/perestro.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame2010/perestro.zip",
       "label": "Perestroika Girls",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",
@@ -776,7 +776,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Outline/wondstck.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/wondstck.zip",
       "label": "Wonder Stick",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -784,7 +784,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Outline/wownfant.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/wownfant.zip",
       "label": "WOW New Fantasia",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -792,7 +792,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Paint/splash.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/splash.zip",
       "label": "Splash!",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -800,7 +800,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Reconstruction/penfan.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/penfan.zip",
       "label": "Penfan Girls - Step1. Mild Mind",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -808,7 +808,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Sliding/pzletime.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame2010/pzletime.zip",
       "label": "Puzzle Time",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",
@@ -816,7 +816,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Sliding/puzzlet.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame2010/puzzlet.zip",
       "label": "Puzzlet",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",
@@ -824,7 +824,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Toss/bubl2000.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/bubl2000.zip",
       "label": "Bubble 2000",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -832,7 +832,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Toss/cannball.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/cannball.zip",
       "label": "Cannon Ball",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -840,7 +840,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Toss/funybubl.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/funybubl.zip",
       "label": "Funny Bubble",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -848,7 +848,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Puzzle/Toss/suplup.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/suplup.zip",
       "label": "Super Lup Lup Puzzle",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -856,7 +856,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Shooter/Flying Horizontal/sexyparo.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/sexyparo.zip",
       "label": "Sexy Parodius",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -864,7 +864,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Shooter/Flying/excelsr.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/excelsr.zip",
       "label": "Excelsior",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -872,7 +872,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Shooter/Flying/glass.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/glass.zip",
       "label": "Glass",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -880,7 +880,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Shooter/Gallery/discoboy.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/discoboy.zip",
       "label": "Disco Boy",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -888,7 +888,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Shooter/Gallery/plgirls2.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/plgirls2.zip",
       "label": "Play Girls 2",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -896,7 +896,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Shooter/Outline/roldfrog.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame2010/roldfrog.zip",
       "label": "The Return of Lady Frog",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",
@@ -904,7 +904,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Sports/Pool/realbrk.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/realbrk.zip",
       "label": "Billiard Academy Real Break",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -912,7 +912,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Sports/Pool/pcktgal.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame/pcktgal.zip",
       "label": "Pocket Gal",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -920,7 +920,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Sports/Pool/pktgaldx.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/pktgaldx.zip",
       "label": "Pocket Gal Deluxe",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -928,7 +928,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Sports/Pool/pgalvip.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/fbneo/pgalvip.zip",
       "label": "Pocket Gals V.I.P",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -936,7 +936,7 @@
       "db_name": "Mature.lpl"
     },
     {
-      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/Mature/Sports/Pool/pokechmp.zip",
+      "path": "/storage/roms/CHOKO/CHA_LAKKA/roms/mame2010/pokechmp.zip",
       "label": "Poke Champ",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",

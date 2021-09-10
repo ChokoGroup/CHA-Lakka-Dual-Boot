@@ -9,7 +9,7 @@
   "sort_mode": 0,
   "items": [
     {
-      "path": "/storage/roms/Climbing/Tree - Plant/angelkds.zip",
+      "path": "/storage/roms/mame/angelkds.zip",
       "label": "Angel Kids",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -17,7 +17,7 @@
       "db_name": "Climbing.lpl"
     },
     {
-      "path": "/storage/roms/Climbing/Tree - Plant/birdiy.zip",
+      "path": "/storage/roms/fbneo/birdiy.zip",
       "label": "Birdiy",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -25,7 +25,7 @@
       "db_name": "Climbing.lpl"
     },
     {
-      "path": "/storage/roms/Climbing/Building/cclimber.zip",
+      "path": "/storage/roms/mame/cclimber.zip",
       "label": "Crazy Climber",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -33,7 +33,7 @@
       "db_name": "Climbing.lpl"
     },
     {
-      "path": "/storage/roms/Climbing/Building/cclimbr2.zip",
+      "path": "/storage/roms/mame/cclimbr2.zip",
       "label": "Crazy Climber 2",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -41,7 +41,7 @@
       "db_name": "Climbing.lpl"
     },
     {
-      "path": "/storage/roms/Climbing/Building/firetrap.zip",
+      "path": "/storage/roms/mame/firetrap.zip",
       "label": "Fire Trap",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",
@@ -49,7 +49,7 @@
       "db_name": "Climbing.lpl"
     },
     {
-      "path": "/storage/roms/Climbing/Tree - Plant/jack.zip",
+      "path": "/storage/roms/fbneo/jack.zip",
       "label": "Jack the Giantkiller",
       "core_path": "/tmp/cores/fbneo_libretro.so",
       "core_name": "Arcade (FinalBurn Neo)",
@@ -57,7 +57,7 @@
       "db_name": "Climbing.lpl"
     },
     {
-      "path": "/storage/roms/Climbing/Tree - Plant/nob.zip",
+      "path": "/storage/roms/mame2010/nob.zip",
       "label": "Noboranka",
       "core_path": "/tmp/cores/mame2010_libretro.so",
       "core_name": "Arcade (MAME 2010)",
@@ -65,7 +65,7 @@
       "db_name": "Climbing.lpl"
     },
     {
-      "path": "/storage/roms/Climbing/Mountain - Wall/rockclim.zip",
+      "path": "/storage/roms/mame/rockclim.zip",
       "label": "Rock Climber",
       "core_path": "/tmp/cores/mame2003_plus_libretro.so",
       "core_name": "Arcade (MAME 2003-Plus)",

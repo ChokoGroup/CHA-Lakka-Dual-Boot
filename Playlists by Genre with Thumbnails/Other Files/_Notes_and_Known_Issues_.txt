@@ -1,11 +1,5 @@
 ___ Ball and Paddle ___
 
-# Circus (circus)
-- Sample files included in system/mame2003-plus/samples.
-
-# Ghox (ghox)
-- Sample files included in system/mame2003-plus/samples to play with mame2003-plus core. Sound stutters with FB Neo core.
-
 # Monkey Magic (mmagic)
 - Samples in system/fbneo/samples
 
