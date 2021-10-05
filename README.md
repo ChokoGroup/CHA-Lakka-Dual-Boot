@@ -1,8 +1,8 @@
 If you're looking for the "CHA-Lakka Installer and Updater" it evolved to https://github.com/ChokoGroup/CHA-Multi-OS-Boot
 
-
-
-
+##
+# This repository is not updated to work with the new "Multi OS builds"!
+##
 # CHA - Lakka - Playlists by Genre
 This pack has two folders:
 - CHA_LAKKA (with playlists by genre and thumbnails - VERY INCOMPLETE)
@@ -22,13 +22,13 @@ They are meant to be used in Lakka, running in Capcom Home Arcade (hence the fol
 ### How to use the existing playlists - Loading from USB
 1. Make sure your drive is in a supported format, like FAT32.
 
-2. ~~Make sure the label of your pendrive is "CHOKO" - this is because Lakka mounts USB drives under /storage/roms/ using the label. 
-In Windows, you can change the label of your pendrive by right-clicking in the drive letter and select "Rename".~~
+2. Make sure the label of your pendrive is "CHOKO" - this is because Lakka mounts USB drives under /storage/roms/ using the label. 
+In Windows, you can change the label of your pendrive by right-clicking in the drive letter and select "Rename".
 
-3. ~~Copy the folder CHA_LAKKA to the root of your CHOKO pendrive. It doesn't need to be empty, you can have other folders.~~
+3. Copy the folder CHA_LAKKA to the root of your CHOKO pendrive. It doesn't need to be empty, you can have other folders.
 
-4. ~~You need to put the ROMs in *.zip format, in folders inside 'CHA_LAKKA/roms'. It isn't easy to put all the right roms in the right place, but there are lists inside the folder "roms".~~
-This is outdated for Multi OS builds!
+4. You need to put the ROMs in *.zip format, in folders inside 'CHA_LAKKA/roms'. It isn't easy to put all the right roms in the right place, but there are lists inside the folder "roms".
+
 5. If you don't want the "double view" of snapshot and title screen, go into all subfolders under 'thumbnails' and replace the folders named 'Named_Titles' with those named 'Named_Titles_2'.
 
 6. Now insert the pendrive in the USB EXT port of the CHA and boot into Lakka. Enjoy!
