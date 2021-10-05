@@ -1,83 +1,84 @@
-# CHA Lakka Installer and Updater v4.3.1 for Choko Hack v12
-Scripts and assets to use Lakka in Capcom Home Arcade either with or without SD card reader.
+If you're looking for the "CHA-Lakka Installer and Updater" it evolved to https://github.com/ChokoGroup/CHA-Multi-OS-Boot
 
 
-### Highlights
-
-- The original system, with games and features is all there. You can continue to enjoy the CHA as it was made by the developers. This dual boot is compatible with all version of CHA at least until 1.6 (very likely to be compatible with future versions) and you can install official updates as usual.
-- Even if your CHA doesn't have a SD card reader, the CHA has almost 3 GB of available internal memory and you can also use an USB flash drive to load ROMs and assets.
-- Retroarch supports thousands of games, custom themes, bezels, Netplay, and more!
-- With Lakka you can upload ROMs and other files to the CHA through your WiFi network, even update the cores.
-- 3 players support with controllers plugged into USB EXT (only in games that support 3 players, obviously).
 
 
-### How to Install
+# CHA - Lakka - Playlists by Genre
+This pack has two folders:
+- CHA_LAKKA (with playlists by genre and thumbnails - VERY INCOMPLETE)
+- CHA_LAKKA_EMPTY (with a script to create RetroArch Customized Playlists, optionally with thumbnails)
 
-The easy way: 
-
-Extract the \*.img file included in https://github.com/ChokoGroup/CHA-Lakka-Installer-and-Updater/releases/latest and write it to eMMC or a SD card using balenaEtcher, Win32 Disk Imager or HDD Raw Copy Tool.
-
-The hard way: 
-
-You'll find more detailled instructions with screenshots in the wiki, at https://cha-choko-mod.fandom.com/wiki/DUAL_BOOT_-_Installing_Lakka_in_the_CHA
-
-1. Use a suitable tool to expand the first partition of the CHA to fit the Lakka system files. Around 500 MB enough (1 GB if you want "online update") but *LEAVE 1 MB UNALLOCATED at start of the disc*;
-2. Download a Lakka system image file from https://www.lakka.tv/get/linux/allwinner/ (look for "Orange Pi Plus 2E" images - also available beta builds in "H3 devices");
-3. Open the downloaded file with 7-zip ( https://7-zip.org ) and extract the Lakka system files to the first partition of the CHA (KERNEL, SYSTEM and sun8i-h3-orangepi-plus2e.dtb);
-4. Eject the CHA safely and put this 'Lakka Installer and Updater' folder in the root of an USB flash drive.
-5. Insert the USB flash drive in the USB EXT port of the CHA. Power on the CHA and run this script to install the necessary files for swapping between the original CHA menu and RetroArch (Lakka Linux).
-
-The firt time you boot into Lakka, the CHA will reboot twice. The firts time you'll see a message saying it can't resize the partition, but in the second try it will expand the partition to use all available space.
-This will allow to use all eMMC space or (if you're running from SD) all SD card space.
+Honestly, this is more like a backup repository until all the playlists and thumbnails are finished.
 
 
-### Notes
+### Goal
+We can run Lakka in our Capcom Home Arcades but without playlists and thumbnails, a very important slice is missing.
+The primary goal is to create a set of playlists with thumbnails of games sorted by genre.
 
-By default, the ROMs folder for RetroArch is /storage/roms, but you can browse to /storage/usr/share/roms and play the official 19 games (yes, there are 19 games in the official 1.6 firmware).
-
-The hotkey for RetroArch Quick Menu (in game menu) is set to "Select + Start".
-
-Any USB drive you plug when running RetroArch will be mounted under ROMs folder. If you have ROMs in that pen they will be accessible from RetroArch.
-
-When you set the WiFi in RetroArch it may show some error and won't connect. Just try again or reboot and it will automatically connect to WiFi. 
+A script was made to easily create playlists from a set of ROMs (*.zip format) in several folders and subfolders and also get the thumbnails from the assets previosly downloaded from https://www.progettosnaps.net
+They are meant to be used in Lakka, running in Capcom Home Arcade (hence the folder named CHA_LAKKA, so it can be loaded from USB or copied to internal memory or SD card) but should work with other ReatroArch installations with little (or even no) changes.
 
 
-### Choko Hack Extra Feature
+### How to use the existing playlists - Loading from USB
+1. Make sure your drive is in a supported format, like FAT32.
 
-Besides loading ROMs (and playlists, assets, configuration files, etc.) from eMMC/SD card, this installation can also load those files from USB.
+2. Make sure the label of your pendrive is "CHOKO" - this is because Lakka mounts USB drives under /storage/roms/ using the label. 
+In Windows, you can change the label of your pendrive by right-clicking in the drive letter and select "Rename".
 
-1. Label you pendisk "CHOKO" (exactly like that) and create a folder in the root named "CHA_LAKKA". The pendisk doesn't need to be empty, but must be formatted in FAT or EXT (the same as for running CHA games from USB).
-2. Create the following structure (carefull, folders names are case sensitive), where you will put the necessary files for playlists, icons, overlays, ROMs, etc.:
+3. Copy the folder CHA_LAKKA to the root of your CHOKO pendrive. It doesn't need to be empty, you can have other folders.
 
+4. You need to put the ROMs in *.zip format, in folders inside 'CHA_LAKKA/roms'. It isn't easy to put all the right roms in the right place, but there are lists inside the folder "roms".
+
+5. If you don't want the "double view" of snapshot and title screen, go into all subfolders under 'thumbnails' and replace the folders named 'Named_Titles' with those named 'Named_Titles_2'.
+
+6. Now insert the pendrive in the USB EXT port of the CHA and boot into Lakka. Enjoy!
+
+
+### How to use the existing playlists - Install in SD card
+1. Make sure your CHA is running Lakka and connected to your home WiFi.
+
+2. From your PC, navigate directly to Lakka's Samba share by entering "\\lakka\" in the file browser. If you cannot reach the Lakka system by name, it may be possible to reach it by IP.
+
+3. Copy the content of the folder "CHA_LAKKA/assets (SD card)" to the folder "\\lakka\Assets".
+
+4. Copy the content of the folder "CHA_LAKKA/playlists (SD card)" to the folder "\\lakka\Playlists".
+
+5. Copy the content of the folder "CHA_LAKKA/roms" to the folder "\\lakka\roms".
+
+6. Copy the content of the folder "CHA_LAKKA/thumbnails" to the folder "\\lakka\thumbnails".
+
+7. If you don't want the "double view" of snapshot and title screen, go into all subfolders under 'thumbnails' and replace the folders named 'Named_Titles' with those named 'Named_Titles_2'.
+
+8. Reboot the CHA and enjoy!
+
+
+### What is inside CHA_LAKKA_EMPTY?
+A script named 'create_RA_playlists.sh', meant to run under linux. It was tested in Ubuntu running under Windows 10.
+
+1. Open that file and change the first lines to match the path where you have the boxart (or flyers), screenshots and titles. Or let any of them be empty to skip creating the correspondig thumbnails, like this:
 ```
-Folder PATH listing for volume CHOKO
+BOXARTS=""
+SNAPS=""
+TITLES=""
+```
+If the three options are empty, only the playlists are created, not the thumbnails folders.
 
-USB:\CHA_LAKKA
-├───roms
-├───cores
-├───.config
-│   └───retroarch
-│       └───config
-├───assets
-│   ├───backgrounds
-│   └───xmb
-│       └───monochrome
-│           └───png
-├───playlists
-├───overlays
-└───thumbnails
-    ├───PLAYLIST_NAME_1
-    │   ├───Named_Boxarts
-    │   ├───Named_Snaps
-    │   └───Named_Titles
-    └───PLAYLIST_NAME_2
-        ├───Named_Boxarts
-        ├───Named_Snaps
-        └───Named_Titles
+2. There is a variable ```BASEPATH="/storage/roms"``` that should not be changed for use in Lakka. It's the path for the parent folder of all ROMs subfolders.
+
+3. DEFAULTCOREPATH and DEFAULTCORENAME are used to set a default core to the playlists. Uncoment or edit the lines to set as you want them.
+
+4. The file 'games_names.txt' is generated by MAME with the command "mame.exe -listfull" and can be updated the same way.
+
+5. Put some ROMS in folders inside the 'roms' folder. They can be organized in subfolders, and a playlist will be created for each (sub) folder.
+For example:
+```
+roms/*.zip     (will be ignored)
+roms/Fight/*.zip     (will create a playlist named "Fight")
+roms/Fight/Versus/*.zip   (will create a playlist named "Fight - Versus")
 ```
 
-3. Now, if you boot into Lakka with this pendisk inserted in the USB EXT port, RetroArch will load the playlist and games from USB.
+6. Check if the thumbnails are OK. When an image with the same name as the *.zip is not found, a thumbnail file with zero bytes is still generated, for easy way to track missing images and know the correct name the thumbnail must have.
 
-Unfortunately, for customizing the UI loading assets from USB we need to copy all the icons used by system into assets/xmb/monochrome/png from their original path ( /usr/share/retroarch-assets ). That can be done with a SSH terminal.
+7. Copy ROMs and playlists (and thumbnails) to the Lakka shared folders.
 
-A way to build a folder with assets to load from USB is stored in 'Playlists by Genre with Thumbnails', but it's still very incomplete. It is a very slow process to build extensive playlists with games that run well in the CHA.
+8. Restart RetroArch and play.
