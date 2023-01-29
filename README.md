@@ -2,8 +2,8 @@
 
 ##
 This pack has two folders:
-- CHA_LAKKA (with playlists by genre and thumbnails - still missing "Shooter" and "Sport" games)
-- CHA_LAKKA_EMPTY (with a script to create RetroArch Customized Playlists, optionally with thumbnails)
+- CHOKO_DISK (with playlists by genre and thumbnails - still missing "Shooter" and "Sport" games)
+- CHOKO_DISK_EMPTY (with a script to create RetroArch Customized Playlists, optionally with thumbnails)
 
 This playlists are designed to work with the (not so) new "Multi OS builds" in https://github.com/ChokoGroup/CHA-Multi-OS-Boot
 
@@ -25,7 +25,7 @@ In Windows, you can change the label of your pendrive by right-clicking in the d
 
 3. Copy the content of the folder CHOKO_DISK to the root of your CHOKO_DISK pendrive.
 
-4. You need to put the ROMs in *.zip format, in folders inside 'CHA_LAKKA/roms'. It isn't easy to put all the right roms in the right place, but there are lists inside the folder "roms".
+4. You need to put the ROMs in *.zip format, in folders inside 'CHOKO_DISK/roms'. It isn't easy to put all the right roms in the right place, but there are lists inside the folder "roms".
 
 5. If you don't want the "double view" of snapshot and title screen, go into all subfolders under 'thumbnails' and replace the folders named 'Named_Titles' with those named 'Named_Titles_2'.
 
@@ -37,20 +37,20 @@ In Windows, you can change the label of your pendrive by right-clicking in the d
 
 2. From your PC, navigate directly to Lakka's Samba share by entering "\\lakka\" in the file browser. If you cannot reach the Lakka system by name, it may be possible to reach it by IP.
 
-3. Copy the content of the folder "CHA_LAKKA/assets" to the folder "\\lakka\Assets".
+3. Copy the content of the folder "CHOKO_DISK/assets" to the folder "\\lakka\Assets".
 
-4. Copy the content of the folder "CHA_LAKKA/playlists" to the folder "\\lakka\Playlists".
+4. Copy the content of the folder "CHOKO_DISK/playlists" to the folder "\\lakka\Playlists".
 
-5. Copy the content of the folder "CHA_LAKKA/roms" to the folder "\\lakka\roms".
+5. Copy the content of the folder "CHOKO_DISK/roms" to the folder "\\lakka\roms".
 
-6. Copy the content of the folder "CHA_LAKKA/thumbnails" to the folder "\\lakka\thumbnails".
+6. Copy the content of the folder "CHOKO_DISK/thumbnails" to the folder "\\lakka\thumbnails".
 
 7. If you don't want the "double view" of snapshot and title screen, go into all subfolders under 'thumbnails' and replace the folders named 'Named_Titles' with those named 'Named_Titles_2'.
 
 8. Reboot the CHA and enjoy!
 
 
-### What is inside CHA_LAKKA_EMPTY?
+### What is inside CHOKO_DISK_EMPTY?
 A script named 'create_RA_playlists.sh', meant to run under linux. It was tested in Ubuntu running under Windows 10.
 
 1. Open that file and change the first lines to match the path where you have the boxart (or flyers), screenshots and titles. Or let any of them be empty to skip creating the correspondig thumbnails, like this:
