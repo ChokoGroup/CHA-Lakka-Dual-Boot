@@ -1,0 +1,1412 @@
+{
+  "version": "1.5",
+  "default_core_path": "/tmp/cores/fbneo_libretro.so",
+  "default_core_name": "Arcade (FinalBurn Neo)",
+  "base_content_directory": "/storage/roms",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/storage/roms/fbneo/Puzzle/4enraya.zip",
+      "label": "4 En Raya",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/agress.zip",
+      "label": "Agress - Missile Daisenryaku",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/aquarium.zip",
+      "label": "Aquarium",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Puzzle/atomicp.zip",
+      "label": "Atomic Point",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/ballbros.zip",
+      "label": "Balloon Brothers",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/bangball.zip",
+      "label": "Bang Bang Ball",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Puzzle/barrier.zip",
+      "label": "Barrier",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Puzzle/beezer.zip",
+      "label": "Beezer",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Puzzle/blktouch.zip",
+      "label": "Black Touch",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/blockhl.zip",
+      "label": "Block Hole",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/blockout.zip",
+      "label": "Block Out",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Puzzle/bloxeed.zip",
+      "label": "Bloxeed",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/cachat.zip",
+      "label": "Cachat",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Puzzle/cameltry.zip",
+      "label": "Cameltry",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/canvas.zip",
+      "label": "Canvas Croquis",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Puzzle/carrera.zip",
+      "label": "Carrera",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/chainrec.zip",
+      "label": "Chain Reaction",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/checkman.zip",
+      "label": "Check Man",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Puzzle/cfarm.zip",
+      "label": "Chicken Farm",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Puzzle/cshift.zip",
+      "label": "Chicken Shift",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Puzzle/chinatwn.zip",
+      "label": "China Town",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Puzzle/cleopatr.zip",
+      "label": "Cleopatra Fortune",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/columns.zip",
+      "label": "Columns",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/columns2.zip",
+      "label": "Columns II: The Voyage Through Time",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/cookbib.zip",
+      "label": "Cookie & Bibi",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/cookbib2.zip",
+      "label": "Cookie & Bibi 2",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/cookbib3.zip",
+      "label": "Cookie & Bibi 3",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Puzzle/cgangpzl.zip",
+      "label": "Cosmo Gang: the Puzzle",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/crospang.zip",
+      "label": "Cross Pang",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/cuebrick.zip",
+      "label": "Cue Brick",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Puzzle/daitorid.zip",
+      "label": "Daitoride",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Puzzle/deroon.zip",
+      "label": "Deroon DeroDero",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/cdiscon1.zip",
+      "label": "Disco No.1",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/dolmen.zip",
+      "label": "Dolmen",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbalpha2012/Puzzle/dw2001.zip",
+      "label": "Dragon World 2001",
+      "core_path": "/tmp/cores/fbalpha2012_libretro.so",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/drgw3.zip",
+      "label": "Dragon World 3",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/dwex.zip",
+      "label": "Dragon World 3 EX",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbalpha2012/Puzzle/drgw2.zip",
+      "label": "Dragon World II",
+      "core_path": "/tmp/cores/fbalpha2012_libretro.so",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/dremshpr.zip",
+      "label": "Dream Shopper",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/egghunt.zip",
+      "label": "Egg Hunt",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Puzzle/emeralda.zip",
+      "label": "Emeraldia",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Puzzle/filetto.zip",
+      "label": "Filetto",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/finalttr.zip",
+      "label": "Final Tetris",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Puzzle/fpoint.zip",
+      "label": "Flash Point",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Puzzle/freezeat.zip",
+      "label": "Freeze",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/ghostlop.zip",
+      "label": "Ghostlop",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/gulunpa.zip",
+      "label": "Gulun.Pa!",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/gururin.zip",
+      "label": "Gururin",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Puzzle/gutsn.zip",
+      "label": "Guts'n",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Puzzle/pbancho.zip",
+      "label": "Gyakuten!! Puzzle Bancho",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Puzzle/hasamu.zip",
+      "label": "Hasamu",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/htchctch.zip",
+      "label": "Hatch Catch",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/hatris.zip",
+      "label": "Hatris",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/heberpop.zip",
+      "label": "Hebereke no Popoon",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/hexion.zip",
+      "label": "Hexion",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/hotmind.zip",
+      "label": "Hot Mind",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/iqblock.zip",
+      "label": "IQ-Block",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/itaten.zip",
+      "label": "Itazura Tenshi",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/jin.zip",
+      "label": "Jin",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/karianx.zip",
+      "label": "Karian Cross",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/klax.zip",
+      "label": "Klax",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Puzzle/eto.zip",
+      "label": "Kokontouzai Eto Monogatari",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Puzzle/lastfort.zip",
+      "label": "Last Fortress - Toride",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/lemmings.zip",
+      "label": "Lemmings",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/liblrabl.zip",
+      "label": "Libble Rabble",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/locomotn.zip",
+      "label": "Loco-Motion",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/logicpro.zip",
+      "label": "Logic Pro",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/logicpr2.zip",
+      "label": "Logic Pro 2",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/lotlot.zip",
+      "label": "Lot Lot",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/magicbub.zip",
+      "label": "Magic Bubble",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/magdrop2.zip",
+      "label": "Magical Drop II",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/magdrop3.zip",
+      "label": "Magical Drop III",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/magerror.zip",
+      "label": "Magical Error wo Sagase",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/mangchi.zip",
+      "label": "Mang-Chi",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/maniacsq.zip",
+      "label": "Maniac Square",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/manybloc.zip",
+      "label": "Many Block",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/matchit.zip",
+      "label": "Match It",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/kikcubic.zip",
+      "label": "Meikyu Jima",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/mmonkey.zip",
+      "label": "Minky Monkey",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/miexchng.zip",
+      "label": "Money Puzzle Exchanger",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Puzzle/mslider.zip",
+      "label": "Monster Slider",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/mosaic.zip",
+      "label": "Mosaic",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/motos.zip",
+      "label": "Motos",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Puzzle/mouja.zip",
+      "label": "Mouja",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/msgogo.zip",
+      "label": "Mouse Shooter GoGo",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/mrdig.zip",
+      "label": "Mr. Dig",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/mrjong.zip",
+      "label": "Mr. Jong",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/naname.zip",
+      "label": "Naname de Magic!",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Puzzle/nratechu.zip",
+      "label": "Neratte Chu",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/newxpang.zip",
+      "label": "New Cross Pang",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Puzzle/noahsark.zip",
+      "label": "Noah's Ark",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/ohmygod.zip",
+      "label": "Oh My God!",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/oisipuzl.zip",
+      "label": "Oishii Puzzle Ha Irimasenka",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/orbs.zip",
+      "label": "Orbs",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Puzzle/pntnpuzl.zip",
+      "label": "Paint 'N Puzzle",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/pairsred.zip",
+      "label": "Pairs Redemption",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/palamed.zip",
+      "label": "Palamedes",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/panicbom.zip",
+      "label": "Panic Bomber",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Puzzle/panicstr.zip",
+      "label": "Panic Street",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbalpha2012/Puzzle/photoy2k.zip",
+      "label": "Photo Y2K",
+      "core_path": "/tmp/cores/fbalpha2012_libretro.so",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/py2k2.zip",
+      "label": "Photo Y2K 2",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/phozon.zip",
+      "label": "Phozon",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/pickin.zip",
+      "label": "Pickin'",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/pipedrm.zip",
+      "label": "Pipe Dream",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Puzzle/pipeline.zip",
+      "label": "Pipeline",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/pitapat.zip",
+      "label": "Pitapat Puzzle",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/plotting.zip",
+      "label": "Plotting",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/pnickj.zip",
+      "label": "Pnickies",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/pnyaa.zip",
+      "label": "Pochi and Nyaa",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Puzzle/poitto.zip",
+      "label": "Poitto!",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Puzzle/popnpop.zip",
+      "label": "Pop'n Pop",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/potopoto.zip",
+      "label": "Poto Poto",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Puzzle/pururun.zip",
+      "label": "Pururun",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/puyo.zip",
+      "label": "Puyo Puyo",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/puyopuy2.zip",
+      "label": "Puyo Puyo 2",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Puzzle/puzzloop.zip",
+      "label": "Puzz Loop",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/pzloop2.zip",
+      "label": "Puzz Loop 2",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/pbobblen.zip",
+      "label": "Puzzle Bobble",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/pbobbl2n.zip",
+      "label": "Puzzle Bobble 2",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Puzzle/pbobble3.zip",
+      "label": "Puzzle Bobble 3",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Puzzle/pbobble4.zip",
+      "label": "Puzzle Bobble 4",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/puzlclub.zip",
+      "label": "Puzzle Club",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Puzzle/pzlbowl.zip",
+      "label": "Puzzle De Bowling",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/puzzledp.zip",
+      "label": "Puzzle De Pon!",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Puzzle/puzlstar.zip",
+      "label": "Puzzle Star",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/uopoko.zip",
+      "label": "Puzzle Uo Poko",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/joyjoy.zip",
+      "label": "Puzzled",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Puzzle/puzzli.zip",
+      "label": "Puzzli",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbalpha2012/Puzzle/puzzli2.zip",
+      "label": "Puzzli 2",
+      "core_path": "/tmp/cores/fbalpha2012_libretro.so",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/qix.zip",
+      "label": "Qix",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/qix2.zip",
+      "label": "Qix II",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/quantum.zip",
+      "label": "Quantum",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Puzzle/qwak.zip",
+      "label": "Qwak",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/riskchal.zip",
+      "label": "Risky Challenge",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Puzzle/rolcrush.zip",
+      "label": "Rolling Crush",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbalpha2012/Puzzle/ryukyu.zip",
+      "label": "RyuKyu",
+      "core_path": "/tmp/cores/fbalpha2012_libretro.so",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/searchey.zip",
+      "label": "Search Eye",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/searchp2.zip",
+      "label": "Search Eye Plus",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Puzzle/senknow.zip",
+      "label": "Sen-Know",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Puzzle/senkyu.zip",
+      "label": "Senkyu",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Puzzle/shanghai.zip",
+      "label": "Shanghai",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Puzzle/shangha2.zip",
+      "label": "Shanghai II",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/shangha3.zip",
+      "label": "Shanghai III",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Puzzle/sindbadm.zip",
+      "label": "Sindbad Mystery",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Puzzle/soldam.zip",
+      "label": "Soldam",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/solomon.zip",
+      "label": "Solomon's Key",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/sparkz.zip",
+      "label": "Sparkz",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/spdcoin.zip",
+      "label": "Speed Coin",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/stkclmns.zip",
+      "label": "Stack Columns",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Puzzle/steelwkr.zip",
+      "label": "Steel Worker",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Puzzle/spf2t.zip",
+      "label": "Super Puzzle Fighter II Turbo",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Puzzle/sqix.zip",
+      "label": "Super Qix",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/sshangha.zip",
+      "label": "Super Shanghai Dragon's Eye",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Puzzle/tokkae.zip",
+      "label": "Taisen Tokkae-dama",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/tekipaki.zip",
+      "label": "Teki Paki",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/atetris.zip",
+      "label": "Tetris (Atari)",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Puzzle/phtetris.zip",
+      "label": "Tetris (Photon System)",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/tetris.zip",
+      "label": "Tetris (Sega)",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Puzzle/tetrisp.zip",
+      "label": "Tetris Plus",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/tetrisp2.zip",
+      "label": "Tetris Plus 2",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Puzzle/tgm2.zip",
+      "label": "Tetris: The Absolute - The Grand Master 2",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Puzzle/tkmmpzdm.zip",
+      "label": "Tokimeki Memorial Taisen Puzzle-dama",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Puzzle/toride2g.zip",
+      "label": "Toride II Adauchi Gaiden",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Puzzle/toryumon.zip",
+      "label": "Toryumon",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Puzzle/twinqix.zip",
+      "label": "Twin Qix",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Puzzle/twins.zip",
+      "label": "Twins",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/volfied.zip",
+      "label": "Volfied",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Puzzle/cluclu.zip",
+      "label": "Vs. Clu Clu Land",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Puzzle/drmario.zip",
+      "label": "Vs. Dr. Mario",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Puzzle/vstetris.zip",
+      "label": "Vs. Tetris",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/watrball.zip",
+      "label": "Water Balls",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/welltris.zip",
+      "label": "Welltris",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/xorworld.zip",
+      "label": "Xor World",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/xyonix.zip",
+      "label": "Xyonix",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Puzzle/zintrckb.zip",
+      "label": "Zintrick",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Puzzle.lpl"
+    }
+  ]
+}

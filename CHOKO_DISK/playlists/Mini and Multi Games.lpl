@@ -1,0 +1,300 @@
+{
+  "version": "1.5",
+  "default_core_path": "/tmp/cores/fbneo_libretro.so",
+  "default_core_name": "Arcade (FinalBurn Neo)",
+  "base_content_directory": "/storage/roms",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/storage/roms/fbneo/Mini and Multi Games/4in1.zip",
+      "label": "4 Fun in 1",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Mini and Multi Games.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Mini and Multi Games/arcadecl.zip",
+      "label": "Arcade Classics",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Mini and Multi Games.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Mini and Multi Games/bestri.zip",
+      "label": "Bestri",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Mini and Multi Games.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Mini and Multi Games/cham24.zip",
+      "label": "Chameleon 24",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Mini and Multi Games.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Mini and Multi Games/decomult.zip",
+      "label": "Deco Cassette System Multigame",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Mini and Multi Games.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Mini and Multi Games/galgame2.zip",
+      "label": "Galaxy Games StarPak 2",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Mini and Multi Games.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Mini and Multi Games/gmgalax.zip",
+      "label": "Ghostmuncher Galaxian",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Mini and Multi Games.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Mini and Multi Games/invds.zip",
+      "label": "Invinco & Deep Scan",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Mini and Multi Games.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Mini and Multi Games/20pacgal.zip",
+      "label": "Ms. Pac-Man & Galaga",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Mini and Multi Games.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Mini and Multi Games/ncv1.zip",
+      "label": "Namco Classic Collection Vol.1",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Mini and Multi Games.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Mini and Multi Games/ncv2.zip",
+      "label": "Namco Classic Collection Vol.2",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Mini and Multi Games.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Mini and Multi Games/3in1semi.zip",
+      "label": "New HyperMan",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Mini and Multi Games.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Mini and Multi Games/25pacmano.zip",
+      "label": "Pac-Man - 25th Anniversary Edition",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Mini and Multi Games.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Mini and Multi Games/polyplay.zip",
+      "label": "Poly-Play",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Mini and Multi Games.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Mini and Multi Games/4in1boot.zip",
+      "label": "Puzzle King",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Mini and Multi Games.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Mini and Multi Games/rollingc.zip",
+      "label": "Rolling Crash",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Mini and Multi Games.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Mini and Multi Games/sspacaho.zip",
+      "label": "Space Attack",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Mini and Multi Games.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Mini and Multi Games/supergm3.zip",
+      "label": "Super Game III",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Mini and Multi Games.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Mini and Multi Games/3wonders.zip",
+      "label": "Three Wonders",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Mini and Multi Games.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Mini and Multi Games/trisport.zip",
+      "label": "Tri-Sports",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Mini and Multi Games.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Mini and Multi Games/bishi.zip",
+      "label": "Bishi Bashi Championship Mini Game Senshuken",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Mini and Multi Games.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Mini and Multi Games/tron.zip",
+      "label": "Tron",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Mini and Multi Games.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Mini and Multi Games/bcstry.zip",
+      "label": "B.C. Story",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Mini and Multi Games.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Mini and Multi Games/qcrayon2.zip",
+      "label": "Crayon Shinchan Orato Asobo",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Mini and Multi Games.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Mini and Multi Games/daiskiss.zip",
+      "label": "Daisu-Kiss",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Mini and Multi Games.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Mini and Multi Games/ginkun.zip",
+      "label": "Ganbare Ginkun",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Mini and Multi Games.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Mini and Multi Games/gotcha.zip",
+      "label": "Got-cha Mini Game Festival",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Mini and Multi Games.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Mini and Multi Games/moremore.zip",
+      "label": "More More",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Mini and Multi Games.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Mini and Multi Games/moremorp.zip",
+      "label": "More More Plus",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Mini and Multi Games.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Mini and Multi Games/multchmp.zip",
+      "label": "Multi Champ",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Mini and Multi Games.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Mini and Multi Games/ichir.zip",
+      "label": "Puzzle & Action: Ichidant-R",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Mini and Multi Games.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Mini and Multi Games/tantr.zip",
+      "label": "Puzzle & Action: Tant-R",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Mini and Multi Games.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Mini and Multi Games/puzzlove.zip",
+      "label": "PuzzLove",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Mini and Multi Games.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Mini and Multi Games/sotsugyo.zip",
+      "label": "Sotsugyo Shousho",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Mini and Multi Games.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Mini and Multi Games/sbishi.zip",
+      "label": "Super Bishi Bashi Championship",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Mini and Multi Games.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Mini and Multi Games/twinadv.zip",
+      "label": "Twin Adventure",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Mini and Multi Games.lpl"
+    }
+  ]
+}

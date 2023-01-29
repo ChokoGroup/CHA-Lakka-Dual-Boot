@@ -1,31 +1,29 @@
-If you're looking for the "CHA-Lakka Installer and Updater" it evolved to https://github.com/ChokoGroup/CHA-Multi-OS-Boot
+### CHA - Lakka - Playlists by Genre
 
 ##
-# This repository is not updated to work with the new "Multi OS builds"!
-##
-# CHA - Lakka - Playlists by Genre
 This pack has two folders:
-- CHA_LAKKA (with playlists by genre and thumbnails - VERY INCOMPLETE)
+- CHA_LAKKA (with playlists by genre and thumbnails - still missing "Shooter" and "Sport" games)
 - CHA_LAKKA_EMPTY (with a script to create RetroArch Customized Playlists, optionally with thumbnails)
 
-Honestly, this is more like a backup repository until all the playlists and thumbnails are finished.
+This playlists are designed to work with the (not so) new "Multi OS builds" in https://github.com/ChokoGroup/CHA-Multi-OS-Boot
 
 
 ### Goal
-We can run Lakka in our Capcom Home Arcades but without playlists and thumbnails, a very important slice is missing.
+We can run Lakka in our Capcom Home Arcades but without playlists and thumbnails, a very important part of the experience is missing.
 The primary goal is to create a set of playlists with thumbnails of games sorted by genre.
 
 A script was made to easily create playlists from a set of ROMs (*.zip format) in several folders and subfolders and also get the thumbnails from the assets previosly downloaded from https://www.progettosnaps.net
-They are meant to be used in Lakka, running in Capcom Home Arcade (hence the folder named CHA_LAKKA, so it can be loaded from USB or copied to internal memory or SD card) but should work with other ReatroArch installations with little (or even no) changes.
+They are meant to be used in Lakka, running in Capcom Home Arcade.
+They can be loaded from USB or copied to internal memory or SD card, and should work with other ReatroArch installations with little (or even no) changes.
 
 
 ### How to use the existing playlists - Loading from USB
-1. Make sure your drive is in a supported format, like FAT32.
+1. Make sure your drive is in a supported format, like FAT32 or EXT4.
 
-2. Make sure the label of your pendrive is "CHOKO" - this is because Lakka mounts USB drives under /storage/roms/ using the label. 
+2. Make sure the label of your pendrive is "CHOKO_DISK". 
 In Windows, you can change the label of your pendrive by right-clicking in the drive letter and select "Rename".
 
-3. Copy the folder CHA_LAKKA to the root of your CHOKO pendrive. It doesn't need to be empty, you can have other folders.
+3. Copy the content of the folder CHOKO_DISK to the root of your CHOKO_DISK pendrive.
 
 4. You need to put the ROMs in *.zip format, in folders inside 'CHA_LAKKA/roms'. It isn't easy to put all the right roms in the right place, but there are lists inside the folder "roms".
 
@@ -39,9 +37,9 @@ In Windows, you can change the label of your pendrive by right-clicking in the d
 
 2. From your PC, navigate directly to Lakka's Samba share by entering "\\lakka\" in the file browser. If you cannot reach the Lakka system by name, it may be possible to reach it by IP.
 
-3. Copy the content of the folder "CHA_LAKKA/assets (SD card)" to the folder "\\lakka\Assets".
+3. Copy the content of the folder "CHA_LAKKA/assets" to the folder "\\lakka\Assets".
 
-4. Copy the content of the folder "CHA_LAKKA/playlists (SD card)" to the folder "\\lakka\Playlists".
+4. Copy the content of the folder "CHA_LAKKA/playlists" to the folder "\\lakka\Playlists".
 
 5. Copy the content of the folder "CHA_LAKKA/roms" to the folder "\\lakka\roms".
 

@@ -1,0 +1,359 @@
+### MAME 2003+ (romset 0.78+)
+### folder "mame"
+Arcade - Pinball\gcpinbal.zip
+Arcade - Pinball\vspinbal.zip
+Ball and Paddle\arkanoid.zip
+Ball and Paddle\arknoid2.zip
+Ball and Paddle\avalnche.zip
+Ball and Paddle\bombbee.zip
+Ball and Paddle\circus.zip
+Ball and Paddle\clowns.zip
+Ball and Paddle\ghox.zip
+Ball and Paddle\gnbarich.zip
+Ball and Paddle\gypsyjug.zip
+Ball and Paddle\offtwall.zip
+Ball and Paddle\peggle.zip
+Ball and Paddle\playball.zip
+Ball and Paddle\plumppop.zip
+Ball and Paddle\quester.zip
+Ball and Paddle\sbrkout.zip
+Ball and Paddle\sflush.zip
+Ball and Paddle\snakjack.zip
+Ball and Paddle\wallst.zip
+Ball and Paddle\warlords.zip
+Climbing\angelkds.zip
+Climbing\cclimber.zip
+Climbing\cclimbr2.zip
+Climbing\firetrap.zip
+Climbing\rockclim.zip
+Driving\apb.zip
+Driving\bigrun.zip
+Driving\bounty.zip
+Driving\carjmbre.zip
+Driving\chqflag.zip
+Driving\cischeat.zip
+Driving\csprint.zip
+Driving\demoderb.zip
+Driving\excitebk.zip
+Driving\f1dream.zip
+Driving\f1en.zip
+Driving\f1gp.zip
+Driving\f1gpstar.zip
+Driving\f1lap.zip
+Driving\firetrk.zip
+Driving\fourtrax.zip
+Driving\grudge.zip
+Driving\hotchase.zip
+Driving\indyheat.zip
+Driving\jcross.zip
+Driving\joyfulr.zip
+Driving\luckywld.zip
+Driving\montecar.zip
+Driving\offroad.zip
+Driving\offroadt.zip
+Driving\orunners.zip
+Driving\radm.zip
+Driving\rallybik.zip
+Driving\redlin2p.zip
+Driving\roadriot.zip
+Driving\speedfrk.zip
+Driving\sprint1.zip
+Driving\sprint4.zip
+Driving\sprint8.zip
+Driving\ssprint.zip
+Driving\ssrj.zip
+Driving\stocker.zip
+Driving\superbug.zip
+Driving\tugboat.zip
+Driving\wgp.zip
+Fighter\asterix.zip
+Fighter\battlcry.zip
+Fighter\bmaster.zip
+Fighter\brutforc.zip
+Fighter\btoads.zip
+Fighter\captaven.zip
+Fighter\crimfght.zip
+Fighter\denjinmk.zip
+Fighter\dino.zip
+Fighter\djboy.zip
+Fighter\edrandy.zip
+Fighter\ga2.zip
+Fighter\goldnaxe.zip
+Fighter\grdians.zip
+Fighter\growl.zip
+Fighter\guardian.zip
+Fighter\hangzo.zip
+Fighter\hook.zip
+Fighter\loht.zip
+Fighter\metamrph.zip
+Fighter\mystwarr.zip
+Fighter\ncombat.zip
+Fighter\ninclown.zip
+Fighter\ninjak.zip
+Fighter\ninjaw.zip
+Fighter\nspirit.zip
+Fighter\pulirula.zip
+Fighter\riotcity.zip
+Fighter\robocop2.zip
+Fighter\samurai.zip
+Fighter\shadfrce.zip
+Fighter\shadoww.zip
+Fighter\silentd.zip
+Fighter\silkroad.zip
+Fighter\simps2pj.zip
+Fighter\skullxbo.zip
+Fighter\snakepit.zip
+Fighter\splatter.zip
+Fighter\tmnt.zip
+Fighter\tmnt2.zip
+Fighter\uccopsar.zip
+Fighter\vendetta.zip
+Fighter\viostorm.zip
+Fighter\warrior.zip
+Fighter\warriorb.zip
+Fighter\wizdfire.zip
+Fighter\xmen.zip
+Fighter - Versus\avengrgs.zip
+Fighter - Versus\bloodwar.zip
+Fighter - Versus\cutefght.zip
+Fighter - Versus\cybots.zip
+Fighter - Versus\dbz.zip
+Fighter - Versus\dbz2.zip
+Fighter - Versus\dinorex.zip
+Fighter - Versus\drgnmst.zip
+Fighter - Versus\dstlk.zip
+Fighter - Versus\fitfight.zip
+Fighter - Versus\gundamex.zip
+Fighter - Versus\gunmast.zip
+Fighter - Versus\hippodrm.zip
+Fighter - Versus\histryma.zip
+Fighter - Versus\holo.zip
+Fighter - Versus\karatour.zip
+Fighter - Versus\kchamp.zip
+Fighter - Versus\knckhead.zip
+Fighter - Versus\kof2000.zip
+Fighter - Versus\kof2001.zip
+Fighter - Versus\mk2.zip
+Fighter - Versus\mk3.zip
+Fighter - Versus\mmaulers.zip
+Fighter - Versus\mtlchamp.zip
+Fighter - Versus\mutantf.zip
+Fighter - Versus\mvsc.zip
+Fighter - Versus\mwarr.zip
+Fighter - Versus\pitfight.zip
+Fighter - Versus\rotd.zip
+Fighter - Versus\sfa2.zip
+Fighter - Versus\sgemf.zip
+Fighter - Versus\ssoldier.zip
+Fighter - Versus\tattass.zip
+Fighter - Versus\umk3.zip
+Fighter - Versus\vsav2.zip
+Fighter - Versus\xmcota.zip
+Fighter - Versus\xmvsf.zip
+Mature\3kokushi.zip
+Mature\drgnwrld.zip
+Mature\drgpunch.zip
+Mature\galpani4.zip
+Mature\galpanis.zip
+Mature\galpans2.zip
+Mature\gundealr.zip
+Mature\inca.zip
+Mature\ladykill.zip
+Mature\madball.zip
+Mature\maya.zip
+Mature\niyanpai.zip
+Mature\paradise.zip
+Mature\pcktgal.zip
+Mature\realbrk.zip
+Mature\rongrong.zip
+Mature\sexyparo.zip
+Mature\spbactn.zip
+Mature\splash.zip
+Mature\stoffy.zip
+Mature\torus.zip
+Maze\aliensyn.zip
+Maze\borench.zip
+Maze\bouldash.zip
+Maze\btlecity.zip
+Maze\crash.zip
+Maze\dazzler.zip
+Maze\dharma.zip
+Maze\dodgem.zip
+Maze\domino.zip
+Maze\dominos.zip
+Maze\embargo.zip
+Maze\eprom.zip
+Maze\exvania.zip
+Maze\gaunt22p.zip
+Maze\gaunt2p.zip
+Maze\gogomile.zip
+Maze\goldbug.zip
+Maze\hardhat.zip
+Maze\heiankyo.zip
+Maze\hero.zip
+Maze\indytemp.zip
+Maze\inferno.zip
+Maze\irrmaze.zip
+Maze\ladyfrog.zip
+Maze\lazercmd.zip
+Maze\losttomb.zip
+Maze\lrescue.zip
+Maze\lupin3.zip
+Maze\marble.zip
+Maze\monymony.zip
+Maze\mtrap.zip
+Maze\paperboy.zip
+Maze\pengo.zip
+Maze\pepper2.zip
+Maze\piratetr.zip
+Maze\puckpkmn.zip
+Maze\pulsar.zip
+Maze\quartet.zip
+Maze\robby.zip
+Maze\runaway.zip
+Maze\schaser.zip
+Maze\shackled.zip
+Maze\sidetrac.zip
+Maze\spectar.zip
+Maze\tankbatt.zip
+Maze\targ.zip
+Maze\thehand.zip
+Maze\tinklpit.zip
+Maze\toffy.zip
+Maze\toggle.zip
+Maze\tranqgun.zip
+Maze\tutankhm.zip
+Maze\venture.zip
+Maze\wow.zip
+Maze\yamyam.zip
+Mini and Multi Games\daiskiss.zip
+Mini and Multi Games\ichir.zip
+Mini and Multi Games\invds.zip
+Mini and Multi Games\polyplay.zip
+Mini and Multi Games\rollingc.zip
+Mini and Multi Games\tantr.zip
+Mini and Multi Games\trisport.zip
+Platform\altbeast.zip
+Platform\baddudes.zip
+Platform\balonfgt.zip
+Platform\batman.zip
+Platform\bayroute.zip
+Platform\beathead.zip
+Platform\benberob.zip
+Platform\berlwall.zip
+Platform\bigkarnk.zip
+Platform\blktiger.zip
+Platform\bnzabros.zip
+Platform\bonkadv.zip
+Platform\bonzeadv.zip
+Platform\bubblem.zip
+Platform\bublbob2.zip
+Platform\bublbobl.zip
+Platform\bublcave.zip
+Platform\cadash.zip
+Platform\cbuster.zip
+Platform\cninja.zip
+Platform\crimec.zip
+Platform\cstlevna.zip
+Platform\demonwld.zip
+Platform\dietgo.zip
+Platform\dondokod.zip
+Platform\dreamwld.zip
+Platform\dynagear.zip
+Platform\frogs.zip
+Platform\funkyjet.zip
+Platform\genpeitd.zip
+Platform\goonies.zip
+Platform\gunforc2.zip
+Platform\gunforce.zip
+Platform\hardhea2.zip
+Platform\hardhead.zip
+Platform\hharry.zip
+Platform\hunchbak.zip
+Platform\iceclimb.zip
+Platform\jackrabt.zip
+Platform\jajamaru.zip
+Platform\joust2.zip
+Platform\kaos.zip
+Platform\kurikint.zip
+Platform\leprechn.zip
+Platform\liquidk.zip
+Platform\loderndf.zip
+Platform\logger.zip
+Platform\mcatadv.zip
+Platform\mia.zip
+Platform\mirninja.zip
+Platform\monsterb.zip
+Platform\narc.zip
+Platform\nastar.zip
+Platform\pangpoms.zip
+Platform\panic.zip
+Platform\penbros.zip
+Platform\peterpak.zip
+Platform\pigout.zip
+Platform\psychos.zip
+Platform\rmpgwt.zip
+Platform\roadrunn.zip
+Platform\robocop.zip
+Platform\rohga.zip
+Platform\rthun2.zip
+Platform\secretag.zip
+Platform\shdancer.zip
+Platform\shinobi.zip
+Platform\spelunk2.zip
+Platform\spelunkr.zip
+Platform\ssriders.zip
+Platform\supbtime.zip
+Platform\suprmrio.zip
+Platform\thundfox.zip
+Platform\tumblep.zip
+Platform\wardner.zip
+Platform\wb3.zip
+Platform\wbml.zip
+Platform\wboy.zip
+Platform\wrecking.zip
+Platform\xenophob.zip
+Platform\xsleena.zip
+Puzzle\barrier.zip
+Puzzle\beezer.zip
+Puzzle\cameltry.zip
+Puzzle\cgangpzl.zip
+Puzzle\chinatwn.zip
+Puzzle\cleopatr.zip
+Puzzle\cluclu.zip
+Puzzle\cshift.zip
+Puzzle\daitorid.zip
+Puzzle\drmario.zip
+Puzzle\emeralda.zip
+Puzzle\eto.zip
+Puzzle\gutsn.zip
+Puzzle\hasamu.zip
+Puzzle\lastfort.zip
+Puzzle\mouja.zip
+Puzzle\panicstr.zip
+Puzzle\pbancho.zip
+Puzzle\pbobble3.zip
+Puzzle\pbobble4.zip
+Puzzle\poitto.zip
+Puzzle\popnpop.zip
+Puzzle\pururun.zip
+Puzzle\puzlstar.zip
+Puzzle\puzzli.zip
+Puzzle\puzzloop.zip
+Puzzle\pzlbowl.zip
+Puzzle\qwak.zip
+Puzzle\rolcrush.zip
+Puzzle\senknow.zip
+Puzzle\shangha2.zip
+Puzzle\shanghai.zip
+Puzzle\sindbadm.zip
+Puzzle\spf2t.zip
+Puzzle\steelwkr.zip
+Puzzle\tetrisp.zip
+Puzzle\tgm2.zip
+Puzzle\tkmmpzdm.zip
+Puzzle\tokkae.zip
+Puzzle\toride2g.zip
+Puzzle\toryumon.zip
+Puzzle\twinqix.zip
+Puzzle\vstetris.zip

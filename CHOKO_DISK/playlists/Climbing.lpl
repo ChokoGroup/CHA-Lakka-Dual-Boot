@@ -1,0 +1,76 @@
+{
+  "version": "1.5",
+  "default_core_path": "/tmp/cores/fbneo_libretro.so",
+  "default_core_name": "Arcade (FinalBurn Neo)",
+  "base_content_directory": "/storage/roms",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/storage/roms/mame/Climbing/angelkds.zip",
+      "label": "Angel Kids",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Climbing.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Climbing/birdiy.zip",
+      "label": "Birdiy",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Climbing.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Climbing/cclimber.zip",
+      "label": "Crazy Climber",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Climbing.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Climbing/cclimbr2.zip",
+      "label": "Crazy Climber 2",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Climbing.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Climbing/firetrap.zip",
+      "label": "Fire Trap",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Climbing.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Climbing/jack.zip",
+      "label": "Jack the Giantkiller",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Climbing.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Climbing/nob.zip",
+      "label": "Noboranka",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Climbing.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Climbing/rockclim.zip",
+      "label": "Rock Climber",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Climbing.lpl"
+    }
+  ]
+}

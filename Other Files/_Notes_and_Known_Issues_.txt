@@ -1,32 +1,27 @@
 ___ Ball and Paddle ___
 
+# Circus (circus)
+- Sample files in system/mame2003-plus/samples.
+
+# Ghox (ghox)
+- Sample files in system/mame2003-plus/samples. Sound stutters with FB Neo core.
+
 # Monkey Magic (mmagic)
 - Samples in system/fbneo/samples
 
-# Puchi Carat (puchicar)
-- Slow ~38 FPS with skip frames 3 out of 4.
-
 # Straight Flush (sflush)
-- No sound emulated, it's not a CHA problem.
+- No sound.
 
-# The Block Kuzushi (tblkkuzu)
-- Very slow ~22 FPS with frameskip 4.
 
-# VS Block Breaker (vblokbrk)
-- Very slow ~28 FPS with speed hack dipswitch.
+___ Climbing ___
 
+Some games use both joysticks (P1 for left arm, P2 for right arm).
 
 
 ___ Driving ___
 
-# Change Lanes (changela)
-- Screen is rotated.
-
-# Suzuka 8 Hours 2 (suzuk8h2)
-- Buggy sprites in mame2003-plus. Very slow in mame2010.
-
-# Turbo Tag (turbotag)
-- Controls not fully working?
+# Laguna Racer (lagunar)
+- No sound.
 
 # Turbo (turbo)
 - Samples in system/fbneo/samples
@@ -34,255 +29,40 @@ ___ Driving ___
 # Wheels & Fire (wheelfir)
 - No sound.
 
-# Super Chase - Criminal Termination (superchs)
-- Very Slow ~29 FPS (set skip frame to automatic).
-
-# GP Rider (gprider)
-- Very slow ~31 FPS (set skip frame to automatic).
-
-# Racing Hero (rachero)
-- Very slow ~29 FPS (~42 with skip frames 3 out of 4).
-
-# Stadium Cross (scross)
-- Very slow ~32 FPS (~37 with frameskip 2).
-
-# Double Axle (dblaxle)
-- Very slow ~30 FPS (~53 FPS with skip frame automatic).
-
-# Ground Effects (groundfx)
-- Very slow ~33 FPS (with frameskip 2).
-
-# Racing Beat (racingb)
-- Very slow ~38 FPS (~46 FPS with frameskip 2).
-
-# Rough Racer (roughrac)
-- Very slow ~30 FPS (~53 FPS with skip frame automatic).
-
-# Dirt Fox (dirtfoxj)
-- Slow ~36 FPS (~46 FPS with skip frames 3 out of 4).
-
-# Hot Rod (hotrod)
-- Very slow ~30 FPS (~37 FPS with skip frame 4).
-
-# Laguna Racer (lagunar)
-- No sound.
-
-# Super Speed Race (sspeedr)
-- No sound; Score/time not visible in MAME 2003 plus; can't accelerate in MAME 2010.
 
 
-
-___ Fighting ___
-
-# Age of Heroes - Silkroad 2 (aoh)
-- Very slow ~22 FPS.
-
-# Arabian Fight (arabfgt)
-- Slow ~42 FPS.
-
-# Arabian Magic (arabianm)
-- Slow ~35 FPS.
-
-# Big Fight - Big Trouble In The Atlantic Ocean (bigfight)
-- Very slow ~26 FPS (~35 FPS with skip frame 5).
-
-# Black Touch '96 (blackt96)
-- Very slow ~27 FPS in FB Neo; No sound in MAME 2010.
-
-# Final Fight 2 (ffight2b)
-- Very slow ~26 FPS in MAME 2010.
-
-# Ghost Chaser Densei (denseib)
-- Very slow ~19 FPS in MAME 2010.
+___ Fighter ___
 
 # Golden Axe: The Revenge of Death Adder (ga2)
 - Slow ~49 FPS in MAME 2003+.
 
-# Iron (iron)
-- Very slow ~22 FPS in MAME 2010.
-
-# Legend of Heroes (legendoh)
-- Very slow ~19 FPS in FB Neo; Very slow and no sound in MAME 2010.
-
-# Night Slashers (nslasher)
-- Slow ~31 FPS in FB Neo, ~51 FPS in MAME 2003+.
-
-# Ninja Baseball Bat Man (nbbatman)
-- Slow ~48 FPS in MAME 2010.
-
-# Sonic Blast Man 2 Special Turbo (sblast2b)
-- Very slow ~22 FPS in MAME 2010.
-
-# The Crystal of Kings (crysking)
-- Very slow 35~42 FPS in MAME 2010.
-
-# The Gladiator (theglad)
-- Slow 35~42 FPS.
-
 # Tough Turf (US set) (tturfu)
 - Slow 39~42 FPS in FB Neo; Parent set has no sound in MAME 2003+/FB Alpha 2012.
 
-# Vamf x1/2 (vamphalf)
-- Very slow ~28 FPS.
 
-# Zero Team USA (zeroteam)
-- Slow 41~44 FPS.
 
-# Lightning Swords (ltswords)
-- Slow 29~32 FPS.
-
-# Judge Dredd (jdreddp)
-- Very slow 33~36 FPS.
-
-# Shingen Samurai-Fighter (tshingen)
-- Slow 48 FPS in MAME 2003+.
-
-# Gaiapolis (gaiapols)
-- Slow 42~60 FPS in MAME 2003+; error loading in FB Neo.
-
-# Riding Fight (ridingf)
-- Very slow 31~33 FPS in MAME 2003+.
-
-# Alien Challenge (aliencha)
-- Slow 45~48 FPS.
-
-# Battle Arena Toshinden 2 (ts2)
-- Super slow 18~22 FPS in MAME 2010.
-
-# Beastorizer (beastrzr)
-- Super slow 16 FPS in MAME 2010.
+___ Fighter - Versus ___
 
 # Blood Warrior (bloodwar)
 - Some graphic bugs in MAME 2003+; ~50 FPS in MAME 2010.
 
-# Bloody Roar 2 (bldyror2)
-- Super slow 10 FPS in MAME 2010.
-
-# Burning Rival (brival)
-- Very slow 38~41 FPS in MAME 2003+.
-
-# Command War - Super Special Battle & War Game (commandw)
-- Very slow 28~33 FPS in MAME 2003+.
-
-# Dan-Ku-Ga (dankuga)
-- Very slow ~33 FPS in MAME 2003+.
-
-# Daraku Tenshi - The Fallen Angels (daraku)
-- Slow 35~49 FPS in FB Alpha 2012.
-
-# Dark Edge (darkedge)
-- Very slow ~22 FPS in MAME 2010.
-
-# Dead Or Alive ++ (doapp)
-- Super slow ~13 FPS in MAME 2010.
-
-# Dragon Ball Z V.R.V.S. (dbzvrvs)
-- Very slow ~25 FPS in MAME 2010.
-
-# Dragoon Might (dragoonj)
-- Very slow 37~40 FPS in MAME 2003+.
-
-# Ehrgeiz (ehrgeiz)
-- Super slow 7~10 FPS in MAME 2010.
-
-# Fighter's History (fghthist)
-- Slow 39~44 FPS in MAME 2003+.
-
-# Fighters' Impact A (ftimpcta)
-- Super slow ~9 FPS in MAME 2010.
-
-# Fighting Layer (fgtlayer)
-- Super slow ~12 FPS in MAME 2010.
-
 # Fit of Fighting (fitfight)
-- No sound emulated, it's not a CHA problem.
-
-# Heaven's Gate (hvnsgate)
-- Very slow ~22 FPS in MAME 2010.
+- No sound.
 
 # Holosseum (holo)
 - Slow ~50 FPS in MAME 2003+.
 
-# Jackie Chan - The Kung-Fu Master (jchan)
-- Slow ~39 FPS in MAME 2010.
-
-# Jackie Chan in Fists of Fire (jchan2)
-- Slow ~39 FPS in MAME 2010.
-
-# Kaiser Knuckle (kaiserkn)
-- Slow ~32 FPS in MAME 2003+.
-
 # Mortal Kombat (mk)
 - Just a bit slow ~40 FPS.
-
-# Plasma Sword: Nightmare of Bilstein (plsmaswd)
-- Very slow ~13 FPS in MAME 2010.
-
-# Primal Rage (primrage)
-- Very slow ~24 FPS in MAME 2003+.
-
-# Psychic Force (psyforce)
-- Very slow ~23 FPS in MAME 2010.
-
-# Rabbit (rabbit)
-- Slow ~41 FPS in FB Neo. No sound in MAME 2010.
 
 # Rage of the Dragons (rotd)
 - Bugged graphics in FB Neo.
 
-# Rival Schools: United By Fate (rvschool)
-- Super slow 9~12 FPS in MAME 2010.
-
-# S.V.G. - Spectral vs Generation (svg)
-- Very slow ~31 FPS in FB Neo.
-
-# Schmeiser Robo (schmeisr)
-- Slow 44~50 FPS in FB Neo.
-
-# Soul Calibur (soulclbr)
-- Super slow 9~12 FPS in MAME 2010.
-
-# Soul Edge Ver. II (souledge)
-- Super slow ~15 FPS in MAME 2010.
-
-# Star Gladiator Episode I: Final Crusade (starglad)
-- Super slow ~15 FPS in MAME 2010.
-
-# Street Fighter EX (sfex)
-- Super slow ~17 FPS in MAME 2010.
-
-# Street Fighter EX Plus (sfexp)
-- Super slow ~15 FPS in MAME 2010.
-
-# Street Fighter EX2 (sfex2)
-- Super slow ~13 FPS in MAME 2010.
-
-# Street Fighter EX2 Plus (sfex2p)
-- Super slow ~13 FPS in MAME 2010.
-
-# Street Fighter: The Movie (sftm)
-- Slow ~32 FPS in FB Neo.
-
 # Survival Arts (survarts)
 - Slow 48~50 FPS in FB Neo.
 
-# Tekken (tekken)
-- Very slow ~17 FPS in MAME 2010.
-
-# Tekken 2 Ver. B (tekken2)
-- Very slow ~16 FPS in MAME 2010.
-
-# Tekken 3 (tekken3)
-- Super slow ~10 FPS in MAME 2010.
-
-# Tekken Tag Tournament (tektagt)
-- Very slow ~13 FPS in MAME 2010.
-
 # The History of Martial Arts (histryma)
-- No sound emulated, it's not a CHA problem.
-
-# The Killing Blade Plus (killbldp)
-- Slow ~32 FPS in FB Neo.
+- No sound.
 
 # The King of Fighters 2000 (kof2000)
 - Bugged graphics in FB Neo.
@@ -296,55 +76,219 @@ ___ Fighting ___
 # Ultimate Mortal Kombat 3 (umk3)
 - Doesn't feel slow 47~52 FPS in MAME 2003+.
 
-# Vampire Hunter 2: Darkstalkers Revenge (vhunt2)
-- Need to confirm corrupted graphics flashes on TV...
-
-# Virtua Fighter (vf)
-- Very slow ~21 FPS in MAME 2003+.
-
 
 
 ___ Mature ___
 
-# Pang Pang Car (ppcar)
-- Super slow ~8 FPS in MAME 2010; no sound.
-
-# Games V25.4X (usgames)
-- Bugged graphics in FB Neo.
-
 # Erotictac (ertictac)
-- No sound emulated, it's not a CHA problem.
-
-# Steal See (stealsee)
-- Super slow ~10 FPS in FB Neo.
-
-# The X-Files (xfiles)
-- Very slow ~12 FPS in MAME 2010 and no sound.
-
-# Zhongguo Long Pretty Chance (dwpc)
-- No sound during gameplay, it's not a CHA problem.
-
-# Dancing Eyes (danceyes)
-- Very slow ~14 FPS in MAME 2010.
-
-# Gals Panic 3 (galpani3)
-- Slow ~29 FPS in FB Neo.
-
-# Gals Panic S3 (galpans3)
-- Very slow ~18 FPS in FB Neo; Crashes in MAME 2010.
-
-# Land Breaker (landbrk)
-- Super slow ~10 FPS in FB Neo.
-
-# Penfan Girls - Step1. Mild Mind (penfan)
-- Super slow ~14 FPS in FB Neo.
+- No sound.
 
 # Puzzlet (puzzlet)
-- No sound during gameplay, it's not a CHA problem.
+- No sound.
 
 # The Return of Lady Frog (roldfrog)
-- No sound during gameplay, it's not a CHA problem.
+- No sound.
 
-# Poke Champ (pokechmp)
-- Bugged graphics in MAME 2010.
+# Zhongguo Long Pretty Chance (dwpc)
+- No sound.
+
+
+
+___ Maze ___
+
+# 005 (005)
+- No sound in MAME 2003+; Samples in system/mame2010/samples
+
+# Alien Arena (alienar)
+- No sound.
+
+# Armor Attack (armora)
+- Samples in system/mame2010/samples
+
+# Digger (digger)
+- No sound.
+
+# Dodgem (dodgem)
+- No sound.
+
+# Dora-chan (dorachan)
+- No sound.
+
+# Dottori Kun (dotrikun)
+- No sound.
+
+# Embargo (embargo)
+- No sound.
+
+# Heiankyo Alien (heiankyo)
+- No sound.
+
+# Last Fighting (lastfght)
+- No sound.
+
+# Lunar Rescue (lrescue)
+- Sample files in system/mame2003-plus/samples.
+
+# Lupin III (lupin3)
+- Needs "invaders.zip" sample files in system/mame2003-plus/samples.
+
+# Marine Date (marinedt)
+- No sound emulated.
+
+# Pulsar (pulsar)
+- Sample files in system/mame2003-plus/samples.
+
+# Rally X (rallyx)
+- Samples in system/fbneo/samples
+
+# Safari Rally (safarir)
+- Samples in system/fbneo/samples
+
+# Star Trek (startrks)
+- No sound emulated in FB Neo(?).
+
+# Tank Battalion (tankbatt)
+- Sample files in system/mame2003-plus/samples.
+
+# Targ (targ)
+- Sample files in system/mame2003-plus/samples.
+
+# Tranquillizer Gun (tranqgun)
+- No sound.
+
+# Treasure Island (tisland)
+- Buggy graphics in MAME 2010, isung 'ctisland' instead (Cassete Deco version).
+
+# Wizard of Wor (wow)
+- Sample files in system/mame2003-plus/samples.
+
+
+
+___ Mini and Multi Games ___
+
+# Ghostmuncher Galaxian (gmgalax)
+- This game is a dual bootleg of "Pac-Man" and "Galaxian". You can change the game in the Dip Switch menu.
+
+# Invinco & Deep Scan (invds)
+- Button top right to swap games; Needs "invinco.zip" sample files in system/mame2003-plus/samples.
+
+# Invinco & Head On 2 (invho2)
+- Button top middle to swap games; Needs "invinco.zip" sample files in system/mame2003-plus/samples.
+
+# Marvel Land (marvland)
+- A bit slow ~51 FPS in MAME 2010.
+
+# Ninja Kazan (kazan)
+- A bit slow ~48 FPS in FB Neo.
+
+# Space Attack (sspacaho)
+- Button left bottom row to swap games.
+
+
+
+___ Platform ___
+
+# Alien Storm (astorm)
+- A bit slow ~42 FPS in MAME 2010.
+
+# Bonanza Bros (bnzabros)
+- A bit slow ~33 FPS in MAME 2003+.
+
+# Bubble Bobble II (bublbob2)
+- A bit slow ~41 FPS in MAME 2003+.
+
+# Bubble Memories: The Story Of Bubble Bobble III (bubblem)
+- A bit slow ~39 FPS in MAME 2003+.
+
+# Demon Front (dmnfrnt)
+- A bit slow ~42 FPS in FB Alpha 2012.
+
+# Finest Hour (finehour)
+- A bit slow ~47 FPS in MAME 2010.
+
+# Frogs (frogs)
+- Sample files in system/mame2003-plus/samples.
+
+# Michael Jackson's Moonwalker (mwalk)
+- Slow ~41 FPS in MAME 2010.
+
+# Midnight Resistance (midres)
+- A bit slow ~52 FPS in MAME 2010.
+
+# Narc (narc)
+- A bit slow ~37 FPS in MAME 2003+.
+
+# Rolling Thunder 2 (rthun2)
+- A bit slow ~42 FPS in MAME 2003+.
+
+# Sunset Riders (2 Players ver UBC) (ssridersubc)
+- This clone allows player to select character.
+
+# TH Strikes Back (thoop2)
+- A bit slow ~52 FPS in FB Neo.
+
+# Wild West C.O.W.-Boys of Moo Mesa (moomesa)
+- A bit slow ~37 FPS in FB Neo.
+
+
+___ Puzzle ___
+
+# Beezer (beezer)
+- No sound.
+
+# Deroon DeroDero (deroon)
+- A bit slow ~42 FPS in MAME 2010.
+
+# Dragon World 2001 (dw2001)
+- No sound during gameplay; Maybe in future update of FB Neo (a bit slow for now).
+
+# Dragon World 3 (drgw3)
+- A bit slow ~47 FPS in FB Neo.
+
+# Dragon World II (drgw2)
+- A bit slow ~44 FPS in FB Neo.
+
+# Freeze (freezeat)
+- A bit slow ~28-45 FPS in MAME 2010.
+
+# Guts'n (gutsn)
+- A bit slow ~41 FPS in MAME 2003+.
+
+# Last Fortress - Toride (lastfort)
+- A bit slow ~51 FPS in MAME 2003+.
+
+# New Cross Pang (newxpang)
+- A bit slow ~33 FPS in FB Neo.
+
+# Paint 'N Puzzle (pntnpuzl)
+- No sound.
+
+# Photo Y2K 2 (py2k2)
+- A bit slow ~41 FPS in FB Neo.
+
+# Pipeline (pipeline)
+- No sound in MAME 2010; has sound in MAME-current (needs 1 GB RAM).
+
+# Poitto! (poitto)
+- A bit slow ~51 FPS in MAME 2003+.
+
+# Pop'n Pop (popnpop)
+- A bit slow ~28 FPS in MAME 2003+.
+
+# Puzz Loop (puzzloop)
+- A bit slow ~32 FPS in MAME 2003+.
+
+# Puzzle Bobble 3 (pbobble3)
+- A bit slow ~30 FPS in MAME 2003+.
+
+# Puzzle Bobble 4 (pbobble4)
+- A bit slow ~35 FPS in MAME 2003+.
+
+# Puzzli (puzzli)
+- A bit slow ~45 FPS in MAME 2003+.
+
+# Risky Challenge (riskchal)
+- A bit slow ~52 FPS in FB Neo.
+
+
 

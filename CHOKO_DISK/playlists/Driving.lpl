@@ -1,0 +1,916 @@
+{
+  "version": "1.5",
+  "default_core_path": "/tmp/cores/fbneo_libretro.so",
+  "default_core_name": "Arcade (FinalBurn Neo)",
+  "base_content_directory": "/storage/roms",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/storage/roms/fbneo/Driving/gtmr2.zip",
+      "label": "1000 Miglia 2: Great 1000 Miles Rally",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Driving/gtmr.zip",
+      "label": "1000 Miglia: Great 1000 Miles Rally",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Driving/280zzzap.zip",
+      "label": "280-ZZZAP",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Driving/abcop.zip",
+      "label": "A.B. Cop",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Driving/amspdwy.zip",
+      "label": "American Speedway",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Driving/apb.zip",
+      "label": "APB - All Points Bulletin",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Driving/backfire.zip",
+      "label": "Backfire!",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Driving/badlands.zip",
+      "label": "Bad Lands",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Driving/bigrun.zip",
+      "label": "Big Run",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Driving/blmbycar.zip",
+      "label": "Blomby Car",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Driving/buggychl.zip",
+      "label": "Buggy Challenge",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Driving/brubber.zip",
+      "label": "Burnin' Rubber",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Driving/carjmbre.zip",
+      "label": "Car Jamboree",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Driving/csprint.zip",
+      "label": "Championship Sprint",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Driving/chasehq.zip",
+      "label": "Chase H.Q.",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Driving/chqflag.zip",
+      "label": "Chequered Flag",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Driving/cischeat.zip",
+      "label": "Cisco Heat",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Driving/clshroad.zip",
+      "label": "Clash-Road",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Driving/contcirc.zip",
+      "label": "Continental Circus",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Driving/crzrally.zip",
+      "label": "Crazy Rally",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Driving/indyheat.zip",
+      "label": "Danny Sullivan's Indy Heat",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Driving/demoderb.zip",
+      "label": "Demolition Derby",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Driving/dragrace.zip",
+      "label": "Drag Race",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Driving/driftout.zip",
+      "label": "Drift Out",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Driving/drifto94.zip",
+      "label": "Drift Out '94 - The Hard Order",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Driving/drivfrcp.zip",
+      "label": "Driving Force",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Driving/enduror.zip",
+      "label": "Enduro Racer",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Driving/f1dream.zip",
+      "label": "F-1 Dream",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Driving/f1gp.zip",
+      "label": "F-1 Grand Prix",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Driving/f1gp2.zip",
+      "label": "F-1 Grand Prix Part II",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Driving/f1gpstr2.zip",
+      "label": "F-1 Grand Prix Star II",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Driving/f1en.zip",
+      "label": "F1 Exhaust Note",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Driving/f1lap.zip",
+      "label": "F1 Super Lap",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Driving/finallap.zip",
+      "label": "Final Lap",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Driving/finalap2.zip",
+      "label": "Final Lap 2",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Driving/finalap3.zip",
+      "label": "Final Lap 3",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Driving/firetrk.zip",
+      "label": "Fire Truck",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Driving/fourtrax.zip",
+      "label": "Four Trax",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Driving/gekisou.zip",
+      "label": "Gekisou",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Driving/grchamp.zip",
+      "label": "Grand Champion",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Driving/f1gpstar.zip",
+      "label": "Grand Prix Star",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Driving/grudge.zip",
+      "label": "Grudge Match",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Driving/hangon.zip",
+      "label": "Hang-On",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Driving/hangonjr.zip",
+      "label": "Hang-On Jr.",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Driving/hwrace.zip",
+      "label": "High Way Race",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Driving/hotchase.zip",
+      "label": "Hot Chase",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Driving/hcrash.zip",
+      "label": "Hyper Crash",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Driving/imolagp.zip",
+      "label": "Imola Grand Prix",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Driving/offroad.zip",
+      "label": "Ironman Ivan Stewart's Super Off-Road",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Driving/offroadt.zip",
+      "label": "Ironman Ivan Stewart's Super Off-Road Track-Pak",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Driving/joyfulr.zip",
+      "label": "Joyful Road",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Driving/jcross.zip",
+      "label": "Jumping Cross",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Driving/kickridr.zip",
+      "label": "Kick Rider",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Driving/kikstart.zip",
+      "label": "Kick Start - Wheelie King",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Driving/konamigt.zip",
+      "label": "Konami GT",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Driving/lagunar.zip",
+      "label": "Laguna Racer",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Driving/lastkm.zip",
+      "label": "Last KM",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Driving/leds2011.zip",
+      "label": "Led Storm Rally 2011",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Driving/crshrace.zip",
+      "label": "Lethal Crash Race",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Driving/luckywld.zip",
+      "label": "Lucky & Wild",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Driving/llander.zip",
+      "label": "Lunar Lander",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Driving/madgear.zip",
+      "label": "Mad Gear",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Driving/kamenrid.zip",
+      "label": "Masked Riders Club Battle Race",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Driving/maxrpm.zip",
+      "label": "Max RPM",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Driving/montecar.zip",
+      "label": "Monte Carlo",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Driving/neodrift.zip",
+      "label": "Neo Drift Out - New Technology",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Driving/nitedrvr.zip",
+      "label": "Night Driver",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Driving/outrun.zip",
+      "label": "Out Run",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Driving/orunners.zip",
+      "label": "OutRunners",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Driving/overtop.zip",
+      "label": "Over Top",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Driving/pitnrun.zip",
+      "label": "Pit & Run - F-1 Race",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Driving/polepos.zip",
+      "label": "Pole Position",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Driving/polepos2.zip",
+      "label": "Pole Position II",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Driving/pdrift.zip",
+      "label": "Power Drift",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Driving/powerdrv.zip",
+      "label": "Power Drive",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Driving/radm.zip",
+      "label": "Rad Mobile",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Driving/rallybik.zip",
+      "label": "Rally Bike",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Driving/redlin2p.zip",
+      "label": "Redline Racer",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Driving/ridhero.zip",
+      "label": "Riding Hero",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Driving/rpatrol.zip",
+      "label": "River Patrol",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Driving/roadf.zip",
+      "label": "Road Fighter",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Driving/roadriot.zip",
+      "label": "Road Riot 4WD",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Driving/rrreveng.zip",
+      "label": "Road Riot's Revenge",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Driving/roundup5.zip",
+      "label": "Round Up 5 - Super Delta Force",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Driving/shtrider.zip",
+      "label": "Shot Rider",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Driving/spcpostn.zip",
+      "label": "Space Position",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Driving/speedfrk.zip",
+      "label": "Speed Freak",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Driving/sprint1.zip",
+      "label": "Sprint 1",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Driving/sprint4.zip",
+      "label": "Sprint 4",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Driving/sprint8.zip",
+      "label": "Sprint 8",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Driving/stocker.zip",
+      "label": "Stocker",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Driving/superbug.zip",
+      "label": "Super Bug",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Driving/sprcros2.zip",
+      "label": "Super Cross II",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Driving/shangon.zip",
+      "label": "Super Hang-On",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Driving/smgp.zip",
+      "label": "Super Monaco GP",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Driving/ssrj.zip",
+      "label": "Super Speed Race Junior",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Driving/ssprint.zip",
+      "label": "Super Sprint",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Driving/suzuka8h.zip",
+      "label": "Suzuka 8 Hours",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Driving/tail2nos.zip",
+      "label": "Tail to Nose - Great Championship",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Driving/bounty.zip",
+      "label": "The Bounty",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Driving/trally.zip",
+      "label": "Thrash Rally",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Driving/topspeed.zip",
+      "label": "Top Speed",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Driving/travrusa.zip",
+      "label": "Traverse USA",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Driving/tugboat.zip",
+      "label": "Tugboat",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Driving/turbo.zip",
+      "label": "Turbo",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Driving/toutrun.zip",
+      "label": "Turbo Out Run",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Driving/excitebk.zip",
+      "label": "Vs. Excitebike",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Driving/wecleman.zip",
+      "label": "WEC Le Mans 24",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Driving/wheelfir.zip",
+      "label": "Wheels & Fire",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Driving/wheelrun.zip",
+      "label": "Wheels Runner",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Driving/wgp.zip",
+      "label": "World Grand Prix",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Driving/wrally.zip",
+      "label": "World Rally",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Driving/wrally2.zip",
+      "label": "World Rally 2: Twin Racing",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Driving.lpl"
+    }
+  ]
+}

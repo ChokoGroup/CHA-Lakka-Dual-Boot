@@ -1,0 +1,17 @@
+### FB Alpha 2012 (romset v0.2.97.29)
+### folder "fbalpha2012"
+Fighter\kov2p.zip
+Fighter\kovshp.zip
+Fighter\oldsplus.zip
+Fighter\orlegend.zip
+Fighter\tturfu.zip
+Fighter - Versus\asurabld.zip
+Fighter - Versus\asurabus.zip
+Fighter - Versus\killbld.zip
+Fighter - Versus\martmast.zip
+Platform\dmnfrnt.zip
+Puzzle\drgw2.zip
+Puzzle\dw2001.zip
+Puzzle\photoy2k.zip
+Puzzle\puzzli2.zip
+Puzzle\ryukyu.zip

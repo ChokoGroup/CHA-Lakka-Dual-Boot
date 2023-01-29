@@ -1,0 +1,2396 @@
+{
+  "version": "1.5",
+  "default_core_path": "/tmp/cores/fbneo_libretro.so",
+  "default_core_name": "Arcade (FinalBurn Neo)",
+  "base_content_directory": "/storage/roms",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/storage/roms/mame/Platform/benberob.zip",
+      "label": "Ben Bero Beh",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/bnzabros.zip",
+      "label": "Bonanza Bros",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/complexx.zip",
+      "label": "Complex X",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/elevator.zip",
+      "label": "Elevator Action",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/firebeas.zip",
+      "label": "Firebeast",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/monsterb.zip",
+      "label": "Monster Bash",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/teddybb.zip",
+      "label": "TeddyBoy Blues",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/timelimt.zip",
+      "label": "Time Limit",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/jajamaru.zip",
+      "label": "Vs. Ninja Jajamaru Kun",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/actfancr.zip",
+      "label": "Act-Fancer: Cybernetick Hyper Weapon",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Platform/astorm.zip",
+      "label": "Alien Storm",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/aliens.zip",
+      "label": "Aliens",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/bayroute.zip",
+      "label": "Bay Route",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/biomtoy.zip",
+      "label": "Biomechanical Toy",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/bionicc.zip",
+      "label": "Bionic Commando",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/bonzeadv.zip",
+      "label": "Bonze Adventure",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/cninja.zip",
+      "label": "Caveman Ninja",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/charlien.zip",
+      "label": "Charlie Ninja",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/chelnov.zip",
+      "label": "Chelnov - Atomic Runner",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/contra.zip",
+      "label": "Contra",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/cop01.zip",
+      "label": "Cop 01",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/crazyfgt.zip",
+      "label": "Crazy Fight",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/crimec.zip",
+      "label": "Crime City",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/cyberlip.zip",
+      "label": "Cyber-Lip",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbalpha2012/Platform/dmnfrnt.zip",
+      "label": "Demon Front",
+      "core_path": "/tmp/cores/fbalpha2012_libretro.so",
+      "core_name": "Arcade (FB Alpha 2012)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/demonwld.zip",
+      "label": "Demon's World",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Platform/eswat.zip",
+      "label": "E-Swat - Cyber Police",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/fantland.zip",
+      "label": "Fantasy Land",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Platform/finehour.zip",
+      "label": "Finest Hour",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/gberet.zip",
+      "label": "Green Beret",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/gunforc2.zip",
+      "label": "Gun Force II",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/gunforce.zip",
+      "label": "Gunforce - Battle Fire Engulfed Terror Island",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/ironhors.zip",
+      "label": "Iron Horse",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/jjsquawk.zip",
+      "label": "J. J. Squawkers",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/jailbrek.zip",
+      "label": "Jail Break",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/karnov.zip",
+      "label": "Karnov",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/mcatadv.zip",
+      "label": "Magical Cat Adventure",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/maglord.zip",
+      "label": "Magician Lord",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/mslug.zip",
+      "label": "Metal Slug - Super Vehicle-001",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/mslug2.zip",
+      "label": "Metal Slug 2",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/mslug3.zip",
+      "label": "Metal Slug 3",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/mslug4.zip",
+      "label": "Metal Slug 4",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/mslug5.zip",
+      "label": "Metal Slug 5",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/mslugx.zip",
+      "label": "Metal Slug X",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Platform/midres.zip",
+      "label": "Midnight Resistance",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/mirninja.zip",
+      "label": "Mirai Ninja",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/narc.zip",
+      "label": "Narc",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/ninjakd2.zip",
+      "label": "Ninja-Kid II",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/ninjakun.zip",
+      "label": "Ninjakun Majou no Bouken",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/oscar.zip",
+      "label": "Psycho-Nics Oscar",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/robocop.zip",
+      "label": "Robocop",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/rohga.zip",
+      "label": "Rohga Armor Force",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/rthunder.zip",
+      "label": "Rolling Thunder",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/rthun2.zip",
+      "label": "Rolling Thunder 2",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/grainbow.zip",
+      "label": "SD Gundam Sangokushi Rainbow Tairiku Senki",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/secretag.zip",
+      "label": "Secret Agent",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/shadowld.zip",
+      "label": "Shadowland",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/sonson.zip",
+      "label": "Son Son",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/sparkman.zip",
+      "label": "Spark Man",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Platform/ssridersubc.zip",
+      "label": "Sunset Riders (2 Players ver UBC)",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/ssriders.zip",
+      "label": "Sunset Riders (4 Players ver EAC)",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/scontra.zip",
+      "label": "Super Contra",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/sranger.zip",
+      "label": "Super Ranger",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/suratk.zip",
+      "label": "Surprise Attack",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/thoop2.zip",
+      "label": "TH Strikes Back",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/thoop.zip",
+      "label": "Thunder Hoop",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/toki.zip",
+      "label": "Toki",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/moomesa.zip",
+      "label": "Wild West C.O.W.-Boys of Moo Mesa",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/willow.zip",
+      "label": "Willow",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/wiz.zip",
+      "label": "Wiz",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/wboy.zip",
+      "label": "Wonder Boy",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/wb3.zip",
+      "label": "Wonder Boy III - Monster Lair",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/wbml.zip",
+      "label": "Wonder Boy in Monster Land",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/xsleena.zip",
+      "label": "Xain'd Sleena",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/xenophob.zip",
+      "label": "Xenophobe",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/alexkidd.zip",
+      "label": "Alex Kidd: The Lost Stars",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/bonkadv.zip",
+      "label": "B.C. Kid",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/bongo.zip",
+      "label": "Bongo",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Platform/brod.zip",
+      "label": "Brodjaga",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/circusc.zip",
+      "label": "Circus Charlie",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/cyclemb.zip",
+      "label": "Cycle Maabou",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/evilston.zip",
+      "label": "Evil Stone",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/hardhead.zip",
+      "label": "Hard Head",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/hardhea2.zip",
+      "label": "Hard Head 2",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/hunchbak.zip",
+      "label": "Hunchback",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/jumpbug.zip",
+      "label": "Jump Bug",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/junglek.zip",
+      "label": "Jungle King",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Platform/konek.zip",
+      "label": "Konek-Gorbunok",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/metrocrs.zip",
+      "label": "Metro-Cross",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/pacland.zip",
+      "label": "Pac-Land",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/pengadvb.zip",
+      "label": "Penguin Adventure",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/piratpet.zip",
+      "label": "Pirate Pete",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/pitfall2.zip",
+      "label": "Pitfall II",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/redrobin.zip",
+      "label": "Red Robin",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/roadrunn.zip",
+      "label": "Road Runner",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Platform/sosterm.zip",
+      "label": "S.O.S.",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/snapjack.zip",
+      "label": "Snap Jack",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/spelunkr.zip",
+      "label": "Spelunker",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/spelunk2.zip",
+      "label": "Spelunker II - 23 no Kagi",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/suprridr.zip",
+      "label": "Super Rider",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/suprtrio.zip",
+      "label": "Super Trio",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/tnzs.zip",
+      "label": "The NewZealand Story",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Platform/toprollr.zip",
+      "label": "Top Roller",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/trckydoc.zip",
+      "label": "Tricky Doc",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/suprmrio.zip",
+      "label": "Vs. Super Mario Bros.",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/goonies.zip",
+      "label": "Vs. The Goonies",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/wilytowr.zip",
+      "label": "Wily Tower",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/arabian.zip",
+      "label": "Arabian",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/bagman.zip",
+      "label": "Bagman",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/baluba.zip",
+      "label": "Baluba-louk no Densetsu",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/b2b.zip",
+      "label": "Bang Bang Busters",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/beathead.zip",
+      "label": "BeatHead",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/boggy84.zip",
+      "label": "Boggy '84",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/bombjack.zip",
+      "label": "Bomb Jack",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/bjtwin.zip",
+      "label": "Bombjack Twin",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/bublbobl.zip",
+      "label": "Bubble Bobble",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/bublbob2.zip",
+      "label": "Bubble Bobble II",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/bublcave.zip",
+      "label": "Bubble Bobble: Lost Cave",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/bubblem.zip",
+      "label": "Bubble Memories: The Story Of Bubble Bobble III",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/btime.zip",
+      "label": "Burger Time",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/chaknpop.zip",
+      "label": "Chack'n Pop",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/chameleo.zip",
+      "label": "Chameleon",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/citycon.zip",
+      "label": "City Connection",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/toto.zip",
+      "label": "Come Back Toto",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/congo.zip",
+      "label": "Congo Bongo",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/ckong.zip",
+      "label": "Crazy Kong",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/ckongpt2.zip",
+      "label": "Crazy Kong Part II",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/darktowr.zip",
+      "label": "Dark Tower",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/dietgo.zip",
+      "label": "Diet Go Go",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/diverboy.zip",
+      "label": "Diver Boy",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/dockman.zip",
+      "label": "Dock Man",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Platform/dokidoki.zip",
+      "label": "Doki Doki Penguin Land",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/dondokod.zip",
+      "label": "Don Doko Don",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/dkong.zip",
+      "label": "Donkey Kong",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/dkong3.zip",
+      "label": "Donkey Kong 3",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/dkongf.zip",
+      "label": "Donkey Kong Foundry",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/dkongx11.zip",
+      "label": "Donkey Kong II: Jumpman Returns",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/dkongjr.zip",
+      "label": "Donkey Kong Junior",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/dkongpe.zip",
+      "label": "Donkey Kong: Pauline Edition",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/drmicro.zip",
+      "label": "Dr. Micro",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/dreamwld.zip",
+      "label": "Dream World",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/eeekk.zip",
+      "label": "Eeekk!",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/fncywld.zip",
+      "label": "Fancy World - Earth of Crisis",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/sqbert.zip",
+      "label": "Faster, Harder, More Challenging Q*bert",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/flicky.zip",
+      "label": "Flicky",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/frogs.zip",
+      "label": "Frogs",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/funkyjet.zip",
+      "label": "Funky Jet",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/sgladiat.zip",
+      "label": "Gladiator 1984",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/hedpanic.zip",
+      "label": "Head Panic",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/hopprobo.zip",
+      "label": "Hopper Robo",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/hopmappy.zip",
+      "label": "Hopping Mappy",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/jackrabt.zip",
+      "label": "Jack Rabbit",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/joemacr.zip",
+      "label": "Joe & Mac Returns",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/joust.zip",
+      "label": "Joust",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/joust2.zip",
+      "label": "Joust 2 - Survival of the Fittest",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/jumpcoas.zip",
+      "label": "Jump Coaster",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/jumpkids.zip",
+      "label": "Jump Kids",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/jumpkun.zip",
+      "label": "Jump Kun",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/jjack.zip",
+      "label": "Jumping Jack",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/jumppop.zip",
+      "label": "Jumping Pop",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/kangaroo.zip",
+      "label": "Kangaroo",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/kaos.zip",
+      "label": "Kaos",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/keroppi.zip",
+      "label": "Kero Kero Keroppi's Let's Play Together",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/kong.zip",
+      "label": "Kong",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/leprechn.zip",
+      "label": "Leprechaun",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/levers.zip",
+      "label": "Levers",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/ldrun.zip",
+      "label": "Lode Runner",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/loderndf.zip",
+      "label": "Lode Runner - The Dig Fight",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/ldrun2.zip",
+      "label": "Lode Runner II - The Bungeling Strikes Back",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/ldrun3.zip",
+      "label": "Lode Runner III - The Golden Labyrinth",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/ldrun4.zip",
+      "label": "Lode Runner IV - Teikoku Karano Dasshutsu",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/logger.zip",
+      "label": "Logger",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/magipur.zip",
+      "label": "Magic Purple",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/mappy.zip",
+      "label": "Mappy",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/mario.zip",
+      "label": "Mario Bros.",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/metlsavr.zip",
+      "label": "Metal Saver",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/momoko.zip",
+      "label": "Momoko 120%",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/mouser.zip",
+      "label": "Mouser",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/docastle.zip",
+      "label": "Mr. Do's Castle",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/dowild.zip",
+      "label": "Mr. Do's Wild Ride",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/mrkougar.zip",
+      "label": "Mr. Kougar",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/nmouse.zip",
+      "label": "Naughty Mouse",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/nitd.zip",
+      "label": "Nightmare in the Dark",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/pandoras.zip",
+      "label": "Pandora's Palace",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/pangpoms.zip",
+      "label": "Pang Pom's",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/penbros.zip",
+      "label": "Penguin Brothers",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/peterpak.zip",
+      "label": "Peter Pack Rat",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/cppicf.zip",
+      "label": "Peter Pepper's Ice Cream Factory",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Platform/pignewt.zip",
+      "label": "Pig Newton",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/pigout.zip",
+      "label": "Pig Out: Dine Like a Swine!",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/ponpoko.zip",
+      "label": "Ponpoko",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/popeye.zip",
+      "label": "Popeye",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/popper.zip",
+      "label": "Popper",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/qbert.zip",
+      "label": "Q*bert",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/qbertqub.zip",
+      "label": "Q*bert's Qubes",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/rbisland.zip",
+      "label": "Rainbow Islands",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/rbislande.zip",
+      "label": "Rainbow Islands - Extra Version",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/rocnrope.zip",
+      "label": "Roc'n Rope",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/rodland.zip",
+      "label": "Rod-Land",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/sabotenb.zip",
+      "label": "Saboten Bombers",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/snowbros.zip",
+      "label": "Snow Bros. - Nick & Tom",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/snowbro2.zip",
+      "label": "Snow Bros. 2 - With New Elves",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/snowbro3.zip",
+      "label": "Snow Brothers 3 - Magical Adventure",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/sokonuke.zip",
+      "label": "Sokonuke Taisen Game",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/panic.zip",
+      "label": "Space Panic",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/springer.zip",
+      "label": "Springer",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/sbagman.zip",
+      "label": "Super Bagman",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/sboblbobla.zip",
+      "label": "Super Bobble Bobble",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/sbubsm.zip",
+      "label": "Super Bubble Bobble",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/supbtime.zip",
+      "label": "Super Burger Time",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/suprglob.zip",
+      "label": "Super Glob",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/suprmous.zip",
+      "label": "Super Mouse",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/tangtang.zip",
+      "label": "Tang Tang",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/tapper.zip",
+      "label": "Tapper",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/mrflea.zip",
+      "label": "The Amazing Adventures of Mr. F. Lea",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/berlwall.zip",
+      "label": "The Berlin Wall",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/flstory.zip",
+      "label": "The FairyLand Story",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/timber.zip",
+      "label": "Timber",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/toppyrap.zip",
+      "label": "Toppy & Rappy",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/tumblep.zip",
+      "label": "Tumble Pop",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/uballoon.zip",
+      "label": "Ultra Balloon",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/vidvince.zip",
+      "label": "Video Vince and the Game Factory",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/balonfgt.zip",
+      "label": "Vs. Balloon Fight",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Platform/vsgshoe.zip",
+      "label": "Vs. Gumshoe",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/iceclimb.zip",
+      "label": "Vs. Ice Climber",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/wrecking.zip",
+      "label": "Vs. Wrecking Crew",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/woodpeck.zip",
+      "label": "Woodpecker",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/zookeep.zip",
+      "label": "Zoo Keeper",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/zupapa.zip",
+      "label": "Zupapa!",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Platform/zwackery.zip",
+      "label": "Zwackery",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/grasspin.zip",
+      "label": "Grasspin",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/bogeyman.zip",
+      "label": "Bogey Manor",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/chinagat.zip",
+      "label": "China Gate",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/kicker.zip",
+      "label": "Kicker",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/kncljoe.zip",
+      "label": "Knuckle Joe",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/kungfut.zip",
+      "label": "Kung-Fu Taikun",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/rampage.zip",
+      "label": "Rampage",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/rmpgwt.zip",
+      "label": "Rampage: World Tour",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/altbeast.zip",
+      "label": "Altered Beast",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/athena.zip",
+      "label": "Athena",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Platform/avspirit.zip",
+      "label": "Avenging Spirit",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/baddudes.zip",
+      "label": "Bad Dudes vs. Dragonninja",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/batman.zip",
+      "label": "Batman",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/berabohm.zip",
+      "label": "Beraboh Man",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/bigkarnk.zip",
+      "label": "Big Karnak",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/blkpnthr.zip",
+      "label": "Black Panther",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/blktiger.zip",
+      "label": "Black Tiger",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/bjourney.zip",
+      "label": "Blue's Journey",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/bombkick.zip",
+      "label": "Bomb Kick",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/cadash.zip",
+      "label": "Cadash",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/csilver.zip",
+      "label": "Captain Silver",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/galivan.zip",
+      "label": "Cosmo Police Galivan",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/cbuster.zip",
+      "label": "Crude Buster",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/drgnbstr.zip",
+      "label": "Dragon Buster",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/drgnunit.zip",
+      "label": "Dragon Unit",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/dynagear.zip",
+      "label": "Dyna Gear",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/eightman.zip",
+      "label": "Eight Man",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/exprraid.zip",
+      "label": "Express Raider",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/ganryu.zip",
+      "label": "Ganryu",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/genpeitd.zip",
+      "label": "Genpei ToumaDen",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/gng.zip",
+      "label": "Ghosts'n Goblins",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/ghouls.zip",
+      "label": "Ghouls'n Ghosts",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/ginganin.zip",
+      "label": "Ginga NinkyouDen",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/hharry.zip",
+      "label": "Hammerin' Harry",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/hcastle.zip",
+      "label": "Haunted Castle",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/kidniki.zip",
+      "label": "Kid Niki - Radical Ninja",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/kurikint.zip",
+      "label": "Kuri Kinton",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/ladymstr.zip",
+      "label": "Lady Master of Kung Fu",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/liquidk.zip",
+      "label": "Liquid Kids",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/mia.zip",
+      "label": "M.I.A. - Missing in Action",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/msword.zip",
+      "label": "Magic Sword: Heroic Fantasy",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Platform/marvland.zip",
+      "label": "Marvel Land",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/mtwins.zip",
+      "label": "Mega Twins",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Platform/mwalk.zip",
+      "label": "Michael Jackson's Moonwalker",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/mrgoemon.zip",
+      "label": "Mr. Goemon",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/nastar.zip",
+      "label": "Nastar",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/nemo.zip",
+      "label": "Nemo",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/kazan.zip",
+      "label": "Ninja Kazan",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/osman.zip",
+      "label": "Osman",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/psychic5.zip",
+      "label": "Psychic 5",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/psychos.zip",
+      "label": "Psycho Soldier",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/rastan.zip",
+      "label": "Rastan",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/rygar.zip",
+      "label": "Rygar",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/shdancer.zip",
+      "label": "Shadow Dancer",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/shinobi.zip",
+      "label": "Shinobi",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/spinmast.zip",
+      "label": "Spin Master",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/strider.zip",
+      "label": "Strider",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/astyanax.zip",
+      "label": "The Astyanax",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/darkmist.zip",
+      "label": "The Lost Castle In Darkmist",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/thundfox.zip",
+      "label": "Thunder Fox",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/tigeroad.zip",
+      "label": "Tiger Road",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/tophuntr.zip",
+      "label": "Top Hunter - Roddy & Cathy",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/triothep.zip",
+      "label": "Trio The Punch - Never Forget Me...",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/trojan.zip",
+      "label": "Trojan",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/vigilant.zip",
+      "label": "Vigilante",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/cstlevna.zip",
+      "label": "Vs. Castlevania",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Platform/wardner.zip",
+      "label": "Wardner",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Platform/wildfang.zip",
+      "label": "Wild Fang",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Platform.lpl"
+    }
+  ]
+}

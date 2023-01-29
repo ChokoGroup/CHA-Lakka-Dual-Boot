@@ -1,0 +1,468 @@
+{
+  "version": "1.5",
+  "default_core_path": "/tmp/cores/fbneo_libretro.so",
+  "default_core_name": "Arcade (FinalBurn Neo)",
+  "base_content_directory": "/storage/roms",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/storage/roms/mame/Ball and Paddle/arkanoid.zip",
+      "label": "Arkanoid",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Ball and Paddle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Ball and Paddle/arknoid2.zip",
+      "label": "Arkanoid - Revenge of DOH",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Ball and Paddle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Ball and Paddle/arkretrn.zip",
+      "label": "Arkanoid Returns",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Ball and Paddle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Ball and Paddle/avalnche.zip",
+      "label": "Avalanche",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Ball and Paddle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Ball and Paddle/balcube.zip",
+      "label": "Bal Cube",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Ball and Paddle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Ball and Paddle/block.zip",
+      "label": "Block Block",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Ball and Paddle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Ball and Paddle/blockcar.zip",
+      "label": "Block Carnival",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Ball and Paddle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Ball and Paddle/blocken.zip",
+      "label": "Blocken",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Ball and Paddle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Ball and Paddle/bombbee.zip",
+      "label": "Bomb Bee",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Ball and Paddle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Ball and Paddle/cannonbp.zip",
+      "label": "Cannon Ball",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Ball and Paddle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Ball and Paddle/cball.zip",
+      "label": "Cannonball",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Ball and Paddle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Ball and Paddle/circus.zip",
+      "label": "Circus",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Ball and Paddle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Ball and Paddle/clowns.zip",
+      "label": "Clowns",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Ball and Paddle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Ball and Paddle/cgraplop.zip",
+      "label": "Cluster Buster",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Ball and Paddle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Ball and Paddle/cclownz.zip",
+      "label": "Crazzy Clownz",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Ball and Paddle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Ball and Paddle/cubybop.zip",
+      "label": "Cuby Bop",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Ball and Paddle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Ball and Paddle/cutieq.zip",
+      "label": "Cutie Q",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Ball and Paddle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Ball and Paddle/dominob.zip",
+      "label": "Domino Block",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Ball and Paddle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Ball and Paddle/fgoal.zip",
+      "label": "Field Goal",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Ball and Paddle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Ball and Paddle/cflyball.zip",
+      "label": "Flying Ball",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Ball and Paddle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Ball and Paddle/freekick.zip",
+      "label": "Free Kick",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Ball and Paddle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Ball and Paddle/geebee.zip",
+      "label": "Gee Bee",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Ball and Paddle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Ball and Paddle/ghox.zip",
+      "label": "Ghox",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Ball and Paddle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Ball and Paddle/gigas.zip",
+      "label": "Gigas",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Ball and Paddle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Ball and Paddle/gigasm2.zip",
+      "label": "Gigas Mark II",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Ball and Paddle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Ball and Paddle/goindol.zip",
+      "label": "Goindol",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Ball and Paddle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Ball and Paddle/gnbarich.zip",
+      "label": "Gunbarich",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Ball and Paddle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Ball and Paddle/gypsyjug.zip",
+      "label": "Gypsy Juggler",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Ball and Paddle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Ball and Paddle/jmpbreak.zip",
+      "label": "Jumping Break",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Ball and Paddle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Ball and Paddle/jpopnics.zip",
+      "label": "Jumping Pop",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Ball and Paddle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Ball and Paddle/kick.zip",
+      "label": "Kick",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Ball and Paddle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Ball and Paddle/mmagic.zip",
+      "label": "Monkey Magic",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Ball and Paddle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Ball and Paddle/offtwall.zip",
+      "label": "Off the Wall",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Ball and Paddle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Ball and Paddle/omega.zip",
+      "label": "Omega",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Ball and Paddle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Ball and Paddle/packbang.zip",
+      "label": "Pack'n Bang Bang",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Ball and Paddle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Ball and Paddle/peggle.zip",
+      "label": "Peggle",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Ball and Paddle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Ball and Paddle/playball.zip",
+      "label": "PlayBall!",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Ball and Paddle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Ball and Paddle/plumppop.zip",
+      "label": "Plump Pop",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Ball and Paddle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Ball and Paddle/poosho.zip",
+      "label": "Poosho Poosho",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Ball and Paddle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Ball and Paddle/popbounc.zip",
+      "label": "Pop 'n Bounce",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Ball and Paddle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Ball and Paddle/powerbal.zip",
+      "label": "Power Balls",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Ball and Paddle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Ball and Paddle/pzlbreak.zip",
+      "label": "Puzzle Break",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Ball and Paddle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Ball and Paddle/quester.zip",
+      "label": "Quester",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Ball and Paddle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Ball and Paddle/reaktor.zip",
+      "label": "Reaktor",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Ball and Paddle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Ball and Paddle/ridleofp.zip",
+      "label": "Riddle of Pythagoras",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Ball and Paddle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Ball and Paddle/snakjack.zip",
+      "label": "Snacks'n Jaxson",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Ball and Paddle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Ball and Paddle/spacwalk.zip",
+      "label": "Space Walk",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Ball and Paddle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Ball and Paddle/sflush.zip",
+      "label": "Straight Flush",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Ball and Paddle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Ball and Paddle/sbrkout.zip",
+      "label": "Super Breakout",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Ball and Paddle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Ball and Paddle/sfkick.zip",
+      "label": "Super Free Kick",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Ball and Paddle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Ball and Paddle/thunderl.zip",
+      "label": "Thunder & Lightning",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Ball and Paddle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Ball and Paddle/arkatour.zip",
+      "label": "Tournament Arkanoid",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Ball and Paddle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Ball and Paddle/twinsqua.zip",
+      "label": "Twin Squash",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Ball and Paddle.lpl"
+    },
+    {
+      "path": "/storage/roms/fbneo/Ball and Paddle/wallc.zip",
+      "label": "Wall Crash",
+      "core_path": "/tmp/cores/fbneo_libretro.so",
+      "core_name": "Arcade (FinalBurn Neo)",
+      "crc32": "DETECT",
+      "db_name": "Ball and Paddle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Ball and Paddle/wallst.zip",
+      "label": "Wall Street",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Ball and Paddle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame/Ball and Paddle/warlords.zip",
+      "label": "Warlords",
+      "core_path": "/tmp/cores/mame2003_plus_libretro.so",
+      "core_name": "Arcade (MAME 2003-Plus)",
+      "crc32": "DETECT",
+      "db_name": "Ball and Paddle.lpl"
+    },
+    {
+      "path": "/storage/roms/mame2010/Ball and Paddle/wink.zip",
+      "label": "Wink",
+      "core_path": "/tmp/cores/mame2010_libretro.so",
+      "core_name": "Arcade (MAME 2010)",
+      "crc32": "DETECT",
+      "db_name": "Ball and Paddle.lpl"
+    }
+  ]
+}

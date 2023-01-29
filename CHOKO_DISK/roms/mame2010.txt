@@ -1,0 +1,118 @@
+### MAME 2010 (romset 0.139)
+### folder "mame2010"
+Arcade - Pinball\panicr.zip
+Ball and Paddle\cball.zip
+Ball and Paddle\cclownz.zip
+Ball and Paddle\dominob.zip
+Ball and Paddle\fgoal.zip
+Ball and Paddle\powerbal.zip
+Ball and Paddle\sfkick.zip
+Ball and Paddle\spacwalk.zip
+Ball and Paddle\twinsqua.zip
+Ball and Paddle\wink.zip
+Climbing\nob.zip
+Driving\280zzzap.zip
+Driving\abcop.zip
+Driving\dragrace.zip
+Driving\finalap2.zip
+Driving\finalap3.zip
+Driving\finallap.zip
+Driving\gekisou.zip
+Driving\grchamp.zip
+Driving\imolagp.zip
+Driving\lagunar.zip
+Driving\pdrift.zip
+Driving\polepos.zip
+Driving\polepos2.zip
+Driving\roundup5.zip
+Driving\rrreveng.zip
+Driving\smgp.zip
+Driving\sprcros2.zip
+Driving\suzuka8h.zip
+Driving\topspeed.zip
+Driving\wecleman.zip
+Driving\wheelfir.zip
+Fighter\cyclwarr.zip
+Fighter\ddcrew.zip
+Fighter\ddux.zip
+Fighter\hachoo.zip
+Fighter\mouseatk.zip
+Fighter - Versus\shogwarr.zip
+Fighter - Versus\solfigtr.zip
+Fighter - Versus\techromn.zip
+Mature\ddealer.zip
+Mature\ertictac.zip
+Mature\hotblock.zip
+Mature\jongbou.zip
+Mature\ohpaipee.zip
+Mature\pairsnb.zip
+Mature\para2dx.zip
+Mature\paradlx.zip
+Mature\perestro.zip
+Mature\pkgnshdx.zip
+Mature\puzzlet.zip
+Mature\pzletime.zip
+Mature\roldfrog.zip
+Mature\sliver.zip
+Mature\togenkyo.zip
+Mature\zipzap.zip
+Maze\005.zip
+Maze\armora.zip
+Maze\berenstn.zip
+Maze\checkmat.zip
+Maze\ddungeon.zip
+Maze\digger.zip
+Maze\diggerc.zip
+Maze\headon2.zip
+Maze\heartatk.zip
+Maze\koroleva.zip
+Maze\lastfght.zip
+Maze\marinedt.zip
+Maze\maze.zip
+Maze\mazeinv.zip
+Maze\phklad.zip
+Maze\phpython.zip
+Maze\radarzon.zip
+Maze\ssingles.zip
+Maze\talbot.zip
+Mini and Multi Games\cham24.zip
+Mini and Multi Games\galgame2.zip
+Mini and Multi Games\ncv1.zip
+Mini and Multi Games\ncv2.zip
+Mini and Multi Games\sspacaho.zip
+Mini and Multi Games\supergm3.zip
+Platform\astorm.zip
+Platform\avspirit.zip
+Platform\brod.zip
+Platform\dokidoki.zip
+Platform\eswat.zip
+Platform\finehour.zip
+Platform\konek.zip
+Platform\marvland.zip
+Platform\midres.zip
+Platform\mwalk.zip
+Platform\pignewt.zip
+Platform\sosterm.zip
+Platform\ssridersubc.zip
+Platform\toprollr.zip
+Platform\vsgshoe.zip
+Platform\zwackery.zip
+Puzzle\atomicp.zip
+Puzzle\blktouch.zip
+Puzzle\bloxeed.zip
+Puzzle\carrera.zip
+Puzzle\cfarm.zip
+Puzzle\deroon.zip
+Puzzle\filetto.zip
+Puzzle\fpoint.zip
+Puzzle\freezeat.zip
+Puzzle\mslider.zip
+Puzzle\noahsark.zip
+Puzzle\nratechu.zip
+Puzzle\phtetris.zip
+Puzzle\pipeline.zip
+Puzzle\pntnpuzl.zip
+Puzzle\senkyu.zip
+Puzzle\soldam.zip
+Puzzle\sqix.zip
+Puzzle\twins.zip
