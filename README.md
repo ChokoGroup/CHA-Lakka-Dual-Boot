@@ -50,14 +50,16 @@ In Windows, you can change the label of your pendrive by right-clicking in the d
 
 6. Replace the \*.zip files in the folders inside "\\\\lakka\\Roms" with the real ROMs. In this pack the files are "empty files".
 
-7. Copy the content of the folder "CHOKO_DISK/thumbnails" to the folder "\\\\lakka\\Thumbnails".
+7. If your roms do not include the BIOS files (this is usual to save space) you must copy them to the correct places ( https://www.lakka.tv/doc/BIOSes/ ).
 
-8. Some games need samples files for sound. They should be copied to each core folder under "\\\\lakka\\System" ( https://www.lakka.tv/doc/Accessing-Lakka-filesystem/ ).
+8. Copy the content of the folder "CHOKO_DISK/thumbnails" to the folder "\\\\lakka\\Thumbnails".
+
+9. Some games need samples files for sound. They should be copied to each core folder under "\\\\lakka\\System" ( https://www.lakka.tv/doc/Accessing-Lakka-filesystem/ ).
    They are listed in the file "Other Files/_Notes_and_Known_Issues_.txt"
 
-9. If you don't want the "double view" of snapshot and title screen, go into all subfolders under "\\\\lakka\\Thumbnails" and rename the folders 'Named_Titles_2' to 'Named_Titles'.
+10. If you don't want the "double view" of snapshot and title screen, go into all subfolders under "\\\\lakka\\Thumbnails" and rename the folders 'Named_Titles_2' to 'Named_Titles'.
 
-10. Reboot the CHA and enjoy!
+11. Reboot the CHA and enjoy!
 
 
 ### What is inside CHOKO_DISK_EMPTY?
