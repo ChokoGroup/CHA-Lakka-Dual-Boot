@@ -1,4 +1,4 @@
-### CHA - Lakka - Playlists by Genre
+# CHA - Lakka - Playlists by Genre
 
 ##
 This pack has two folders:
@@ -10,7 +10,7 @@ This playlists are designed to work with the (not so) new "Multi OS builds" in h
 
 ### Goal
 We can run Lakka in our Capcom Home Arcades but without playlists and thumbnails, a very important part of the experience is missing.
-The primary goal is to create a set of playlists with thumbnails of games sorted by genre.
+The primary goal is to create a set of playlists sorted by genre with thumbnails of games.
 
 A script was made to easily create playlists from a set of ROMs (*.zip format) in several folders and subfolders and also get the thumbnails from the assets previosly downloaded from https://www.progettosnaps.net
 They are meant to be used in Lakka, running in Capcom Home Arcade.
@@ -25,29 +25,39 @@ In Windows, you can change the label of your pendrive by right-clicking in the d
 
 3. Copy the content of the folder CHOKO_DISK to the root of your CHOKO_DISK pendrive.
 
-4. You need to put the ROMs in *.zip format, in folders inside 'CHOKO_DISK/roms'. It isn't easy to put all the right roms in the right place, but there are lists inside the folder "roms".
+4. Replace the \*.zip files in the folders inside 'roms' of the pendrive with the real ROMs. In this pack the files are "empty files".
 
-5. If you don't want the "double view" of snapshot and title screen, go into all subfolders under 'thumbnails' and replace the folders named 'Named_Titles' with those named 'Named_Titles_2'.
+5. If your roms do not include the BIOS files (this is usual to save space) you must copy them to the correct places ( https://www.lakka.tv/doc/BIOSes/ ).
 
-6. Now insert the pendrive in the USB EXT port of the CHA and boot into Lakka. Enjoy!
+6. Some games need samples files for sound. They should be copied to each core folder under "system" ( https://www.lakka.tv/doc/Accessing-Lakka-filesystem/ ).
+   They are listed in the file "Other Files/_Notes_and_Known_Issues_.txt"
+
+7. If you don't want the "double view" of snapshot and title screen, go into all subfolders under 'thumbnails' and rename the folders 'Named_Titles_2' to 'Named_Titles'.
+
+8. Now insert the pendrive in the USB EXT port of the CHA and boot into Lakka. Enjoy!
 
 
 ### How to use the existing playlists - Install in SD card
 1. Make sure your CHA is running Lakka and connected to your home WiFi.
 
-2. From your PC, navigate directly to Lakka's Samba share by entering "\\lakka\" in the file browser. If you cannot reach the Lakka system by name, it may be possible to reach it by IP.
+2. From your PC, navigate directly to Lakka's Samba share by entering "\\\\lakka\\" in the file browser. If you cannot reach the Lakka system by name, it may be possible to reach it by IP.
 
-3. Copy the content of the folder "CHOKO_DISK/assets" to the folder "\\lakka\Assets".
+3. Copy the content of the folder "CHOKO_DISK/assets" to the folder "\\\\lakka\\Assets".
 
-4. Copy the content of the folder "CHOKO_DISK/playlists" to the folder "\\lakka\Playlists".
+4. Copy the content of the folder "CHOKO_DISK/playlists" to the folder "\\\\lakka\\Playlists".
 
-5. Copy the content of the folder "CHOKO_DISK/roms" to the folder "\\lakka\roms".
+5. Copy the content of the folder "CHOKO_DISK/roms" to the folder "\\\\lakka\\Roms".
 
-6. Copy the content of the folder "CHOKO_DISK/thumbnails" to the folder "\\lakka\thumbnails".
+6. Replace the \*.zip files in the folders inside "\\\\lakka\\Roms" with the real ROMs. In this pack the files are "empty files".
 
-7. If you don't want the "double view" of snapshot and title screen, go into all subfolders under 'thumbnails' and replace the folders named 'Named_Titles' with those named 'Named_Titles_2'.
+7. Copy the content of the folder "CHOKO_DISK/thumbnails" to the folder "\\\\lakka\\Thumbnails".
 
-8. Reboot the CHA and enjoy!
+8. Some games need samples files for sound. They should be copied to each core folder under "\\\\lakka\\System" ( https://www.lakka.tv/doc/Accessing-Lakka-filesystem/ ).
+   They are listed in the file "Other Files/_Notes_and_Known_Issues_.txt"
+
+9. If you don't want the "double view" of snapshot and title screen, go into all subfolders under "\\\\lakka\\Thumbnails" and rename the folders 'Named_Titles_2' to 'Named_Titles'.
+
+10. Reboot the CHA and enjoy!
 
 
 ### What is inside CHOKO_DISK_EMPTY?
