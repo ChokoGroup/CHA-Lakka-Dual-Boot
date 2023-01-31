@@ -1,5 +1,8 @@
 # CHA - Lakka - Playlists by Genre
 
+https://user-images.githubusercontent.com/55603581/215767446-f821b518-94e5-4687-afaf-1e1752a24fb5.mp4
+
+
 ##
 This pack has two folders:
 - CHOKO_DISK (with playlists by genre and thumbnails - still missing "Shooter" and "Sport" games)
