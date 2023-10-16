@@ -3,6 +3,9 @@ ___ Ball and Paddle ___
 # Circus (circus)
 - Sample files in system/mame2003-plus/samples.
 
+# Grand Cross (gcpinbal)
+- Using buttons of P2 for righ hand buttons.
+
 # Ghox (ghox)
 - Sample files in system/mame2003-plus/samples. Sound stutters with FB Neo core.
 
@@ -51,6 +54,9 @@ ___ Fighter - Versus ___
 
 # Holosseum (holo)
 - Slow ~50 FPS in MAME 2003+.
+
+# Monster Maulers (mmaulers)
+- Just a bit slow ~40 FPS; Needs swapfile activated or 1 GB RAM.
 
 # Mortal Kombat (mk)
 - Just a bit slow ~40 FPS.
@@ -231,6 +237,7 @@ ___ Platform ___
 - A bit slow ~37 FPS in FB Neo.
 
 
+
 ___ Puzzle ___
 
 # Beezer (beezer)
@@ -267,7 +274,7 @@ ___ Puzzle ___
 - A bit slow ~41 FPS in FB Neo.
 
 # Pipeline (pipeline)
-- No sound in MAME 2010; has sound in MAME-current (needs 1 GB RAM).
+- No sound in MAME 2010; has sound in MAME-current (1 GB RAM hardmod recommended).
 
 # Poitto! (poitto)
 - A bit slow ~51 FPS in MAME 2003+.
@@ -291,4 +298,214 @@ ___ Puzzle ___
 - A bit slow ~52 FPS in FB Neo.
 
 
+
+___ Shooter ___
+
+# Bradley Trainer (bradley)
+- Not playable, controls use 10 buttons.
+
+# T-MEK (tmek)
+- Not playable, controls seems to need analog joystick. Also, ~20 FPS in MAME 2010.
+
+# Tank Battle (tankbatl)
+- Super slow, ~10 FPS in MAME 2010.
+
+# Battle of the Solar System (botss)
+- Super slow, ~13 FPS in MAME 2010.
+
+# Clay Shoot (clayshoo)
+- No sound in MAME 2003+ / MAME 2010.
+
+# Flame Gunner (flamegun)
+- Slow ~23 in MAME 2010 and seems to need analog joystick.
+
+# Hard Times (hrdtimes)
+- No sound in MAME 2033+ / MAME 2010; has sound in MAME-current (1 GB RAM hardmod recommended).
+
+# Inferno (minferno)
+- No sound. All white in MAME 2033+ / MAME 2010; has other colors in MAME-current.
+
+# Last Survivor (lastsurv)
+- Slow ~32 FPS in FB Neo.
+
+# Fortress 2 Blue Arcade (fort2b)
+- Very slow ~12 FPS in FB Neo; ~17 FPS and no sound in MAME 2010.
+
+# Burning Force (burnforc)
+- A bit slow ~39 FPS in MAME 2003+.
+
+# SDI - Strategic Defense Initiative (sdi)
+- A bit slow ~40 FPS in FB Neo.
+
+# Cyber Sled (cybsled)
+- Super slow, ~10 FPS in MAME 2010.
+
+# Galactic Storm (galastrm)
+- Very slow, ~12 FPS in MAME-current.
+
+# Road Blasters (roadblst)
+- A bit slow ~40 FPS in MAME 2010.
+
+# S.T.U.N. Runner (stunrun)
+- Slow ~27 FPS in MAME 2003+.
+
+# Special Criminal Investigation (sci)
+- A bit slow ~39 FPS in MAME 2003+.
+
+# Tokyo Wars (tokyowar)
+- Super slow, ~12 FPS in MAME 2010.
+
+# Turbo Sub (turbosub)
+- Super slow, ~10 FPS in MAME-current.
+
+# Superbike (superbik)
+- Buggy byke sound in MAME 2010, quiet bike in MAME 2003+. Slow, ~35 FPS in MAME-current.
+
+# Borderline (brdrline)
+- No sound in MAME 2010. Super slow, ~10 FPS in MAME-current.
+
+# Assault (assault)
+- A bit slow ~37 FPS in FB Neo. Control the tank using both joysticks.
+
+# Rescue Raider (rescraid)
+- Control the tank using both joysticks.
+
+# Clay Shoot (clayshoo)
+- No sound. Two players game.
+
+# Asteroids (asteroid)
+- Does not show how many coins (credits) but supports 2 players.
+
+# Aztarac (aztarac)
+- Only support 1 player in FB Neo. All MAME support 2 players but have controller issues.
+
+# Black Widow (bwidow)
+- Uses both joysticks, one for moving the spider and the other to shoot.
+
+# Boxing Bugs (boxingb)
+- Very slow ~12 FPS in MAME-current; No sound in MAME 2003+.
+
+# Demons & Dragons (demndrgn)
+- No sound working. Can't shoot in MAME-current.
+
+# Laser Battle (laserbat)
+- Slow ~21 FPS in MAME-current; Wrong colors in MAME 2010.
+
+# Orbit (orbit)
+- Not playable, requires numpad input to select game mode at start.
+
+# Rip Off (ripoff)
+- Sample files in system/mame2003-plus/samples.
+
+# Safari (safari)
+- No sound.
+
+# Solar Quest (solarq)
+- Sample files in system/mame2003-plus/samples.
+
+# Space Fury (spacfury)
+- Sample files in system/fbneo/samples.
+
+# Space Wars (spacewar)
+- Could not start game after coin input.
+
+# Star Castle (starcas)
+- Sample files in system/fbneo/samples.
+
+# Star Cruiser (starcrus)
+- Sample files in system/fbneo/samples.
+
+# Vortex (Vortex)
+- Hold fire to move space ship.
+
+# After Burner (aburner)
+- A bit slow ~46 FPS in MAME 2003+, ~34 in FB Neo.
+
+# After Burner II (aburner2)
+- A bit slow ~44 FPS in MAME 2003+, ~31 in FB Neo.
+
+# Air Combat (aircomb)
+- Super slow, ~10 FPS in MAME-current.
+
+# Air Combat 22 (airco22b)
+- Super slow, ~7 FPS in MAME-current and no sound.
+
+# Apache 3 (apache3)
+- Slow, ~27 FPS in MAME-current (faster in MAME 2010); buggy graphics.
+
+# Buck Rogers: Planet of Zoom (buckrog)
+- A bit slow, ~37 FPS in FB Neo; Sample files in system/fbneo/samples.
+
+# Galaxy Force 2 (gforce2)
+- Slow, ~21 FPS in FB Neo.
+
+# Night Striker (nightstr)
+- A bit slow, ~37 FPS in MAME 2010.
+
+# Solar Assault (slrasslt)
+- Super slow, ~6 FPS in MAME-current.
+
+# Starblade (starblad)
+- Super slow, ~6 FPS in MAME-current.
+
+# Steel Talons (steeltal)
+- Super slow, ~6 FPS in all MAME.
+
+# Thunder Ceptor (tceptor)
+- A bit slow ~46 FPS in FB Neo; can't set accelerator key in MAME 2003+.
+
+# Air Rescue (arescue)
+- Super slow, ~11 FPS in FB Neo; can't set controls in MAME 2003+.
+
+# Battle Shark (bshark)
+- A bit slow ~44 FPS in FB Neo.
+
+# Danger Zone (dangerz)
+- Hard to control, looks like it needs analog joysticks.
+
+# F-15 Strike Eagle (f15se)
+- Super slow, ~12 FPS in MAME 2010.
+
+# G-LOC Air Battle (gloc)
+- Very slow, ~25 FPS in FB Neo.
+
+# Lock-On (lockon)
+- Slow, ~25 FPS in FB Neo.
+
+# Space Lords (spclords)
+- A bit slow, ~30 FPS in MAME-current; can't set controls in MAME 2010.
+
+# Star Fire (starfire)
+- Super slow, ~8 FPS in MAME-current; no sound in MAME 2010/2003+.
+
+# Star Fire 2 (starfir2)
+- Super slow, ~8 FPS in MAME-current; no sound in MAME 2010/2003+.
+
+# Star Hawk (starhawk)
+- Very slow, ~9 FPS in MAME-current; rotated screen in MAME 2010; sample files in system/mame2015/samples.
+### MAME 2015 ###
+
+# Star Wars Arcade (swa)
+- Very slow, ~16 FPS in MAME 2010; super slow, ~8 FPS in MAME-current.
+
+# Strike Fighter (strkfgtr)
+- A bit slow ~36 FPS in MAME 2010; ~26 FPS in FB Neo.
+
+# Subroc-3D (subroc3d)
+- Sample files in system/fbneo/samples.
+
+# Tailgunner (tailg)
+- Sample files in system/mame2003-plus/samples.
+
+# Wing War (wingwar)
+- Very slow, ~18 FPS in MAME 2010.
+
+# Zero Target (zerotrgt)
+- A bit slow ~36 FPS in MAME 2010.
+
+# Future Spy (futspy)
+- Needs "zaxxon.zip" sample files in system/fbneo/samples.
+
+# Super Zaxxon (szaxxon)
+- Needs "zaxxon.zip" sample files in system/fbneo/samples.
 
